@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:06:04.049Z",
+    "questionId": 15793,
+    "question": "Spotify, Netflix, and Hulu are all examples of which kind of app?",
+    "answerCounts": [
+      {
+        "answerId": 48982,
+        "answer": "Games",
+        "correct": false,
+        "count": 1117
+      },
+      {
+        "answerId": 48983,
+        "answer": "Productivity",
+        "correct": false,
+        "count": 3139
+      },
+      {
+        "answerId": 48984,
+        "answer": "Media streaming",
+        "correct": true,
+        "count": 215474
+      }
+    ],
+    "advancingPlayersCount": 215474,
+    "eliminatedPlayersCount": 47623,
+    "youGotItRight": true,
+    "yourAnswerId": 48984,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:06:04.131Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:06:45.430Z",
+    "questionId": 15794,
+    "question": "Which of these is NOT a major part of our atmosphere?",
+    "answerCounts": [
+      {
+        "answerId": 48985,
+        "answer": "Oxygen",
+        "correct": false,
+        "count": 2582
+      },
+      {
+        "answerId": 48986,
+        "answer": "Freon",
+        "correct": true,
+        "count": 223899
+      },
+      {
+        "answerId": 48987,
+        "answer": "Nitrogen",
+        "correct": false,
+        "count": 5054
+      }
+    ],
+    "advancingPlayersCount": 223899,
+    "eliminatedPlayersCount": 16097,
+    "youGotItRight": true,
+    "yourAnswerId": 48986,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:06:45.478Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:07:32.983Z",
+    "questionId": 15795,
+    "question": "Which of these trees has white bark?",
+    "answerCounts": [
+      {
+        "answerId": 48988,
+        "answer": "California redwood",
+        "correct": false,
+        "count": 6969
+      },
+      {
+        "answerId": 48989,
+        "answer": "Paper birch",
+        "correct": true,
+        "count": 177801
+      },
+      {
+        "answerId": 48990,
+        "answer": "Japanese maple",
+        "correct": false,
+        "count": 37910
+      }
+    ],
+    "advancingPlayersCount": 177801,
+    "eliminatedPlayersCount": 48773,
+    "youGotItRight": true,
+    "yourAnswerId": 48989,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:07:33.032Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:08:26.884Z",
+    "questionId": 15796,
+    "question": "What is the combination of an exclamation mark and a question mark called?",
+    "answerCounts": [
+      {
+        "answerId": 48991,
+        "answer": "Interrobang",
+        "correct": true,
+        "count": 80030
+      },
+      {
+        "answerId": 48992,
+        "answer": "Question point",
+        "correct": false,
+        "count": 49299
+      },
+      {
+        "answerId": 48993,
+        "answer": "Quizimark",
+        "correct": false,
+        "count": 41570
+      }
+    ],
+    "advancingPlayersCount": 80030,
+    "eliminatedPlayersCount": 97771,
+    "youGotItRight": true,
+    "yourAnswerId": 48991,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:08:26.994Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:09:29.427Z",
+    "questionId": 15797,
+    "question": "Which superhero actor is nearly a foot taller than his comic book counterpart?",
+    "answerCounts": [
+      {
+        "answerId": 48994,
+        "answer": "Hugh Jackman",
+        "correct": true,
+        "count": 35971
+      },
+      {
+        "answerId": 48995,
+        "answer": "Ryan Reynolds",
+        "correct": false,
+        "count": 23508
+      },
+      {
+        "answerId": 48996,
+        "answer": "Christian Bale",
+        "correct": false,
+        "count": 16996
+      }
+    ],
+    "advancingPlayersCount": 35971,
+    "eliminatedPlayersCount": 44059,
+    "youGotItRight": false,
+    "yourAnswerId": 48996,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:09:29.726Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:12:02.621Z",
+    "questionId": 15798,
+    "question": "Before becoming a UCLA hoops legend, John Wooden coached at what college?",
+    "answerCounts": [
+      {
+        "answerId": 48997,
+        "answer": "Indiana State",
+        "correct": true,
+        "count": 15369
+      },
+      {
+        "answerId": 48998,
+        "answer": "San Francisco State",
+        "correct": false,
+        "count": 10000
+      },
+      {
+        "answerId": 48999,
+        "answer": "Duke",
+        "correct": false,
+        "count": 8668
+      }
+    ],
+    "advancingPlayersCount": 15369,
+    "eliminatedPlayersCount": 20602,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:12:02.685Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:12:59.351Z",
+    "questionId": 15799,
+    "question": "In which year did the American Revolution end?",
+    "answerCounts": [
+      {
+        "answerId": 49000,
+        "answer": "1767",
+        "correct": false,
+        "count": 1027
+      },
+      {
+        "answerId": 49001,
+        "answer": "1783",
+        "correct": true,
+        "count": 9194
+      },
+      {
+        "answerId": 49002,
+        "answer": "1776",
+        "correct": false,
+        "count": 4726
+      }
+    ],
+    "advancingPlayersCount": 9194,
+    "eliminatedPlayersCount": 6175,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:12:59.659Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:13:54.602Z",
+    "questionId": 15800,
+    "question": "Which country produces the most Robusta coffee in the world?",
+    "answerCounts": [
+      {
+        "answerId": 49003,
+        "answer": "Vietnam",
+        "correct": true,
+        "count": 1230
+      },
+      {
+        "answerId": 49004,
+        "answer": "Ethiopia",
+        "correct": false,
+        "count": 4185
+      },
+      {
+        "answerId": 49005,
+        "answer": "Brazil",
+        "correct": false,
+        "count": 3551
+      }
+    ],
+    "advancingPlayersCount": 1230,
+    "eliminatedPlayersCount": 7964,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:13:54.707Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:14:38.126Z",
+    "questionId": 15801,
+    "question": "What founding member of A Tribe Called Quest splits his time between music and a cooking career?",
+    "answerCounts": [
+      {
+        "answerId": 49006,
+        "answer": "Jarobi White",
+        "correct": true,
+        "count": 717
+      },
+      {
+        "answerId": 49007,
+        "answer": "Bob Power",
+        "correct": false,
+        "count": 246
+      },
+      {
+        "answerId": 49008,
+        "answer": "Large Professor",
+        "correct": false,
+        "count": 168
+      }
+    ],
+    "advancingPlayersCount": 717,
+    "eliminatedPlayersCount": 513,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:14:38.293Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:15:33.886Z",
+    "questionId": 15802,
+    "question": "German artist Max Beckmann was very much against which school of art?",
+    "answerCounts": [
+      {
+        "answerId": 49009,
+        "answer": "Abstract",
+        "correct": false,
+        "count": 174
+      },
+      {
+        "answerId": 49010,
+        "answer": "Futurist",
+        "correct": false,
+        "count": 201
+      },
+      {
+        "answerId": 49011,
+        "answer": "Expressionist",
+        "correct": true,
+        "count": 311
+      }
+    ],
+    "advancingPlayersCount": 311,
+    "eliminatedPlayersCount": 406,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:15:33.950Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:16:34.459Z",
+    "questionId": 15803,
+    "question": "Which Pedro Almodóvar movie centers on a comatose female bullfighter?",
+    "answerCounts": [
+      {
+        "answerId": 49012,
+        "answer": "Volver",
+        "correct": false,
+        "count": 102
+      },
+      {
+        "answerId": 49013,
+        "answer": "Talk to Her",
+        "correct": true,
+        "count": 145
+      },
+      {
+        "answerId": 49014,
+        "answer": "Live Flesh",
+        "correct": false,
+        "count": 50
+      }
+    ],
+    "advancingPlayersCount": 145,
+    "eliminatedPlayersCount": 166,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:16:34.584Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-08T20:18:03.339Z",
+    "questionId": 15804,
+    "question": "Comparing it to Monopoly, what game did the Washington Post call “the game for our era” in 2010?",
+    "answerCounts": [
+      {
+        "answerId": 49015,
+        "answer": "The Sims",
+        "correct": false,
+        "count": 19
+      },
+      {
+        "answerId": 49016,
+        "answer": "Settlers of Catan",
+        "correct": true,
+        "count": 85
+      },
+      {
+        "answerId": 49017,
+        "answer": "Minecraft",
+        "correct": false,
+        "count": 33
+      }
+    ],
+    "advancingPlayersCount": 85,
+    "eliminatedPlayersCount": 60,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-08T20:18:03.460Z"
+  }
+]

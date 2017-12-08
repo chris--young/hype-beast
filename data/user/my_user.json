@@ -1,0 +1,40 @@
+{
+	"userId": 137339,
+	"username": "cyoung",
+	"avatarUrl": "https://s3.amazonaws.com/hypespace-quiz/default_avatars/Untitled-1_0004_gold.png",
+	"created": "2017-11-02T19:04:07.000Z",
+	"broadcasts": {
+		"data": []
+	},
+	"featured": false,
+	"leaderboard": {
+		"totalCents": 0,
+		"total": "$0",
+		"unclaimed": "$0",
+		"wins": 0,
+		"rank": 743,
+		"alltime": {
+			"total": "$0",
+			"wins": 0,
+			"rank": 3687
+		},
+		"weekly": {
+			"total": "$0",
+			"wins": 0,
+			"rank": 743
+		}
+	},
+	"voip": false,
+	"deviceTokens": [
+		"a04e57b30fec0a0d7063d9e2a1de96fd285507a3c5b3a696d8231491aae3b796",
+		"af73c7a136c413498fff79b3ae7a800c19cb94155c10005a150f4e664d1eda4c"],
+	"hasPhone": true,
+	"phoneNumber": "+16318276309",
+	"referralUrl": "https://hqtrivia.com/i/cyoung",
+	"lives": 0,
+	"referred": false,
+	"referringUserId": null,
+	"highScore": 7,
+	"blocked": false,
+	"blocksMe": false
+}

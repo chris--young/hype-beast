@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:06:47.679Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15741,
+    "question": "Sunspots are magnetic anomalies that occur where?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 48811,
+        "text": "Africa"
+      },
+      {
+        "answerId": 48812,
+        "text": "On the sun"
+      },
+      {
+        "answerId": 48813,
+        "text": "Underwater"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:06:47.731Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:07:32.700Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15743,
+    "question": "The revolutionary “Midnight Ride” began in which metropolitan area?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 48817,
+        "text": "Boston"
+      },
+      {
+        "answerId": 48818,
+        "text": "El Paso"
+      },
+      {
+        "answerId": 48819,
+        "text": "Colorado Springs"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:07:32.760Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:08:29.056Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15742,
+    "question": "Reddit co-founder Alexis Ohanian married which tennis star last month?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 48814,
+        "text": "Andre Agassi"
+      },
+      {
+        "answerId": 48815,
+        "text": "Martina Navratilova"
+      },
+      {
+        "answerId": 48816,
+        "text": "Serena Williams"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:08:29.271Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:09:34.325Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15744,
+    "question": "Taken from the English language, a “pullover” means what in French?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 48820,
+        "text": "Comforter"
+      },
+      {
+        "answerId": 48821,
+        "text": "Sweater"
+      },
+      {
+        "answerId": 48822,
+        "text": "Trick"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:09:34.364Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:10:25.263Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15745,
+    "question": "Who is the only member of ZZ Top without a beard?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 48823,
+        "text": "Dusty Hill"
+      },
+      {
+        "answerId": 48824,
+        "text": "Billy Gibbons"
+      },
+      {
+        "answerId": 48825,
+        "text": "Frank Beard"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:10:25.302Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:11:17.438Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15746,
+    "question": "Which was reportedly the first sport to be used in fantasy sports?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 48826,
+        "text": "Golf"
+      },
+      {
+        "answerId": 48827,
+        "text": "Hockey"
+      },
+      {
+        "answerId": 48828,
+        "text": "Football"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:11:17.467Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:12:11.267Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15747,
+    "question": "Minecraft for mobile devices was first released on which platform?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 48829,
+        "text": "Xperia Play"
+      },
+      {
+        "answerId": 48830,
+        "text": "Windows Phone"
+      },
+      {
+        "answerId": 48831,
+        "text": "iOS"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:12:11.290Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:13:09.103Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15750,
+    "question": "Cast members of which hit TV show went on strike twice in contract disputes?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 48838,
+        "text": "The Simpsons"
+      },
+      {
+        "answerId": 48839,
+        "text": "Friends"
+      },
+      {
+        "answerId": 48840,
+        "text": "The Big Bang Theory"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:13:09.137Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:13:59.996Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15751,
+    "question": "The mountain in The North Face logo is based on which mountain?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 48841,
+        "text": "K2"
+      },
+      {
+        "answerId": 48842,
+        "text": "Denali"
+      },
+      {
+        "answerId": 48843,
+        "text": "Half Dome"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:14:00.028Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:14:55.103Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15748,
+    "question": "What is the oldest licensed whiskey distillery in Ireland?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 48832,
+        "text": "The Macallan"
+      },
+      {
+        "answerId": 48833,
+        "text": "Jameson"
+      },
+      {
+        "answerId": 48834,
+        "text": "Kilbeggan"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:14:55.150Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:15:40.869Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15749,
+    "question": "David Magarshack is the most notable translator into English of which Russian novelist?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 48835,
+        "text": "Fyodor Dostoyevsky"
+      },
+      {
+        "answerId": 48836,
+        "text": "Vladimir Nabokov"
+      },
+      {
+        "answerId": 48837,
+        "text": "Aleksandr Solzhenitsyn"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:15:40.896Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-08T02:16:51.414Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15752,
+    "question": "If you see animal tracks with five toes on each foot, it might be which of these?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 48844,
+        "text": "Squirrel"
+      },
+      {
+        "answerId": 48845,
+        "text": "Bobcat"
+      },
+      {
+        "answerId": 48846,
+        "text": "Skunk"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-08T02:16:51.455Z"
+  }
+]

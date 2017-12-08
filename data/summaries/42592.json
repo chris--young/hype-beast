@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:08:06.531Z",
+    "questionId": 15705,
+    "question": "The audio equipment term 'hi-fi' is short for what?",
+    "answerCounts": [
+      {
+        "answerId": 48703,
+        "answer": "Hippo Fitting",
+        "correct": false,
+        "count": 2446
+      },
+      {
+        "answerId": 48704,
+        "answer": "Hilarious Fiction",
+        "correct": false,
+        "count": 3231
+      },
+      {
+        "answerId": 48705,
+        "answer": "High Fidelity",
+        "correct": true,
+        "count": 133307
+      }
+    ],
+    "advancingPlayersCount": 133307,
+    "eliminatedPlayersCount": 24029,
+    "youGotItRight": true,
+    "yourAnswerId": 48705,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:08:06.586Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:08:43.792Z",
+    "questionId": 15706,
+    "question": "Of the three states of matter, which keeps its own shape?",
+    "answerCounts": [
+      {
+        "answerId": 48706,
+        "answer": "Liquid",
+        "correct": false,
+        "count": 6705
+      },
+      {
+        "answerId": 48707,
+        "answer": "Gas",
+        "correct": false,
+        "count": 9052
+      },
+      {
+        "answerId": 48708,
+        "answer": "Solid",
+        "correct": true,
+        "count": 114267
+      }
+    ],
+    "advancingPlayersCount": 114267,
+    "eliminatedPlayersCount": 19090,
+    "youGotItRight": true,
+    "yourAnswerId": 48708,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:08:43.882Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:09:23.425Z",
+    "questionId": 15707,
+    "question": "Which Pixar movie prominently featured a lot of balloons?",
+    "answerCounts": [
+      {
+        "answerId": 48709,
+        "answer": "The Incredibles",
+        "correct": false,
+        "count": 359
+      },
+      {
+        "answerId": 48710,
+        "answer": "Up",
+        "correct": true,
+        "count": 112429
+      },
+      {
+        "answerId": 48711,
+        "answer": "Toy Story 2",
+        "correct": false,
+        "count": 440
+      }
+    ],
+    "advancingPlayersCount": 112429,
+    "eliminatedPlayersCount": 1838,
+    "youGotItRight": true,
+    "yourAnswerId": 48710,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:09:23.507Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:10:19.617Z",
+    "questionId": 15708,
+    "question": "The jurisdiction of net neutrality falls under what government agency?",
+    "answerCounts": [
+      {
+        "answerId": 48712,
+        "answer": "NEH",
+        "correct": false,
+        "count": 10367
+      },
+      {
+        "answerId": 48713,
+        "answer": "DOI",
+        "correct": false,
+        "count": 8949
+      },
+      {
+        "answerId": 48714,
+        "answer": "FCC",
+        "correct": true,
+        "count": 91252
+      }
+    ],
+    "advancingPlayersCount": 91252,
+    "eliminatedPlayersCount": 21177,
+    "youGotItRight": true,
+    "yourAnswerId": 48714,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:10:19.876Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:11:22.931Z",
+    "questionId": 15709,
+    "question": "From which country does goulash originate?",
+    "answerCounts": [
+      {
+        "answerId": 48715,
+        "answer": "Greece",
+        "correct": false,
+        "count": 7675
+      },
+      {
+        "answerId": 48716,
+        "answer": "Hungary",
+        "correct": true,
+        "count": 69719
+      },
+      {
+        "answerId": 48717,
+        "answer": "Lebanon",
+        "correct": false,
+        "count": 12736
+      }
+    ],
+    "advancingPlayersCount": 69719,
+    "eliminatedPlayersCount": 21533,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:11:23.056Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:12:09.725Z",
+    "questionId": 15710,
+    "question": "The character of Syd Barrett in “Legion” shares her name with the co-founder of what band?",
+    "answerCounts": [
+      {
+        "answerId": 48718,
+        "answer": "Sex Pistols",
+        "correct": false,
+        "count": 30020
+      },
+      {
+        "answerId": 48719,
+        "answer": "The Clash",
+        "correct": false,
+        "count": 13579
+      },
+      {
+        "answerId": 48720,
+        "answer": "Pink Floyd",
+        "correct": true,
+        "count": 23082
+      }
+    ],
+    "advancingPlayersCount": 23082,
+    "eliminatedPlayersCount": 46637,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:12:09.827Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:13:30.231Z",
+    "questionId": 15711,
+    "question": "Which of these is the study of inscriptions?",
+    "answerCounts": [
+      {
+        "answerId": 48721,
+        "answer": "Scriptography",
+        "correct": false,
+        "count": 2720
+      },
+      {
+        "answerId": 48722,
+        "answer": "Ecritology",
+        "correct": false,
+        "count": 4882
+      },
+      {
+        "answerId": 48723,
+        "answer": "Epigraphy",
+        "correct": true,
+        "count": 14512
+      }
+    ],
+    "advancingPlayersCount": 14512,
+    "eliminatedPlayersCount": 8570,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:13:30.496Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:14:22.795Z",
+    "questionId": 15724,
+    "question": "Which of these dogs is NOT an English breed?",
+    "answerCounts": [
+      {
+        "answerId": 48760,
+        "answer": "Bull terrier",
+        "correct": false,
+        "count": 4838
+      },
+      {
+        "answerId": 48761,
+        "answer": "Beagle",
+        "correct": false,
+        "count": 5089
+      },
+      {
+        "answerId": 48762,
+        "answer": "Basset Hound",
+        "correct": true,
+        "count": 3978
+      }
+    ],
+    "advancingPlayersCount": 3978,
+    "eliminatedPlayersCount": 10534,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:14:23.083Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:15:19.733Z",
+    "questionId": 15725,
+    "question": "Which Nathaniel Hawthorne novel is written in the first-person?",
+    "answerCounts": [
+      {
+        "answerId": 48763,
+        "answer": "The Blithedale Romance",
+        "correct": true,
+        "count": 907
+      },
+      {
+        "answerId": 48764,
+        "answer": "The Scarlet Letter",
+        "correct": false,
+        "count": 1821
+      },
+      {
+        "answerId": 48765,
+        "answer": "House of the 7 Gables",
+        "correct": false,
+        "count": 981
+      }
+    ],
+    "advancingPlayersCount": 907,
+    "eliminatedPlayersCount": 3071,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:15:20.011Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:16:23.247Z",
+    "questionId": 15726,
+    "question": "Which of these artists was in the original lineup of the Newport Folk Festival?",
+    "answerCounts": [
+      {
+        "answerId": 48766,
+        "answer": "Peter, Paul and Mary",
+        "correct": false,
+        "count": 231
+      },
+      {
+        "answerId": 48767,
+        "answer": "The Kingston Trio",
+        "correct": true,
+        "count": 328
+      },
+      {
+        "answerId": 48768,
+        "answer": "Arlo Guthrie",
+        "correct": false,
+        "count": 330
+      }
+    ],
+    "advancingPlayersCount": 328,
+    "eliminatedPlayersCount": 579,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:16:23.497Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:17:26.072Z",
+    "questionId": 15727,
+    "question": "Whose resignation during the Velvet Revolution effectively ended Communist rule in Czechoslovakia?",
+    "answerCounts": [
+      {
+        "answerId": 48769,
+        "answer": "Antonín Novotny",
+        "correct": false,
+        "count": 106
+      },
+      {
+        "answerId": 48770,
+        "answer": "Gustáv Husák",
+        "correct": false,
+        "count": 74
+      },
+      {
+        "answerId": 48771,
+        "answer": "Miloš Jakeš",
+        "correct": true,
+        "count": 130
+      }
+    ],
+    "advancingPlayersCount": 130,
+    "eliminatedPlayersCount": 198,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:17:26.197Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-07T20:18:54.176Z",
+    "questionId": 15728,
+    "question": "In 1956, all-around champion Viktor Chukarin set which Olympic gymnastics record that still stands?",
+    "answerCounts": [
+      {
+        "answerId": 48772,
+        "answer": "Highest men's score",
+        "correct": false,
+        "count": 42
+      },
+      {
+        "answerId": 48773,
+        "answer": "Oldest champion",
+        "correct": true,
+        "count": 60
+      },
+      {
+        "answerId": 48774,
+        "answer": "Youngest champion",
+        "correct": false,
+        "count": 19
+      }
+    ],
+    "advancingPlayersCount": 60,
+    "eliminatedPlayersCount": 70,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-07T20:18:54.436Z"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "hype-beast",
+  "version": "1.0.0",
+  "description": "Win HQ every time",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tools/check_accuracy.js"
+  },
+  "author": "Chris Young (young.c.5690@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.6.0",
+    "jsdom": "11.5.1",
+    "request": "2.83.0",
+    "verror": "1.10.0",
+    "ws": "3.3.2"
+  }
+}

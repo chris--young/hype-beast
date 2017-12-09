@@ -66,6 +66,8 @@ function handleMessage(msg) {
 		case 'gameStatus':
 		case 'postGame':
 		case 'kicked':
+			if (DEBUG)
+					console.log(msg);
 			break;
 
 		case 'question':

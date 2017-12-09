@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:07:08.062Z",
+    "questionId": 15776,
+    "question": "Apple recently made headlines with the removal of what from its new iPhones?",
+    "answerCounts": [
+      {
+        "answerId": 48926,
+        "answer": "Case",
+        "correct": false,
+        "count": 2053
+      },
+      {
+        "answerId": 48927,
+        "answer": "Headphone jack",
+        "correct": true,
+        "count": 215778
+      },
+      {
+        "answerId": 48928,
+        "answer": "Screen",
+        "correct": false,
+        "count": 3600
+      }
+    ],
+    "advancingPlayersCount": 215778,
+    "eliminatedPlayersCount": 80797,
+    "youGotItRight": true,
+    "yourAnswerId": 48927,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:07:08.157Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:07:57.051Z",
+    "questionId": 15777,
+    "question": "Which of these sports typically uses a black and white ball?",
+    "answerCounts": [
+      {
+        "answerId": 48929,
+        "answer": "NFL Football",
+        "correct": false,
+        "count": 701
+      },
+      {
+        "answerId": 48930,
+        "answer": "Basketball",
+        "correct": false,
+        "count": 607
+      },
+      {
+        "answerId": 48931,
+        "answer": "Soccer",
+        "correct": true,
+        "count": 222800
+      }
+    ],
+    "advancingPlayersCount": 222800,
+    "eliminatedPlayersCount": 23741,
+    "youGotItRight": true,
+    "yourAnswerId": 48931,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:07:57.151Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:08:50.415Z",
+    "questionId": 15778,
+    "question": "Which of these creatures has a stinger?",
+    "answerCounts": [
+      {
+        "answerId": 48932,
+        "answer": "Dormouse",
+        "correct": false,
+        "count": 833
+      },
+      {
+        "answerId": 48933,
+        "answer": "Scorpion",
+        "correct": true,
+        "count": 214176
+      },
+      {
+        "answerId": 48934,
+        "answer": "Stink beetle",
+        "correct": false,
+        "count": 2383
+      }
+    ],
+    "advancingPlayersCount": 214176,
+    "eliminatedPlayersCount": 16733,
+    "youGotItRight": true,
+    "yourAnswerId": 48933,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:08:50.534Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:10:19.285Z",
+    "questionId": 15779,
+    "question": "Which of the following is NOT a nucleon?",
+    "answerCounts": [
+      {
+        "answerId": 48935,
+        "answer": "Electron",
+        "correct": true,
+        "count": 120902
+      },
+      {
+        "answerId": 48936,
+        "answer": "Proton",
+        "correct": false,
+        "count": 30691
+      },
+      {
+        "answerId": 48937,
+        "answer": "Neutron",
+        "correct": false,
+        "count": 51112
+      }
+    ],
+    "advancingPlayersCount": 120902,
+    "eliminatedPlayersCount": 94369,
+    "youGotItRight": true,
+    "yourAnswerId": 48935,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:10:19.396Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:11:14.725Z",
+    "questionId": 15780,
+    "question": "How many fortnights are there in a year?",
+    "answerCounts": [
+      {
+        "answerId": 48938,
+        "answer": "14",
+        "correct": false,
+        "count": 25180
+      },
+      {
+        "answerId": 48939,
+        "answer": "104",
+        "correct": false,
+        "count": 10034
+      },
+      {
+        "answerId": 48940,
+        "answer": "26",
+        "correct": true,
+        "count": 81449
+      }
+    ],
+    "advancingPlayersCount": 81449,
+    "eliminatedPlayersCount": 39494,
+    "youGotItRight": false,
+    "yourAnswerId": 48938,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:11:14.999Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:12:10.907Z",
+    "questionId": 15783,
+    "question": "Which company famously threatened to sue 17-year-old Mike Rowe in the early aughts?",
+    "answerCounts": [
+      {
+        "answerId": 48947,
+        "answer": "LucasFilm",
+        "correct": false,
+        "count": 21615
+      },
+      {
+        "answerId": 48948,
+        "answer": "Microsoft",
+        "correct": true,
+        "count": 25563
+      },
+      {
+        "answerId": 48949,
+        "answer": "NBC-Universal",
+        "correct": false,
+        "count": 27066
+      }
+    ],
+    "advancingPlayersCount": 25563,
+    "eliminatedPlayersCount": 55886,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:12:11.050Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:13:12.986Z",
+    "questionId": 15781,
+    "question": "Which of these is NOT another name for allspice?",
+    "answerCounts": [
+      {
+        "answerId": 48941,
+        "answer": "Myrtle pepper",
+        "correct": false,
+        "count": 6771
+      },
+      {
+        "answerId": 48942,
+        "answer": "Carolina cloves",
+        "correct": true,
+        "count": 7727
+      },
+      {
+        "answerId": 48943,
+        "answer": "Jamaica pimenta",
+        "correct": false,
+        "count": 10038
+      }
+    ],
+    "advancingPlayersCount": 7727,
+    "eliminatedPlayersCount": 17836,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:13:13.263Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:14:04.603Z",
+    "questionId": 15782,
+    "question": "Anna Kendrick, Brie Larson, and Aubrey Plaza teamed up in which movie?",
+    "answerCounts": [
+      {
+        "answerId": 48944,
+        "answer": "Digging for Fire",
+        "correct": false,
+        "count": 1181
+      },
+      {
+        "answerId": 48945,
+        "answer": "Scott Pilgrim vs. World",
+        "correct": true,
+        "count": 3193
+      },
+      {
+        "answerId": 48946,
+        "answer": "Life After Beth",
+        "correct": false,
+        "count": 3048
+      }
+    ],
+    "advancingPlayersCount": 3193,
+    "eliminatedPlayersCount": 4534,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:14:04.892Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:15:14.004Z",
+    "questionId": 15787,
+    "question": "How many U.S. presidents have died while serving in office?",
+    "answerCounts": [
+      {
+        "answerId": 48959,
+        "answer": "8",
+        "correct": true,
+        "count": 1145
+      },
+      {
+        "answerId": 48960,
+        "answer": "12",
+        "correct": false,
+        "count": 70
+      },
+      {
+        "answerId": 48961,
+        "answer": "4",
+        "correct": false,
+        "count": 1925
+      }
+    ],
+    "advancingPlayersCount": 1145,
+    "eliminatedPlayersCount": 2048,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:15:14.310Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:16:02.993Z",
+    "questionId": 15786,
+    "question": "Who speaks the first line of nearly every episode in the TV show “Arrested Development”?",
+    "answerCounts": [
+      {
+        "answerId": 48956,
+        "answer": "Michael Cera",
+        "correct": false,
+        "count": 138
+      },
+      {
+        "answerId": 48957,
+        "answer": "Ron Howard",
+        "correct": true,
+        "count": 515
+      },
+      {
+        "answerId": 48958,
+        "answer": "Jason Bateman",
+        "correct": false,
+        "count": 459
+      }
+    ],
+    "advancingPlayersCount": 515,
+    "eliminatedPlayersCount": 630,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:16:03.270Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:16:54.301Z",
+    "questionId": 15784,
+    "question": "What is the second most common foreign language in California after Spanish?",
+    "answerCounts": [
+      {
+        "answerId": 48950,
+        "answer": "Arabic",
+        "correct": false,
+        "count": 48
+      },
+      {
+        "answerId": 48951,
+        "answer": "Vietnamese",
+        "correct": false,
+        "count": 303
+      },
+      {
+        "answerId": 48952,
+        "answer": "Tagalog",
+        "correct": true,
+        "count": 153
+      }
+    ],
+    "advancingPlayersCount": 153,
+    "eliminatedPlayersCount": 362,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:16:54.436Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-09T02:18:28.416Z",
+    "questionId": 15785,
+    "question": "Which of these is a Newspeak word in the novel “1984”?",
+    "answerCounts": [
+      {
+        "answerId": 48953,
+        "answer": "DAYSPEAK",
+        "correct": false,
+        "count": 18
+      },
+      {
+        "answerId": 48954,
+        "answer": "PLUSTRUE",
+        "correct": false,
+        "count": 40
+      },
+      {
+        "answerId": 48955,
+        "answer": "GOODTHINK",
+        "correct": true,
+        "count": 91
+      }
+    ],
+    "advancingPlayersCount": 91,
+    "eliminatedPlayersCount": 62,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-09T02:18:28.702Z"
+  }
+]

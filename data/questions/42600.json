@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:06:46.597Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15776,
+    "question": "Apple recently made headlines with the removal of what from its new iPhones?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 48926,
+        "text": "Case"
+      },
+      {
+        "answerId": 48927,
+        "text": "Headphone jack"
+      },
+      {
+        "answerId": 48928,
+        "text": "Screen"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:06:47.043Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:07:31.955Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15777,
+    "question": "Which of these sports typically uses a black and white ball?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 48929,
+        "text": "NFL Football"
+      },
+      {
+        "answerId": 48930,
+        "text": "Basketball"
+      },
+      {
+        "answerId": 48931,
+        "text": "Soccer"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:07:32.024Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:08:23.863Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15778,
+    "question": "Which of these creatures has a stinger?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 48932,
+        "text": "Dormouse"
+      },
+      {
+        "answerId": 48933,
+        "text": "Scorpion"
+      },
+      {
+        "answerId": 48934,
+        "text": "Stink beetle"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:08:23.906Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:09:48.496Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15779,
+    "question": "Which of the following is NOT a nucleon?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 48935,
+        "text": "Electron"
+      },
+      {
+        "answerId": 48936,
+        "text": "Proton"
+      },
+      {
+        "answerId": 48937,
+        "text": "Neutron"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:09:48.540Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:10:40.905Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15780,
+    "question": "How many fortnights are there in a year?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 48938,
+        "text": "14"
+      },
+      {
+        "answerId": 48939,
+        "text": "104"
+      },
+      {
+        "answerId": 48940,
+        "text": "26"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:10:40.961Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:11:33.315Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15783,
+    "question": "Which company famously threatened to sue 17-year-old Mike Rowe in the early aughts?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 48947,
+        "text": "LucasFilm"
+      },
+      {
+        "answerId": 48948,
+        "text": "Microsoft"
+      },
+      {
+        "answerId": 48949,
+        "text": "NBC-Universal"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:11:33.348Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:12:40.680Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15781,
+    "question": "Which of these is NOT another name for allspice?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 48941,
+        "text": "Myrtle pepper"
+      },
+      {
+        "answerId": 48942,
+        "text": "Carolina cloves"
+      },
+      {
+        "answerId": 48943,
+        "text": "Jamaica pimenta"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:12:40.719Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:13:37.232Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15782,
+    "question": "Anna Kendrick, Brie Larson, and Aubrey Plaza teamed up in which movie?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 48944,
+        "text": "Digging for Fire"
+      },
+      {
+        "answerId": 48945,
+        "text": "Scott Pilgrim vs. World"
+      },
+      {
+        "answerId": 48946,
+        "text": "Life After Beth"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:13:37.269Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:14:32.660Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15787,
+    "question": "How many U.S. presidents have died while serving in office?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 48959,
+        "text": "8"
+      },
+      {
+        "answerId": 48960,
+        "text": "12"
+      },
+      {
+        "answerId": 48961,
+        "text": "4"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:14:32.714Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:15:34.708Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15786,
+    "question": "Who speaks the first line of nearly every episode in the TV show “Arrested Development”?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 48956,
+        "text": "Michael Cera"
+      },
+      {
+        "answerId": 48957,
+        "text": "Ron Howard"
+      },
+      {
+        "answerId": 48958,
+        "text": "Jason Bateman"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:15:34.743Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:16:19.981Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15784,
+    "question": "What is the second most common foreign language in California after Spanish?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 48950,
+        "text": "Arabic"
+      },
+      {
+        "answerId": 48951,
+        "text": "Vietnamese"
+      },
+      {
+        "answerId": 48952,
+        "text": "Tagalog"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:16:20.010Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-09T02:17:39.254Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15785,
+    "question": "Which of these is a Newspeak word in the novel “1984”?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 48953,
+        "text": "DAYSPEAK"
+      },
+      {
+        "answerId": 48954,
+        "text": "PLUSTRUE"
+      },
+      {
+        "answerId": 48955,
+        "text": "GOODTHINK"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-09T02:17:39.306Z"
+  }
+]

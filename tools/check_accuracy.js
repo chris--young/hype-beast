@@ -17,6 +17,9 @@ async.parallel(files.map((file) => (cb) => {
 			if (err)
 				return cb(err);
 
+			if (!guess)
+				return cb(null, false);
+
 			summary.answerCounts.forEach((answer) => (answer.answerId === guess.answerId) && cb(null, answer.correct));
 		});
 	});

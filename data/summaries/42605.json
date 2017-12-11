@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T02:59:21.470Z",
+    "questionId": 15854,
+    "question": "What are you NOT likely to find on a 'Meatatarian Pizza'?",
+    "answerCounts": [
+      {
+        "answerId": 49165,
+        "answer": "Artichoke",
+        "correct": true,
+        "count": 338425
+      },
+      {
+        "answerId": 49166,
+        "answer": "Pepperoni",
+        "correct": false,
+        "count": 18153
+      },
+      {
+        "answerId": 49167,
+        "answer": "Ham",
+        "correct": false,
+        "count": 14444
+      }
+    ],
+    "advancingPlayersCount": 338425,
+    "eliminatedPlayersCount": 117555,
+    "youGotItRight": true,
+    "yourAnswerId": 49165,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T02:59:21.529Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:00:14.779Z",
+    "questionId": 15855,
+    "question": "Which hit musical is about Frankie Valli and the Four Seasons?",
+    "answerCounts": [
+      {
+        "answerId": 49168,
+        "answer": "Equus",
+        "correct": false,
+        "count": 15015
+      },
+      {
+        "answerId": 49169,
+        "answer": "Cats",
+        "correct": false,
+        "count": 16751
+      },
+      {
+        "answerId": 49170,
+        "answer": "Jersey Boys",
+        "correct": true,
+        "count": 297264
+      }
+    ],
+    "advancingPlayersCount": 297264,
+    "eliminatedPlayersCount": 41559,
+    "youGotItRight": true,
+    "yourAnswerId": 49170,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:00:14.913Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:01:03.545Z",
+    "questionId": 15856,
+    "question": "An exhaust manifold helps collect what from a car's engine?",
+    "answerCounts": [
+      {
+        "answerId": 49171,
+        "answer": "Loose change",
+        "correct": false,
+        "count": 1975
+      },
+      {
+        "answerId": 49172,
+        "answer": "Fumes",
+        "correct": true,
+        "count": 257407
+      },
+      {
+        "answerId": 49173,
+        "answer": "Oil",
+        "correct": false,
+        "count": 31573
+      }
+    ],
+    "advancingPlayersCount": 257407,
+    "eliminatedPlayersCount": 39857,
+    "youGotItRight": true,
+    "yourAnswerId": 49172,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:01:03.843Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:01:50.061Z",
+    "questionId": 15857,
+    "question": "Which classic film features the quote, \"Cyborgs don't feel pain. I do. Don't do that again.\"?",
+    "answerCounts": [
+      {
+        "answerId": 49174,
+        "answer": "The Terminator",
+        "correct": true,
+        "count": 119469
+      },
+      {
+        "answerId": 49175,
+        "answer": "Ghost in the Shell",
+        "correct": false,
+        "count": 16278
+      },
+      {
+        "answerId": 49176,
+        "answer": "RoboCop",
+        "correct": false,
+        "count": 103790
+      }
+    ],
+    "advancingPlayersCount": 119469,
+    "eliminatedPlayersCount": 137938,
+    "youGotItRight": true,
+    "yourAnswerId": 49174,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:01:50.386Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:02:42.091Z",
+    "questionId": 15860,
+    "question": "Who lives at the fictional address 4 Privet Drive?",
+    "answerCounts": [
+      {
+        "answerId": 49183,
+        "answer": "Mary Poppins",
+        "correct": false,
+        "count": 33337
+      },
+      {
+        "answerId": 49184,
+        "answer": "Mr. and Mrs. Dursley",
+        "correct": true,
+        "count": 74155
+      },
+      {
+        "answerId": 49185,
+        "answer": "Mrs. Dalloway",
+        "correct": false,
+        "count": 8916
+      }
+    ],
+    "advancingPlayersCount": 74155,
+    "eliminatedPlayersCount": 45314,
+    "youGotItRight": false,
+    "yourAnswerId": 49185,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:02:42.383Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:03:45.392Z",
+    "questionId": 15858,
+    "question": "A sea sponge is which type of creature?",
+    "answerCounts": [
+      {
+        "answerId": 49177,
+        "answer": "Plant",
+        "correct": false,
+        "count": 11914
+      },
+      {
+        "answerId": 49178,
+        "answer": "Fungus",
+        "correct": false,
+        "count": 15333
+      },
+      {
+        "answerId": 49179,
+        "answer": "Animal",
+        "correct": true,
+        "count": 45181
+      }
+    ],
+    "advancingPlayersCount": 45181,
+    "eliminatedPlayersCount": 28974,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:03:45.665Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:04:36.302Z",
+    "questionId": 15859,
+    "question": "Which card game is also known as Black Lady, Black Maria or Crubs?",
+    "answerCounts": [
+      {
+        "answerId": 49180,
+        "answer": "Hearts",
+        "correct": true,
+        "count": 19355
+      },
+      {
+        "answerId": 49181,
+        "answer": "Cribbage",
+        "correct": false,
+        "count": 14436
+      },
+      {
+        "answerId": 49182,
+        "answer": "Blackjack",
+        "correct": false,
+        "count": 10341
+      }
+    ],
+    "advancingPlayersCount": 19355,
+    "eliminatedPlayersCount": 25826,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:04:36.609Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:05:28.955Z",
+    "questionId": 15861,
+    "question": "How many MVP awards did Kobe Bryant win during his NBA career?",
+    "answerCounts": [
+      {
+        "answerId": 49186,
+        "answer": "One",
+        "correct": true,
+        "count": 3659
+      },
+      {
+        "answerId": 49187,
+        "answer": "Five",
+        "correct": false,
+        "count": 6732
+      },
+      {
+        "answerId": 49188,
+        "answer": "Three",
+        "correct": false,
+        "count": 8031
+      }
+    ],
+    "advancingPlayersCount": 3659,
+    "eliminatedPlayersCount": 15696,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:05:29.217Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:06:23.609Z",
+    "questionId": 15862,
+    "question": "Yamoussoukro is the capital of which country?",
+    "answerCounts": [
+      {
+        "answerId": 49189,
+        "answer": "Ghana",
+        "correct": false,
+        "count": 409
+      },
+      {
+        "answerId": 49190,
+        "answer": "Mali",
+        "correct": false,
+        "count": 1175
+      },
+      {
+        "answerId": 49191,
+        "answer": "Ivory Coast",
+        "correct": true,
+        "count": 1914
+      }
+    ],
+    "advancingPlayersCount": 1914,
+    "eliminatedPlayersCount": 1745,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:06:23.864Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:07:20.803Z",
+    "questionId": 15863,
+    "question": "Who was a notorious omnivore and member of The Glutton Club, sampling nearly all animals?",
+    "answerCounts": [
+      {
+        "answerId": 49192,
+        "answer": "Bear Grylls",
+        "correct": false,
+        "count": 581
+      },
+      {
+        "answerId": 49193,
+        "answer": "Steve Irwin",
+        "correct": false,
+        "count": 145
+      },
+      {
+        "answerId": 49194,
+        "answer": "Charles Darwin",
+        "correct": true,
+        "count": 1144
+      }
+    ],
+    "advancingPlayersCount": 1144,
+    "eliminatedPlayersCount": 770,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:07:21.090Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:08:17.397Z",
+    "questionId": 15864,
+    "question": "Which music act had songs on the “Twilight: Eclipse, ”“Scott Pilgrim,” & “Cosmopolis” soundtracks?",
+    "answerCounts": [
+      {
+        "answerId": 49195,
+        "answer": "Frank Black",
+        "correct": false,
+        "count": 140
+      },
+      {
+        "answerId": 49196,
+        "answer": "Vampire Weekend",
+        "correct": false,
+        "count": 531
+      },
+      {
+        "answerId": 49197,
+        "answer": "Metric",
+        "correct": true,
+        "count": 384
+      }
+    ],
+    "advancingPlayersCount": 384,
+    "eliminatedPlayersCount": 760,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:08:17.624Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-11T03:10:03.093Z",
+    "questionId": 15865,
+    "question": "Which of these theories was widely accepted by the scientific community the most recently?",
+    "answerCounts": [
+      {
+        "answerId": 49198,
+        "answer": "Plate Tectonics",
+        "correct": true,
+        "count": 93
+      },
+      {
+        "answerId": 49199,
+        "answer": "Quantum Mechanics",
+        "correct": false,
+        "count": 181
+      },
+      {
+        "answerId": 49200,
+        "answer": "Relativity",
+        "correct": false,
+        "count": 97
+      }
+    ],
+    "advancingPlayersCount": 93,
+    "eliminatedPlayersCount": 291,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-11T03:10:03.247Z"
+  }
+]

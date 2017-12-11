@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:08:21.792Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15957,
+    "question": "Which company works with 98% of all U.S. school districts to provide testing systems?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 49479,
+        "text": "Scamathon"
+      },
+      {
+        "answerId": 49480,
+        "text": "Flynn-Tron"
+      },
+      {
+        "answerId": 49481,
+        "text": "Scantron"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:08:21.844Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:09:10.143Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15958,
+    "question": "Which musician came out with The Marshall Mathers LP in 2000?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 49482,
+        "text": "Boards of Canada"
+      },
+      {
+        "answerId": 49483,
+        "text": "Jay-Z"
+      },
+      {
+        "answerId": 49484,
+        "text": "Eminem"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:09:10.196Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:09:59.841Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15959,
+    "question": "What is the nickname of big screen archaeologist Henry Jones, Jr.?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 49485,
+        "text": "Basketball"
+      },
+      {
+        "answerId": 49486,
+        "text": "Indiana"
+      },
+      {
+        "answerId": 49487,
+        "text": "Jessica"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:09:59.890Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:10:43.319Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15960,
+    "question": "Which of these countries is NOT in Scandinavia?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 49488,
+        "text": "Denmark"
+      },
+      {
+        "answerId": 49489,
+        "text": "Netherlands"
+      },
+      {
+        "answerId": 49490,
+        "text": "Norway"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:10:43.388Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:11:35.303Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15961,
+    "question": "The hottest multiplayer video game this year was designed by which famous gamer?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 49491,
+        "text": "Thresh"
+      },
+      {
+        "answerId": 49492,
+        "text": "Fatal1ty"
+      },
+      {
+        "answerId": 49493,
+        "text": "PlayerUnknown"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:11:35.374Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:12:27.076Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15962,
+    "question": "Rayleigh scattering primarily affects which of these?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 49494,
+        "text": "Water"
+      },
+      {
+        "answerId": 49495,
+        "text": "Light"
+      },
+      {
+        "answerId": 49496,
+        "text": "Falling snow"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:12:27.111Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:13:14.169Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15963,
+    "question": "What does Saint Peter hold in Leonardo Da Vinci's painting \"The Last Supper\"?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 49497,
+        "text": "Knife"
+      },
+      {
+        "answerId": 49498,
+        "text": "Goblet"
+      },
+      {
+        "answerId": 49499,
+        "text": "Cloth"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:13:14.221Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:14:12.838Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15964,
+    "question": "Who sometimes used the pen name A. M. Barnard early in her writing career?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 49500,
+        "text": "Louisa May Alcott"
+      },
+      {
+        "answerId": 49501,
+        "text": "Ann M. Martin"
+      },
+      {
+        "answerId": 49502,
+        "text": "Charlotte Brontë"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:14:12.879Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:15:00.896Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15965,
+    "question": "What is a tasselled wobbegong?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 49503,
+        "text": "Thai regent"
+      },
+      {
+        "answerId": 49504,
+        "text": "Turkish shirt"
+      },
+      {
+        "answerId": 49505,
+        "text": "Carpet shark"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:15:00.944Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:15:51.493Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15966,
+    "question": "In 1913, a constitutional amendment establishing what was ratified?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49506,
+        "text": "The draft"
+      },
+      {
+        "answerId": 49507,
+        "text": "Abolitionism"
+      },
+      {
+        "answerId": 49508,
+        "text": "Income tax"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:15:51.528Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:16:38.751Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15967,
+    "question": "Who is the only woman to win all three major LPGA honors in a single season?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 49509,
+        "text": "Lorena Ochoa"
+      },
+      {
+        "answerId": 49510,
+        "text": "Nancy Lopez"
+      },
+      {
+        "answerId": 49511,
+        "text": "Annika Sörenstam"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:16:38.801Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-11T21:18:07.742Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15968,
+    "question": "Who is the only man to reach the Earth's orbit in the 1960s and the 1990s?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49512,
+        "text": "Yuri Gagarin"
+      },
+      {
+        "answerId": 49513,
+        "text": "John Glenn"
+      },
+      {
+        "answerId": 49514,
+        "text": "Buzz Aldrin"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-11T21:18:07.783Z"
+  }
+]

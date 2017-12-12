@@ -44,5 +44,5 @@ __Extract questions for broadcast 1337__
 
 __Extract answers for broadcast 1337__
 ```
-➜  node tools/extract_messages.js 1337.stream questionSummaries > data/summaries/1337.json
+➜  node tools/extract_messages.js 1337.stream questionSummary > data/summaries/1337.json
 ```

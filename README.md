@@ -38,10 +38,10 @@ __Check accuracy__
 
 __Extract questions for broadcast 1337__
 ```
-node tools/extract_questions.js 1337.stream > data/questions/1337.json
+node tools/extract_messages.js 1337.stream questions > data/questions/1337.json
 ```
 
 __Extract answers for broadcast 1337__
 ```
-node tools/extract_summaries.js 1337.stream > data/summaries/1337.json
+node tools/extract_messages.js 1337.stream questionSummaries > data/summaries/1337.json
 ```

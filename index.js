@@ -31,11 +31,11 @@ getShow((err, show) => {
 
 	console.log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
 
-	const filename = `./${show.broadcast.broadcastId}_${Date.now()}.stream`;
-	const file = fs.createWriteStream(filename);
+	const path = `./${show.broadcast.broadcastId}.stream`;
+	const file = fs.createWriteStream(path, { flags: 'a' });
 	const ws = new WebSocket(show.broadcast.socketUrl, opts);
 
-	debug(`Logging stream to ${filename}`);
+	debug(`Logging stream to ${path}`);
 
 	let ping = null;
 

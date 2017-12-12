@@ -4,7 +4,8 @@
   "description": "Win HQ every time",
   "main": "index.js",
   "scripts": {
-    "test": "node tools/check_accuracy.js"
+    "test": "node tools/check_accuracy.js",
+    "start": "node index.js"
   },
   "author": "Chris Young (young.c.5690@gmail.com)",
   "license": "ISC",

@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:06:38.662Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15879,
+    "question": "A standard deck of playing cards has 52 cards - not including whom?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 49240,
+        "text": "Jokers"
+      },
+      {
+        "answerId": 49241,
+        "text": "Queens"
+      },
+      {
+        "answerId": 49242,
+        "text": "Kings"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:06:38.717Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:07:30.117Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15880,
+    "question": "Jane Pratt founded which magazine, among others?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 49243,
+        "text": "Jane"
+      },
+      {
+        "answerId": 49244,
+        "text": "Forbes"
+      },
+      {
+        "answerId": 49245,
+        "text": "Hello!"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:07:30.155Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:08:28.132Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15881,
+    "question": "Pecans, pumpkin, and yucca are all indigenous to which region?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 49246,
+        "text": "North America"
+      },
+      {
+        "answerId": 49247,
+        "text": "Southwest Asia"
+      },
+      {
+        "answerId": 49248,
+        "text": "West Africa"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:08:28.182Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:09:19.806Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15882,
+    "question": "On a standard QWERTY keyboard, the TAB key is in which row up from the bottom?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 49249,
+        "text": "Second"
+      },
+      {
+        "answerId": 49250,
+        "text": "Third"
+      },
+      {
+        "answerId": 49251,
+        "text": "Fourth"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:09:19.848Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:10:18.792Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15883,
+    "question": "Who makes the perfumes for Gwen Stefani's fashion label?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 49252,
+        "text": "Chanel"
+      },
+      {
+        "answerId": 49253,
+        "text": "Coty"
+      },
+      {
+        "answerId": 49254,
+        "text": "Paco Rabanne"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:10:18.838Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:11:25.757Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15884,
+    "question": "Which island was once a penal colony called Van Deimen's Land?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 49255,
+        "text": "Easter Island"
+      },
+      {
+        "answerId": 49256,
+        "text": "Alcatraz"
+      },
+      {
+        "answerId": 49257,
+        "text": "Tasmania"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:11:25.805Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:12:24.694Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15885,
+    "question": "Found in spicy Chinese dishes, the Sichuan peppercorn is which type of food?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 49258,
+        "text": "Chili pepper"
+      },
+      {
+        "answerId": 49259,
+        "text": "Citrus"
+      },
+      {
+        "answerId": 49260,
+        "text": "Black pepper"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:12:24.736Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:13:41.048Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15886,
+    "question": "Which of these words is an antonym for “uncertain”?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 49261,
+        "text": "Contumelious"
+      },
+      {
+        "answerId": 49262,
+        "text": "Ludibrious"
+      },
+      {
+        "answerId": 49263,
+        "text": "Ineluctable"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:13:41.082Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:14:39.668Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15887,
+    "question": "Which basketball player has played for a different NBA team in each of the past 4 seasons?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 49264,
+        "text": "Shane Larkin"
+      },
+      {
+        "answerId": 49265,
+        "text": "Dwight Howard"
+      },
+      {
+        "answerId": 49266,
+        "text": "Rajon Rondo"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:14:39.715Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:15:45.683Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15888,
+    "question": "Which of these is NOT an area of the sun?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 49267,
+        "text": "Radiative zone"
+      },
+      {
+        "answerId": 49268,
+        "text": "Photosphere"
+      },
+      {
+        "answerId": 49269,
+        "text": "Chromatic zone"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:15:45.737Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:16:40.161Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15889,
+    "question": "Who was the head of the Roman Empire when the calendar went from BC to AD?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49270,
+        "text": "Julian"
+      },
+      {
+        "answerId": 49271,
+        "text": "Claudius"
+      },
+      {
+        "answerId": 49272,
+        "text": "Augustus"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:16:40.209Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-12T02:18:00.070Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 15890,
+    "question": "Which of these music acts has recorded songs in the most languages?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 49273,
+        "text": "Sarah Brightman"
+      },
+      {
+        "answerId": 49274,
+        "text": "Pink Martini"
+      },
+      {
+        "answerId": 49275,
+        "text": "Connie Francis"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-12T02:18:00.105Z"
+  }
+]

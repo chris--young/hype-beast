@@ -18,7 +18,7 @@ module.exports = function (question, cb) {
 			const regex = new RegExp(answer.text, 'gi');
 			const count = (body.match(regex) || []).length;
 
-			results.push({answer, count});
+			results.push({answer, index, count});
 		});
 
 		results = _.sortBy(results, (item) => - item.count);

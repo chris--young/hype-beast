@@ -5,17 +5,18 @@ const fs = require('fs');
 const request = require('request');
 const WebSocket = require('ws');
 const VError = require('verror');
-const questionSearch = require('./hypotheses/question_search.js');
+const googleSearch = require('./hypotheses/google_search.js');
 
 const DEBUG = false;
 const PING_INTERVAL = 10000;
 
-const USER_ID = 137339;
 const AUTH_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzNzMzOSwidXNlcm5hbWUiOiJjeW91bmciLCJhdmF0YXJVcmwiOm51bGwsInRva2VuIjpudWxsLCJyb2xlcyI6W10sImNsaWVudCI6ImlPUy8xLjIuMyBiNTciLCJpYXQiOjE1MDk5OTg3NjksImV4cCI6MTUxNzc3NDc2OSwiaXNzIjoiaHlwZXF1aXovMSJ9.M_ns3pAHPKb1ar5enRglWUycQEMXEdMjTUXoqCoc38U';
 
 const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
 const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
 const warn = (msg, data) => data ? console.error(`WARN: ${msg}`, data) : console.error(`WARN: ${msg}`);
+
+const token = parse(AUTH_TOKEN);
 
 getShow((err, show) => {
 	if (err || !show)
@@ -72,7 +73,7 @@ function handleMessage(msg) {
 
 		case 'question':
 			console.log(msg);
-			questionSearch(msg, (err, guess) => console.log('GUESS >', { err, guess }));
+			googleSearch(msg, (err, guess) => console.log('GUESS >', { err, guess }));
 			break;
 
 		case 'questionSummary':
@@ -88,7 +89,7 @@ function getShow(cb) {
 	const opts = {
 		gzip: true,
 		method: 'GET',
-		uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${USER_ID}`,
+		uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${token.userId}`,
 		headers: {
 			Host: 'api-quiz.hype.space',
 			'Accept-Encoding': 'br, gzip, deflate',
@@ -116,4 +117,15 @@ function getShow(cb) {
 
 		cb(null, body);
 	});
+}
+
+function parse(bearer) {
+	try {
+		const pieces = bearer.split('.');
+		const token = new Buffer(pieces[1], 'base64').toString();
+
+		return JSON.parse(token);
+	} catch (e) {
+		throw new VError(e, 'Failed to parse token');
+	}
 }

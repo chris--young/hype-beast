@@ -2,9 +2,9 @@
 
 const fs = require('fs');
 const async = require('async');
-const questionSearch = require('../hypotheses/question_search.js');
+const googleSearch = require('../hypotheses/google_search.js');
 
-const DELAY = 1000; // Prevents Google from rate limiting us
+const DELAY = 2000; // Prevents Google from rate limiting us
 
 const files = fs.readdirSync('./data/questions');
 
@@ -17,7 +17,7 @@ async.series(files.map((file) => (cb) => {
 			setTimeout(() => {
 				const summary = summaries[index];
 
-				questionSearch(question, (err, guess) => {
+				googleSearch(question, (err, guess) => {
 					if (err)
 						return cb(err);
 

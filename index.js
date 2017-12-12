@@ -6,6 +6,8 @@ const request = require('request');
 const WebSocket = require('ws');
 const VError = require('verror');
 const questionSearch = require('./hypotheses/question_search.js');
+const summaryProcess = require('./hypotheses/summary_process.js');
+const distributionLock = require('./hypotheses/distribution_lock.js');
 
 const DEBUG = false;
 const PING_INTERVAL = 10000;
@@ -16,6 +18,10 @@ const AUTH_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzNzMzOSw
 const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
 const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
 const warn = (msg, data) => data ? console.error(`WARN: ${msg}`, data) : console.error(`WARN: ${msg}`);
+
+// global variables
+const total = 12 // maybe get it from backend, since it might be 15 sometimes
+const history = [0, 0, 0];
 
 getShow((err, show) => {
 	if (err || !show)
@@ -72,11 +78,18 @@ function handleMessage(msg) {
 
 		case 'question':
 			console.log(msg);
-			questionSearch(msg, (err, guess) => console.log('GUESS >', { err, guess }));
+			questionSearch(msg, (err, answers) => {
+				if(err) {
+					return console.log(err);
+				}
+				questionSummary(total, history, answers);
+				return console.log('GUESS >', { answers });
+			});
 			break;
 
 		case 'questionSummary':
 			console.log(msg);
+			summaryProcess(history, msg);
 			break;
 
 		default:

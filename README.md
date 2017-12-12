@@ -29,7 +29,8 @@ Tools
 
 You can use these tools to help improve the bot. Each time the bot is run it will
 save the stream data for the game it plays. These scripts extract the questions and
-answers to use as testing data for the hypotheses.
+answers to use as testing data for the hypotheses. You _should_ check this data into
+the repo.
 
 __Check accuracy__
 ```

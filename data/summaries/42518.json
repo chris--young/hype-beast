@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:11:21.384Z",
+    "questionId": 15891,
+    "question": "When snow covers a large area, what is it called?",
+    "answerCounts": [
+      {
+        "answerId": 49276,
+        "answer": "Ice lollies",
+        "correct": false,
+        "count": 8091
+      },
+      {
+        "answerId": 49277,
+        "answer": "Accumulation",
+        "correct": true,
+        "count": 265629
+      },
+      {
+        "answerId": 49278,
+        "answer": "Sediment",
+        "correct": false,
+        "count": 14072
+      }
+    ],
+    "advancingPlayersCount": 265629,
+    "eliminatedPlayersCount": 76182,
+    "youGotItRight": true,
+    "yourAnswerId": 49277,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:11:21.497Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:12:17.302Z",
+    "questionId": 15892,
+    "question": "Some Apple devices feature which kind of display?",
+    "answerCounts": [
+      {
+        "answerId": 49279,
+        "answer": "Retina",
+        "correct": true,
+        "count": 248259
+      },
+      {
+        "answerId": 49280,
+        "answer": "Retsyn",
+        "correct": false,
+        "count": 4924
+      },
+      {
+        "answerId": 49281,
+        "answer": "Retention",
+        "correct": false,
+        "count": 7788
+      }
+    ],
+    "advancingPlayersCount": 248259,
+    "eliminatedPlayersCount": 17528,
+    "youGotItRight": true,
+    "yourAnswerId": 49279,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:12:17.370Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:13:20.854Z",
+    "questionId": 15895,
+    "question": "Which of these standardized tests is NOT administered by The College Board?",
+    "answerCounts": [
+      {
+        "answerId": 49288,
+        "answer": "AP",
+        "correct": false,
+        "count": 151586
+      },
+      {
+        "answerId": 49289,
+        "answer": "SAT",
+        "correct": false,
+        "count": 11929
+      },
+      {
+        "answerId": 49290,
+        "answer": "ACT",
+        "correct": true,
+        "count": 73703
+      }
+    ],
+    "advancingPlayersCount": 73703,
+    "eliminatedPlayersCount": 174556,
+    "youGotItRight": true,
+    "yourAnswerId": 49290,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:13:20.924Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:14:31.774Z",
+    "questionId": 15893,
+    "question": "What is the main ingredient in birch beer?",
+    "answerCounts": [
+      {
+        "answerId": 49282,
+        "answer": "Birch roots",
+        "correct": false,
+        "count": 34768
+      },
+      {
+        "answerId": 49283,
+        "answer": "Birch bark",
+        "correct": true,
+        "count": 28468
+      },
+      {
+        "answerId": 49284,
+        "answer": "Birch leaves",
+        "correct": false,
+        "count": 7624
+      }
+    ],
+    "advancingPlayersCount": 28468,
+    "eliminatedPlayersCount": 45235,
+    "youGotItRight": true,
+    "yourAnswerId": 49283,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:14:31.872Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:15:30.389Z",
+    "questionId": 15896,
+    "question": "Which one of these is NOT a Baltic country?",
+    "answerCounts": [
+      {
+        "answerId": 49291,
+        "answer": "Belarus",
+        "correct": true,
+        "count": 15008
+      },
+      {
+        "answerId": 49292,
+        "answer": "Latvia",
+        "correct": false,
+        "count": 3701
+      },
+      {
+        "answerId": 49293,
+        "answer": "Lithuania",
+        "correct": false,
+        "count": 8007
+      }
+    ],
+    "advancingPlayersCount": 15008,
+    "eliminatedPlayersCount": 13460,
+    "youGotItRight": true,
+    "yourAnswerId": 49291,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:15:30.570Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:16:22.848Z",
+    "questionId": 15894,
+    "question": "Which composer opposes Skrillex in YouTube's popular “Epic Rap Battles of History” series?",
+    "answerCounts": [
+      {
+        "answerId": 49285,
+        "answer": "Beethoven",
+        "correct": false,
+        "count": 4700
+      },
+      {
+        "answerId": 49286,
+        "answer": "Bach",
+        "correct": false,
+        "count": 2737
+      },
+      {
+        "answerId": 49287,
+        "answer": "Mozart",
+        "correct": true,
+        "count": 6549
+      }
+    ],
+    "advancingPlayersCount": 6549,
+    "eliminatedPlayersCount": 8459,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:16:22.977Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:17:35.207Z",
+    "questionId": 15897,
+    "question": "What U.S. president with military experience came into office with the lowest rank?",
+    "answerCounts": [
+      {
+        "answerId": 49294,
+        "answer": "Andrew Johnson",
+        "correct": false,
+        "count": 1691
+      },
+      {
+        "answerId": 49295,
+        "answer": "James Buchanan",
+        "correct": true,
+        "count": 2593
+      },
+      {
+        "answerId": 49296,
+        "answer": "James K. Polk",
+        "correct": false,
+        "count": 1927
+      }
+    ],
+    "advancingPlayersCount": 2593,
+    "eliminatedPlayersCount": 3956,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:17:35.308Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:19:03.770Z",
+    "questionId": 15898,
+    "question": "Which of these is NOT another name for a tsunami?",
+    "answerCounts": [
+      {
+        "answerId": 49297,
+        "answer": "Seismic wave",
+        "correct": false,
+        "count": 354
+      },
+      {
+        "answerId": 49298,
+        "answer": "Shock wave",
+        "correct": true,
+        "count": 1324
+      },
+      {
+        "answerId": 49299,
+        "answer": "Harbor wave",
+        "correct": false,
+        "count": 817
+      }
+    ],
+    "advancingPlayersCount": 1324,
+    "eliminatedPlayersCount": 1269,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:19:03.863Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:20:51.077Z",
+    "questionId": 15899,
+    "question": "In what film did Al Pacino & Robert De Niro first appear on-screen together?",
+    "answerCounts": [
+      {
+        "answerId": 49300,
+        "answer": "The Godfather: Part II",
+        "correct": false,
+        "count": 419
+      },
+      {
+        "answerId": 49301,
+        "answer": "Goodfellas",
+        "correct": false,
+        "count": 450
+      },
+      {
+        "answerId": 49302,
+        "answer": "Heat",
+        "correct": true,
+        "count": 411
+      }
+    ],
+    "advancingPlayersCount": 411,
+    "eliminatedPlayersCount": 913,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:20:51.143Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:22:48.724Z",
+    "questionId": 15932,
+    "question": "Which of these was NOT one of Baskin-Robbins original 31 flavors?",
+    "answerCounts": [
+      {
+        "answerId": 49404,
+        "answer": "Date Nut",
+        "correct": false,
+        "count": 88
+      },
+      {
+        "answerId": 49405,
+        "answer": "Cotton Candy",
+        "correct": true,
+        "count": 144
+      },
+      {
+        "answerId": 49406,
+        "answer": "Egg Nog",
+        "correct": false,
+        "count": 169
+      }
+    ],
+    "advancingPlayersCount": 144,
+    "eliminatedPlayersCount": 267,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:22:48.791Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:24:21.965Z",
+    "questionId": 15901,
+    "question": "Which of these athletes is enshrined in both the Pro Football & Baseball Halls of Fame?",
+    "answerCounts": [
+      {
+        "answerId": 49306,
+        "answer": "Cal Hubbard",
+        "correct": true,
+        "count": 67
+      },
+      {
+        "answerId": 49307,
+        "answer": "Guy Chamberlin",
+        "correct": false,
+        "count": 31
+      },
+      {
+        "answerId": 49308,
+        "answer": "Bill Klem",
+        "correct": false,
+        "count": 42
+      }
+    ],
+    "advancingPlayersCount": 67,
+    "eliminatedPlayersCount": 77,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:24:22.276Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-12T20:26:43.745Z",
+    "questionId": 15902,
+    "question": "Which painter changed his name over 30 times, more any major artist?",
+    "answerCounts": [
+      {
+        "answerId": 49309,
+        "answer": "Noda",
+        "correct": false,
+        "count": 10
+      },
+      {
+        "answerId": 49310,
+        "answer": "Miró",
+        "correct": false,
+        "count": 24
+      },
+      {
+        "answerId": 49311,
+        "answer": "Hokusai",
+        "correct": true,
+        "count": 32
+      }
+    ],
+    "advancingPlayersCount": 32,
+    "eliminatedPlayersCount": 35,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-12T20:26:44.067Z"
+  }
+]

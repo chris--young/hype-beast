@@ -18,11 +18,11 @@ const COLORS = {
 };
 
 const log = (...args) => console.log(COLORS.WHITE, ...args, '\x1b[0m');
-const exit = (code, ...args) => console.error(COLORS.RED, ...args) || process.exit(code);
-const debug = (...args) => void (DEBUG && console.log(COLORS.GREEN, 'DEBUG:', ...args));
-const warn = (...args) => console.error(COLORS.YELLOW, 'WARN:', ...args);
+const exit = (code, ...args) => console.error(COLORS.RED, ...args, '\x1b[0m') || process.exit(code);
+const debug = (...args) => void (DEBUG && console.log(COLORS.GREEN, 'DEBUG:', ...args, '\x1b[0m'));
+const warn = (...args) => console.error(COLORS.YELLOW, 'WARN:', ...args, '\x1b[0m');
 
-Object.keys(COLORS).forEach((key) => log[key.toLowerCase()] = (...args) => console.log(COLORS[key], ...args));
+Object.keys(COLORS).forEach((key) => log[key.toLowerCase()] = (...args) => console.log(COLORS[key], ...args, '\x1b[0m'));
 
 exports.log = log;
 exports.exit = exit;

@@ -48,7 +48,7 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 			return reject(new VError(err, 'Failed to make request'), null);
 
 		if (res.statusCode !== 200)
-			return reject(new VError(`Got bad status code from google: ${res.statusCode}`), { headers: res.headers, body });
+			return reject(new VError(`Got bad status code from google: ${res.statusCode}`));
 
 		cache[opts.url] = body;
 

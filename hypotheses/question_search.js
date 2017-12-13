@@ -20,6 +20,6 @@ module.exports = (question, cb) => {
 
 	return googleSearch(question.question, PAGES)
 		.then((pages) => count(pages).sort(sort))
-		.catch((err) => new VError('Failed to search google'));
+		.catch((err) => new VError(err, 'Failed to search google'));
 };
 

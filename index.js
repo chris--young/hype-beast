@@ -82,7 +82,7 @@ function handleMessage(msg) {
 				if(err) {
 					return console.log(err);
 				}
-				questionSummary(total, history, answers);
+				distributionLock(total, history, answers);
 				return console.log('GUESS >', { answers });
 			});
 			break;

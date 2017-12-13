@@ -6,11 +6,17 @@ const request = require('request');
 const WebSocket = require('ws');
 const VError = require('verror');
 const questionSearch = require('./hypotheses/question_search.js');
+const summaryProcess = require('./hypotheses/summary_process.js');
+const distributionLock = require('./hypotheses/distribution_lock.js');
 
 const DEBUG = false;
 const PING_INTERVAL = 10000;
 
 const AUTH_TOKEN = process.env.HQ_AUTH_TOKEN;
+
+// global variables
+const total = 12 // maybe get it from backend, since it might be 15 sometimes
+const history = [0, 0, 0];
 
 const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
 const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
@@ -76,11 +82,22 @@ function handleMessage(msg) {
 
 		case 'question':
 			console.log(msg);
-			questionSearch(msg, (err, guess) => console.log('GUESS >', { err, guess }));
+			questionSearch(msg, (err, answers) => {
+				if(err) {
+					return console.log(err);
+				}
+
+				distributionLock(total, history, answers);
+
+				console.log('RESULTS: ');
+				console.log('\x1b[36m', answers, '\x1b[0m');
+				return console.log('\x1b[35m', 'GUESS > ', _.find(answers, { recommend: true }).answer, '\x1b[0m');
+			});
 			break;
 
 		case 'questionSummary':
 			console.log(msg);
+			summaryProcess(history, msg);
 			break;
 
 		default:

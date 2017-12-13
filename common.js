@@ -23,7 +23,7 @@ const exit = (code, msg, data) => out('error', COLORS.RED, msg, data) || process
 const debug = (msg, data) => void (DEBUG && out('log', COLORS.GREEN, `DEBUG: ${msg}`, data));
 const warn = (msg, data) => out('error', COLORS.YELLOW, `WARN: ${msg}`, data);
 
-Object.keys(COLORS).forEach((key) => exports.log[key.toLowerCase()] = (msg, data) => out('log', COLORS[key], msg, data));
+Object.keys(COLORS).forEach((key) => log[key.toLowerCase()] = (msg, data) => out('log', COLORS[key], msg, data));
 
 exports.log = log;
 exports.exit = exit;

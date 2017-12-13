@@ -37,14 +37,9 @@ save the stream data for the game it plays. These scripts extract the questions 
 answers to use as testing data for the hypotheses. You _should_ check this data into
 the repo.
 
-__Extract questions for broadcast 1337__
+__Extract questions and answers for broadcast 1337__
 ```
-➜  node tools/extract_messages 1337.stream questions > data/questions/1337.json
-```
-
-__Extract answers for broadcast 1337__
-```
-➜  node tools/extract_messages 1337.stream questionSummary > data/summaries/1337.json
+➜  node tools/extract_messages 1337
 ```
 
 __Check accuracy against broadcast 1337__

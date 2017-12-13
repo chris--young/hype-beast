@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:06:28.323Z",
+    "questionId": 16136,
+    "question": "What is the scientific study of the nervous system?",
+    "answerCounts": [
+      {
+        "answerId": 50026,
+        "answer": "Anxiety",
+        "correct": false,
+        "count": 8203
+      },
+      {
+        "answerId": 50027,
+        "answer": "Neuroscience",
+        "correct": true,
+        "count": 285747
+      },
+      {
+        "answerId": 50028,
+        "answer": "Scientology",
+        "correct": false,
+        "count": 4584
+      }
+    ],
+    "advancingPlayersCount": 285747,
+    "eliminatedPlayersCount": 58031,
+    "youGotItRight": true,
+    "yourAnswerId": 50027,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:06:28.579Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:07:11.416Z",
+    "questionId": 16138,
+    "question": "Which gas is used in hot air balloons?",
+    "answerCounts": [
+      {
+        "answerId": 50032,
+        "answer": "Propane",
+        "correct": true,
+        "count": 215614
+      },
+      {
+        "answerId": 50033,
+        "answer": "Bovine flatulence",
+        "correct": false,
+        "count": 10314
+      },
+      {
+        "answerId": 50034,
+        "answer": "Xenon",
+        "correct": false,
+        "count": 42823
+      }
+    ],
+    "advancingPlayersCount": 215614,
+    "eliminatedPlayersCount": 70469,
+    "youGotItRight": true,
+    "yourAnswerId": 50032,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:07:11.559Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:07:51.450Z",
+    "questionId": 16137,
+    "question": "Which of these animals is NOT a source of ivory?",
+    "answerCounts": [
+      {
+        "answerId": 50029,
+        "answer": "Walrus",
+        "correct": false,
+        "count": 17719
+      },
+      {
+        "answerId": 50030,
+        "answer": "Rhino",
+        "correct": true,
+        "count": 25369
+      },
+      {
+        "answerId": 50031,
+        "answer": "Elk",
+        "correct": false,
+        "count": 162356
+      }
+    ],
+    "advancingPlayersCount": 25369,
+    "eliminatedPlayersCount": 190245,
+    "youGotItRight": false,
+    "yourAnswerId": 50031,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:07:51.773Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:08:29.167Z",
+    "questionId": 16147,
+    "question": "Which of these is NOT a city in Venezuela?",
+    "answerCounts": [
+      {
+        "answerId": 50059,
+        "answer": "Santa Marta",
+        "correct": true,
+        "count": 2066
+      },
+      {
+        "answerId": 50060,
+        "answer": "Maracaibo",
+        "correct": false,
+        "count": 1484
+      },
+      {
+        "answerId": 50061,
+        "answer": "Barcelona",
+        "correct": false,
+        "count": 18776
+      }
+    ],
+    "advancingPlayersCount": 2066,
+    "eliminatedPlayersCount": 23303,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:08:29.513Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:09:05.113Z",
+    "questionId": 16139,
+    "question": "Actors Julie Delpy and Ethan Hawke meet on a train in which romantic film?",
+    "answerCounts": [
+      {
+        "answerId": 50035,
+        "answer": "Reality Bites",
+        "correct": false,
+        "count": 268
+      },
+      {
+        "answerId": 50036,
+        "answer": "Before Sunrise",
+        "correct": true,
+        "count": 1098
+      },
+      {
+        "answerId": 50037,
+        "answer": "Mystery Date",
+        "correct": false,
+        "count": 357
+      }
+    ],
+    "advancingPlayersCount": 1098,
+    "eliminatedPlayersCount": 968,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:09:05.383Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:09:39.240Z",
+    "questionId": 16148,
+    "question": "The left side of the brain is NOT more responsible than which of these things?",
+    "answerCounts": [
+      {
+        "answerId": 50062,
+        "answer": "Reasoning",
+        "correct": false,
+        "count": 214
+      },
+      {
+        "answerId": 50063,
+        "answer": "Creativity",
+        "correct": true,
+        "count": 527
+      },
+      {
+        "answerId": 50064,
+        "answer": "Math",
+        "correct": false,
+        "count": 299
+      }
+    ],
+    "advancingPlayersCount": 527,
+    "eliminatedPlayersCount": 571,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:09:39.514Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:10:11.742Z",
+    "questionId": 16143,
+    "question": "Which state in the continental U.S. became a state last?",
+    "answerCounts": [
+      {
+        "answerId": 50047,
+        "answer": "Hawaii",
+        "correct": false,
+        "count": 284
+      },
+      {
+        "answerId": 50048,
+        "answer": "Arizona",
+        "correct": true,
+        "count": 83
+      },
+      {
+        "answerId": 50049,
+        "answer": "New Mexico",
+        "correct": false,
+        "count": 136
+      }
+    ],
+    "advancingPlayersCount": 83,
+    "eliminatedPlayersCount": 444,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:10:11.902Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:10:40.829Z",
+    "questionId": 16140,
+    "question": "Which airline sells the single-most-expensive ticket in the world?",
+    "answerCounts": [
+      {
+        "answerId": 50038,
+        "answer": "Etihad Airlines",
+        "correct": true,
+        "count": 36
+      },
+      {
+        "answerId": 50039,
+        "answer": "Qatar Airways",
+        "correct": false,
+        "count": 38
+      },
+      {
+        "answerId": 50040,
+        "answer": "British Airways",
+        "correct": false,
+        "count": 8
+      }
+    ],
+    "advancingPlayersCount": 36,
+    "eliminatedPlayersCount": 47,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:10:40.911Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:11:17.983Z",
+    "questionId": 16141,
+    "question": "Who said "Somewhere something incredible is waiting to be known"?",
+    "answerCounts": [
+      {
+        "answerId": 50041,
+        "answer": "Carl Sagan",
+        "correct": true,
+        "count": 23
+      },
+      {
+        "answerId": 50042,
+        "answer": "Neil deGrasse Tyson",
+        "correct": false,
+        "count": 8
+      },
+      {
+        "answerId": 50043,
+        "answer": "Bill Nye",
+        "correct": false,
+        "count": 5
+      }
+    ],
+    "advancingPlayersCount": 23,
+    "eliminatedPlayersCount": 13,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:11:18.286Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:11:55.804Z",
+    "questionId": 16145,
+    "question": "Which one of these is the first in the stellar sequence?",
+    "answerCounts": [
+      {
+        "answerId": 50053,
+        "answer": "Pulsar",
+        "correct": false,
+        "count": 11
+      },
+      {
+        "answerId": 50054,
+        "answer": "Supernova",
+        "correct": true,
+        "count": 6
+      },
+      {
+        "answerId": 50055,
+        "answer": "Neutron star",
+        "correct": false,
+        "count": 6
+      }
+    ],
+    "advancingPlayersCount": 6,
+    "eliminatedPlayersCount": 17,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:11:56.093Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:12:40.744Z",
+    "questionId": 16146,
+    "question": ""Vanilla Sky" was adapted from which Spanish movie?",
+    "answerCounts": [
+      {
+        "answerId": 50056,
+        "answer": "Y Tu Mama También",
+        "correct": false,
+        "count": 1
+      },
+      {
+        "answerId": 50057,
+        "answer": "Vicky Cristina Barcelona",
+        "correct": false,
+        "count": 0
+      },
+      {
+        "answerId": 50058,
+        "answer": "Abre Los Ojos",
+        "correct": true,
+        "count": 5
+      }
+    ],
+    "advancingPlayersCount": 5,
+    "eliminatedPlayersCount": 1,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:12:41.014Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T20:13:38.776Z",
+    "questionId": 16235,
+    "question": "The Weird Sisters from "Harry Potter" does NOT include a member from which band?",
+    "answerCounts": [
+      {
+        "answerId": 50323,
+        "answer": "Muse",
+        "correct": true,
+        "count": 1
+      },
+      {
+        "answerId": 50324,
+        "answer": "Radiohead",
+        "correct": false,
+        "count": 3
+      },
+      {
+        "answerId": 50325,
+        "answer": "Pulp",
+        "correct": false,
+        "count": 1
+      }
+    ],
+    "advancingPlayersCount": 1,
+    "eliminatedPlayersCount": 4,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T20:13:39.057Z"
+  }
+]

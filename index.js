@@ -33,7 +33,10 @@ getShow((err, show) => {
 
 	log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
 
-	const path = `./${show.broadcast.broadcastId}.stream`;
+	if (!fs.existsSync('./data/broadcasts'))
+		fs.mkdirSync('./data/broadcasts');
+
+	const path = `./data/broadcasts/${show.broadcast.broadcastId}.txt`;
 	const file = fs.createWriteStream(path, { flags: 'a' });
 	const ws = new WebSocket(show.broadcast.socketUrl, opts);
 

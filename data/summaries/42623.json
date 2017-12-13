@@ -267,7 +267,7 @@
     "type": "questionSummary",
     "ts": "2017-12-13T20:11:17.983Z",
     "questionId": 16141,
-    "question": "Who said "Somewhere something incredible is waiting to be known"?",
+    "question": "Who said \"Somewhere something incredible is waiting to be known\"?",
     "answerCounts": [
       {
         "answerId": 50041,
@@ -333,7 +333,7 @@
     "type": "questionSummary",
     "ts": "2017-12-13T20:12:40.744Z",
     "questionId": 16146,
-    "question": ""Vanilla Sky" was adapted from which Spanish movie?",
+    "question": "\"Vanilla Sky\" was adapted from which Spanish movie?",
     "answerCounts": [
       {
         "answerId": 50056,
@@ -366,7 +366,7 @@
     "type": "questionSummary",
     "ts": "2017-12-13T20:13:38.776Z",
     "questionId": 16235,
-    "question": "The Weird Sisters from "Harry Potter" does NOT include a member from which band?",
+    "question": "The Weird Sisters from \"Harry Potter\" does NOT include a member from which band?",
     "answerCounts": [
       {
         "answerId": 50323,

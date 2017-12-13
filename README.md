@@ -24,7 +24,7 @@ __Set auth token__ (You can get this using Charles or Burp)
 
 __Run the bot__
 ```
-➜  npm start
+➜  node index
 ```
 
 ******
@@ -39,7 +39,7 @@ the repo.
 
 __Extract questions and answers for broadcast 1337__
 ```
-➜  node tools/extract_messages 1337
+➜  node tools/extract_broadcast_data 1337
 ```
 
 __Check accuracy against broadcast 1337__

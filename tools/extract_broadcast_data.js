@@ -18,5 +18,5 @@ try {
 	fs.writeFileSync(`./data/questions/${BROADCAST_ID}.json`, JSON.stringify(questions, null, 2));
 	fs.writeFileSync(`./data/summaries/${BROADCAST_ID}.json`, JSON.stringify(summaries, null, 2));
 } catch (e) {
-	exit(2, 'Failed to parse broadcast data');
+	exit(2, 'Failed to parse broadcast data', e);
 }

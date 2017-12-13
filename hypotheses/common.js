@@ -14,8 +14,25 @@ exports.googleSearch = (query, cb) => {
 			return cb(err, null);
 
 		if (res.statusCode !== 200)
-			return cb(new VError(`Got bad status code: ${res.statusCode}`), body);
+			return cb(new VError(`Got bad status code from google: ${res.statusCode}`), body);
 
 		cb(null, body);
 	});
 };
+
+exports.wikiSearch = (query, cb) => {
+	const opts = {
+		method: 'GET',
+		url: `https://en.wikipedia.org/wiki/Special:Search?search=${encodeURIComponent(query)}`,
+	};
+
+	request(opts, (err, res, body) => {
+		if (err)
+			return cb(err, null);
+
+		if (res.statusCode !== 200)
+			return cb(new VError(`Got bad status code from wiki: ${res.statusCode}`), body);
+
+		cb(null, body);
+	});
+}

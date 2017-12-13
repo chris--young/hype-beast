@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:51:17.580Z",
+    "questionId": 16210,
+    "question": "Zebras are native to which continent?",
+    "answerCounts": [
+      {
+        "answerId": 50248,
+        "answer": "Africa",
+        "correct": true,
+        "count": 355203
+      },
+      {
+        "answerId": 50249,
+        "answer": "Antarctica",
+        "correct": false,
+        "count": 1891
+      },
+      {
+        "answerId": 50250,
+        "answer": "North America",
+        "correct": false,
+        "count": 1780
+      }
+    ],
+    "advancingPlayersCount": 355203,
+    "eliminatedPlayersCount": 62887,
+    "youGotItRight": true,
+    "yourAnswerId": 50248,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:51:17.668Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:52:07.202Z",
+    "questionId": 16211,
+    "question": "Which vitamin is naturally synthesized in the skin with exposure to the sun?",
+    "answerCounts": [
+      {
+        "answerId": 50251,
+        "answer": "B6",
+        "correct": false,
+        "count": 8137
+      },
+      {
+        "answerId": 50252,
+        "answer": "D",
+        "correct": true,
+        "count": 308786
+      },
+      {
+        "answerId": 50253,
+        "answer": "C",
+        "correct": false,
+        "count": 32344
+      }
+    ],
+    "advancingPlayersCount": 308786,
+    "eliminatedPlayersCount": 47030,
+    "youGotItRight": true,
+    "yourAnswerId": 50252,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:52:07.350Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:52:59.265Z",
+    "questionId": 16212,
+    "question": "What is this “&” symbol called?",
+    "answerCounts": [
+      {
+        "answerId": 50254,
+        "answer": "Ampersand",
+        "correct": true,
+        "count": 266409
+      },
+      {
+        "answerId": 50255,
+        "answer": "Andition",
+        "correct": false,
+        "count": 32367
+      },
+      {
+        "answerId": 50256,
+        "answer": "Caret",
+        "correct": false,
+        "count": 5267
+      }
+    ],
+    "advancingPlayersCount": 266409,
+    "eliminatedPlayersCount": 42377,
+    "youGotItRight": true,
+    "yourAnswerId": 50254,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:52:59.380Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:53:49.261Z",
+    "questionId": 16213,
+    "question": "Which European country boasts the largest population?",
+    "answerCounts": [
+      {
+        "answerId": 50257,
+        "answer": "United Kingdom",
+        "correct": false,
+        "count": 97886
+      },
+      {
+        "answerId": 50258,
+        "answer": "France",
+        "correct": false,
+        "count": 40015
+      },
+      {
+        "answerId": 50259,
+        "answer": "Germany",
+        "correct": true,
+        "count": 121110
+      }
+    ],
+    "advancingPlayersCount": 121110,
+    "eliminatedPlayersCount": 145299,
+    "youGotItRight": true,
+    "yourAnswerId": 50259,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:53:49.337Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:54:44.640Z",
+    "questionId": 16214,
+    "question": "Which cocktail contains cognac, Cointreau and lemon juice?",
+    "answerCounts": [
+      {
+        "answerId": 50260,
+        "answer": "Sidecar",
+        "correct": true,
+        "count": 61108
+      },
+      {
+        "answerId": 50261,
+        "answer": "Long Island Iced Tea",
+        "correct": false,
+        "count": 16923
+      },
+      {
+        "answerId": 50262,
+        "answer": "Manhattan",
+        "correct": false,
+        "count": 39479
+      }
+    ],
+    "advancingPlayersCount": 61108,
+    "eliminatedPlayersCount": 60002,
+    "youGotItRight": true,
+    "yourAnswerId": 50260,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:54:44.790Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:55:35.274Z",
+    "questionId": 16215,
+    "question": "What filmmaker has actually beat up some of his critics in a boxing ring?",
+    "answerCounts": [
+      {
+        "answerId": 50263,
+        "answer": "Michael Bay",
+        "correct": false,
+        "count": 9723
+      },
+      {
+        "answerId": 50264,
+        "answer": "Uwe Boll",
+        "correct": true,
+        "count": 18036
+      },
+      {
+        "answerId": 50265,
+        "answer": "Quentin Tarantino",
+        "correct": false,
+        "count": 32090
+      }
+    ],
+    "advancingPlayersCount": 18036,
+    "eliminatedPlayersCount": 43072,
+    "youGotItRight": true,
+    "yourAnswerId": 50264,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:55:35.430Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:56:28.017Z",
+    "questionId": 16216,
+    "question": "Pierre Cardin was born in what country?",
+    "answerCounts": [
+      {
+        "answerId": 50266,
+        "answer": "France",
+        "correct": false,
+        "count": 4922
+      },
+      {
+        "answerId": 50267,
+        "answer": "Belgium",
+        "correct": false,
+        "count": 8279
+      },
+      {
+        "answerId": 50268,
+        "answer": "Italy",
+        "correct": true,
+        "count": 4550
+      }
+    ],
+    "advancingPlayersCount": 4550,
+    "eliminatedPlayersCount": 13486,
+    "youGotItRight": true,
+    "yourAnswerId": 50268,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:56:28.256Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:57:29.180Z",
+    "questionId": 16217,
+    "question": "According to its creator, which of these games was secretly designed as a stage play?",
+    "answerCounts": [
+      {
+        "answerId": 50269,
+        "answer": "Super Mario Bros. 3",
+        "correct": true,
+        "count": 1469
+      },
+      {
+        "answerId": 50270,
+        "answer": "Assassin's Creed",
+        "correct": false,
+        "count": 1813
+      },
+      {
+        "answerId": 50271,
+        "answer": "Metroid Prime",
+        "correct": false,
+        "count": 966
+      }
+    ],
+    "advancingPlayersCount": 1469,
+    "eliminatedPlayersCount": 3081,
+    "youGotItRight": false,
+    "yourAnswerId": 50271,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:57:29.338Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:58:29.643Z",
+    "questionId": 16218,
+    "question": "“The Gift,” “The Eye,” and “The Defense” are novels by which notable author?",
+    "answerCounts": [
+      {
+        "answerId": 50272,
+        "answer": "Vladimir Nabokov",
+        "correct": true,
+        "count": 659
+      },
+      {
+        "answerId": 50273,
+        "answer": "Herman Melville",
+        "correct": false,
+        "count": 358
+      },
+      {
+        "answerId": 50274,
+        "answer": "John Steinbeck",
+        "correct": false,
+        "count": 280
+      }
+    ],
+    "advancingPlayersCount": 659,
+    "eliminatedPlayersCount": 810,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:58:29.753Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T02:59:16.458Z",
+    "questionId": 16219,
+    "question": "The name of which common herb is taken from a Greek word connoting royalty?",
+    "answerCounts": [
+      {
+        "answerId": 50275,
+        "answer": "Cilantro",
+        "correct": false,
+        "count": 63
+      },
+      {
+        "answerId": 50276,
+        "answer": "Coriander",
+        "correct": false,
+        "count": 326
+      },
+      {
+        "answerId": 50277,
+        "answer": "Basil",
+        "correct": true,
+        "count": 244
+      }
+    ],
+    "advancingPlayersCount": 244,
+    "eliminatedPlayersCount": 415,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T02:59:16.703Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T03:00:28.127Z",
+    "questionId": 16220,
+    "question": "Which of these dictators was in office the longest?",
+    "answerCounts": [
+      {
+        "answerId": 50278,
+        "answer": "Muammar Gaddafi",
+        "correct": true,
+        "count": 73
+      },
+      {
+        "answerId": 50279,
+        "answer": "Robert Mugabe",
+        "correct": false,
+        "count": 144
+      },
+      {
+        "answerId": 50280,
+        "answer": "Saddam Hussein",
+        "correct": false,
+        "count": 24
+      }
+    ],
+    "advancingPlayersCount": 73,
+    "eliminatedPlayersCount": 171,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T03:00:28.387Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-13T03:02:12.165Z",
+    "questionId": 16221,
+    "question": "The “izzle” slang, made popular by Snoop Dogg, first appeared in which of these songs?",
+    "answerCounts": [
+      {
+        "answerId": 50281,
+        "answer": "Double Dutch Bus",
+        "correct": true,
+        "count": 25
+      },
+      {
+        "answerId": 50282,
+        "answer": "Who Am I/What's My Name",
+        "correct": false,
+        "count": 26
+      },
+      {
+        "answerId": 50283,
+        "answer": "Roxanne, Roxanne",
+        "correct": false,
+        "count": 19
+      }
+    ],
+    "advancingPlayersCount": 25,
+    "eliminatedPlayersCount": 48,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-13T03:02:12.477Z"
+  }
+]

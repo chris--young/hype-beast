@@ -12,23 +12,27 @@ const distributionLock = require('./hypotheses/distribution_lock.js');
 const DEBUG = false;
 const PING_INTERVAL = 10000;
 
-const USER_ID = 137339;
-const AUTH_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEzNzMzOSwidXNlcm5hbWUiOiJjeW91bmciLCJhdmF0YXJVcmwiOm51bGwsInRva2VuIjpudWxsLCJyb2xlcyI6W10sImNsaWVudCI6ImlPUy8xLjIuMyBiNTciLCJpYXQiOjE1MDk5OTg3NjksImV4cCI6MTUxNzc3NDc2OSwiaXNzIjoiaHlwZXF1aXovMSJ9.M_ns3pAHPKb1ar5enRglWUycQEMXEdMjTUXoqCoc38U';
-
-const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
-const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
-const warn = (msg, data) => data ? console.error(`WARN: ${msg}`, data) : console.error(`WARN: ${msg}`);
+const AUTH_TOKEN = process.env.HQ_AUTH_TOKEN;
 
 // global variables
 const total = 12 // maybe get it from backend, since it might be 15 sometimes
 const history = [0, 0, 0];
 
+const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
+const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
+const warn = (msg, data) => data ? console.error(`WARN: ${msg}`, data) : console.error(`WARN: ${msg}`);
+
+if (!AUTH_TOKEN)
+	exit(1, '$HQ_AUTH_TOKEN undefined');
+
+const token = parseToken(AUTH_TOKEN);
+
 getShow((err, show) => {
 	if (err || !show)
-		exit(1, 'Failed to get show data', { err, show });
+		exit(2, 'Failed to get show data', { err, show });
 
 	if (!show.active)
-		exit(2, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
+		exit(3, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
 
 	const opts = {
 		perMessageDeflate: false,
@@ -73,7 +77,7 @@ function handleMessage(msg) {
 		case 'postGame':
 		case 'kicked':
 			if (DEBUG)
-					console.log(msg);
+				console.log(msg);
 			break;
 
 		case 'question':
@@ -105,7 +109,7 @@ function getShow(cb) {
 	const opts = {
 		gzip: true,
 		method: 'GET',
-		uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${USER_ID}`,
+		uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${token.userId}`,
 		headers: {
 			Host: 'api-quiz.hype.space',
 			'Accept-Encoding': 'br, gzip, deflate',
@@ -123,7 +127,7 @@ function getShow(cb) {
 			return cb(new VError(err, 'Failed to make request'), null);
 
 		if (res.statusCode !== 200)
-			return cb(new VError('Got bad response: %d', res.statusCode), body);
+			return cb(new VError('Got bad response: %d', res.statusCode), { headers: res.headers, body });
 
 		try {
 			body = JSON.parse(body);
@@ -133,4 +137,15 @@ function getShow(cb) {
 
 		cb(null, body);
 	});
+}
+
+function parseToken(bearer) {
+	try {
+		const raw = bearer.split('.')[1];
+		const token = new Buffer(raw, 'base64').toString();
+
+		return JSON.parse(token);
+	} catch (e) {
+		throw new VError(e, `Failed to parse token: ${bearer}`);;
+	}
 }

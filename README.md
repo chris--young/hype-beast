@@ -17,9 +17,9 @@ __Install dependencies__
 ➜  npm install
 ```
 
-__Set auth token__ (You can get this using Charles or Burp)
+__Set auth token__ (You can get this using Charles or Burp, use just the base64 part of the Authorization header)
 ```
-➜  export HQ_AUTH_TOKEN=<your token>
+➜  export HQ_AUTH_TOKEN=<your_token>
 ```
 
 __Run the bot__

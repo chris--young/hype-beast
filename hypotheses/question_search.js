@@ -18,12 +18,12 @@ module.exports = function (question, cb) {
 			const regex = new RegExp(answer.text, 'gi');
 			const count = (body.match(regex) || []).length;
 
-			results.push({answer, index, count});
+			results.push({answer: answer.text, index, count});
 		});
 
-		results = _.sortBy(results, (item) => - item.count);
+		results = _.sortBy(results, (item) => (not ? 1 : -1) * item.count);
 
-		const recommend = not ? results.length - 1 : 0;
+		const recommend = 0;
 
 		_.each(results, (answer, index) => {
 			answer.recommend = recommend === index;

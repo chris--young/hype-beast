@@ -83,7 +83,9 @@ function handleMessage(msg) {
 					return console.log(err);
 				}
 				distributionLock(total, history, answers);
-				return console.log('GUESS >', { answers });
+				console.log('RESULTS');
+				console.log("\x1b[36m", answers);
+				return console.log("\x1b[5m", 'GUESS > ', _.find(answers, { recommend: true }));
 			});
 			break;
 

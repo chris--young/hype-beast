@@ -82,10 +82,12 @@ function handleMessage(msg) {
 				if(err) {
 					return console.log(err);
 				}
+
 				distributionLock(total, history, answers);
-				console.log('RESULTS');
-				console.log("\x1b[36m", answers);
-				return console.log("\x1b[5m", 'GUESS > ', _.find(answers, { recommend: true }));
+
+				console.log('RESULTS: ');
+				console.log('\x1b[36m', answers, '\x1b[0m');
+				return console.log('\x1b[35m', 'GUESS > ', _.find(answers, { recommend: true }).answer, '\x1b[0m');
 			});
 			break;
 

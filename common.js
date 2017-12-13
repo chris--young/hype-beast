@@ -29,14 +29,16 @@ exports.exit = exit;
 exports.debug = debug;
 exports.warn = warn;
 
-exports.googleSearch = (query, page = 0) => new Promise((resolve, reject) => {
+const range = (length) => Array(length).fill().map((_, index) => index);
+
+exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page) => new Promise((resolve, reject) => {
 	const opts = {
 		method: 'GET',
 		url: `https://www.google.com/search?q=${encodeURIComponent(query)}`
 	};
 
 	if (page)
-		opts.url += `&start=${page * 10}`;
+		opts.url += `&start=${(page) * 10}`;
 
 	if (cache[opts.url])
 		return setImmediate(() => resolve(cache[opts.url]));
@@ -54,7 +56,7 @@ exports.googleSearch = (query, page = 0) => new Promise((resolve, reject) => {
 
 		resolve(body);
 	});
-});
+})));
 
 exports.wikiSearch = (query, cb) => {
 	const opts = {

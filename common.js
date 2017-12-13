@@ -10,17 +10,18 @@ const COLORS = {
 	BLUE: '\x1b[36m',
 	PINK: '\x1b[35m',
 	GREEN: '\x1b[32m',
-	YELLOW: '\x1b[33m'
+	WHITE: '\x1b[37m',
+	YELLOW: '\x1b[33m',
 };
 
 const out = (m, c, s, o) => o ? console[m](c, s, o, '\x1b[0m') : console[m](c, s, '\x1b[0m');
 
-exports.log = (msg, data) => out('log', null, msg, data);
+exports.log = (msg, data) => out('log', COLORS.WHITE, msg, data);
 exports.exit = (code, msg, data) => out('error', COLORS.RED, msg, data) || process.exit(code);
 exports.debug = (msg, data) => void (DEBUG && out('log', COLORS.GREEN, `DEBUG: ${msg}`, data));
 exports.warn = (msg, data) => out('error', COLORS.YELLOW, `WARN: ${msg}`, data);
 
-Object.keys(COLORS).forEach((key) => exports.log[key.toLowerCase()] = (msg, data) => out('log', COLORS[color], msg, data));
+Object.keys(COLORS).forEach((key) => exports.log[key.toLowerCase()] = (msg, data) => out('log', COLORS[key], msg, data));
 
 exports.googleSearch = (query, cb) => {
 	const opts = {

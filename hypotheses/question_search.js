@@ -3,12 +3,13 @@
 const fs = require('fs');
 const _ = require('lodash');
 const VError = require('verror');
-const common = require('../common.js');
+
+const { googleSearch } = require('../common');
 
 module.exports = function (question, cb) {
 	const not = /\bnot\b/i.test(question.question);
 
-	common.googleSearch(question.question, (err, body) => {
+	googleSearch(question.question, (err, body) => {
 		if (err)
 			return cb(new VError('Failed to search google'), null);
 
@@ -25,7 +26,7 @@ module.exports = function (question, cb) {
 
 		const recommend = 0;
 
-		_.each(results, (answer, index) => answer.recommend = recommend === index);
+		results.forEach((answer, index) => answer.recommend = recommend === index);
 
 		cb(null, results);
 	});

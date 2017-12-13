@@ -1,15 +1,12 @@
 'use strict'
 
-const _ = require('lodash');
 const fs = require('fs');
 const request = require('request');
 const WebSocket = require('ws');
 const VError = require('verror');
-const questionSearch = require('./hypotheses/question_search.js');
-const summaryProcess = require('./hypotheses/summary_process.js');
-const distributionLock = require('./hypotheses/distribution_lock.js');
 
-const { exit, log, debug, warn } = require('./common.js');
+const { questionSearch, summaryProcess, distributionLock } = require('./hypotheses');
+const { exit, log, debug, warn } = require('./common');
 
 const PING_INTERVAL = 10000;
 const DEBUG = process.env.HQ_DEBUG;
@@ -71,8 +68,7 @@ function handleMessage(msg) {
 		case 'gameStatus':
 		case 'postGame':
 		case 'kicked':
-			if (DEBUG)
-				log(msg);
+			debug(msg);
 			break;
 
 		case 'question':
@@ -86,7 +82,7 @@ function handleMessage(msg) {
 				log('RESULTS: ');
 
 				log.blue(answers);
-				log.pink('GUESS > ', _.find(answers, { recommend: true }).answer);
+				log.pink('GUESS > ', answers.find((answer) => answer.recommend).answer);
 			});
 			break;
 

@@ -2,7 +2,8 @@
 
 const fs = require('fs');
 const async = require('async');
-const questionSearch = require('../hypotheses/question_search.js');
+
+const { questionSearch } = require('../hypotheses');
 
 const DELAY = 1000; // Prevents Google from rate limiting us
 

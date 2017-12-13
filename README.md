@@ -17,6 +17,11 @@ __Install dependencies__
 ➜  npm install
 ```
 
+__Set auth token__ (You can get this using Charles or Burp)
+```
+➜  export HQ_AUTH_TOKEN=<your token>
+```
+
 __Run the bot__
 ```
 ➜  npm start

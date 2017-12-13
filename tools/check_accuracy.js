@@ -3,11 +3,18 @@
 const fs = require('fs');
 const async = require('async');
 
+const { exit, warn, log } = require('../common');
 const { questionSearch } = require('../hypotheses');
 
 const DELAY = 1000; // Prevents Google from rate limiting us
 
-const files = fs.readdirSync('./data/questions');
+let files = fs.readdirSync('./data/questions');
+
+if (process.argv[2])
+	files = files.filter((file) => file === `${process.argv[2]}.json`);
+
+if (!files.length)
+	exit(1, `Failed to find question data for broadcast: ${process.argv[2]}`);
 
 async.series(files.map((file) => (cb) => {
 	setTimeout(() => {
@@ -18,14 +25,13 @@ async.series(files.map((file) => (cb) => {
 			setTimeout(() => {
 				const summary = summaries[index];
 
-				questionSearch(question, (err, guess) => {
+				questionSearch(question, (err, answers) => {
 					if (err)
 						return cb(err);
 
-					if (!guess)
-						return cb(null, false);
+					answers[0].correct = summary.answerCounts[answers[0].index].correct;
 
-					summary.answerCounts.forEach((answer) => (answer.answerId === guess.answerId) && cb(null, answer.correct));
+					cb(null, answers[0]);
 				});
 			}, DELAY);
 		});
@@ -34,12 +40,12 @@ async.series(files.map((file) => (cb) => {
 	}, DELAY);
 }), (err, questions) => {
 	if (err)
-		return console.error({ err });
+		return warn({ err });
 
 	let sum = 0;
 	let correct = 0;
 
-	questions.forEach((guesses) => guesses.forEach((result) => ++sum && (result && ++correct)));
+	questions.forEach((guesses) => guesses.forEach((result) => ++sum && (result.correct && ++correct)));
 
-	console.log({ accuracy: correct / sum });
+	log({ accuracy: correct / sum });
 });

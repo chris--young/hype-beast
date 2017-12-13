@@ -17,13 +17,12 @@ const COLORS = {
 	YELLOW: '\x1b[33m',
 };
 
-const out = (m, c, s, o) => o ? console[m](c, s, o, '\x1b[0m') : console[m](c, s, '\x1b[0m');
-const log = (msg, data) => out('log', COLORS.WHITE, msg, data);
-const exit = (code, msg, data) => out('error', COLORS.RED, msg, data) || process.exit(code);
-const debug = (msg, data) => void (DEBUG && out('log', COLORS.GREEN, `DEBUG: ${msg}`, data));
-const warn = (msg, data) => out('error', COLORS.YELLOW, `WARN: ${msg}`, data);
+const log = (...args) => console.log(COLORS.WHITE, ...args, '\x1b[0m');
+const exit = (code, ...args) => console.error(COLORS.RED, ...args) || process.exit(code);
+const debug = (...args) => void (DEBUG && console.log(COLORS.GREEN, 'DEBUG:', ...args));
+const warn = (...args) => console.error(COLORS.YELLOW, 'WARN:', ...args);
 
-Object.keys(COLORS).forEach((key) => log[key.toLowerCase()] = (msg, data) => out('log', COLORS[key], msg, data));
+Object.keys(COLORS).forEach((key) => log[key.toLowerCase()] = (...args) => console.log(COLORS[key], ...args));
 
 exports.log = log;
 exports.exit = exit;

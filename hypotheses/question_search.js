@@ -18,8 +18,11 @@ module.exports = (question) => {
 		return { answer, index, count };
 	});
 
+	if (not)
+		question.question = question.question.replace(/\bnot\b/i, ' ');
+
 	return googleSearch(question.question, PAGES)
 		.then((pages) => count(pages).sort(sort))
-		.catch((err) => new VError(err, 'Failed to search google'));
+		.catch((err) => Promise.reject(new VError(err, 'Failed to search google')));
 };
 

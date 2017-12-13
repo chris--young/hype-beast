@@ -29,29 +29,32 @@ exports.exit = exit;
 exports.debug = debug;
 exports.warn = warn;
 
-exports.googleSearch = (query, cb) => {
+exports.googleSearch = (query, page = 0) => new Promise((resolve, reject) => {
 	const opts = {
 		method: 'GET',
 		url: `https://www.google.com/search?q=${encodeURIComponent(query)}`
 	};
 
+	if (page)
+		opts.url += `&start=${page * 10}`;
+
 	if (cache[opts.url])
-		return setImmediate(() => cb(null, cache[opts.url]));
+		return setImmediate(() => resolve(cache[opts.url]));
 
 	request(opts, (err, res, body) => {
 		if (err)
-			return cb(new VError(err, 'Failed to make request'), null);
+			return reject(new VError(err, 'Failed to make request'), null);
 
 		if (res.statusCode !== 200)
-			return cb(new VError(`Got bad status code from google: ${res.statusCode}`), { headers: res.headers, body });
+			return reject(new VError(`Got bad status code from google: ${res.statusCode}`), { headers: res.headers, body });
 
 		cache[opts.url] = body;
 
 		fs.writeFile('./data/cache.json', JSON.stringify(cache), (err) => err && warn('Failed to update cache', err));
 
-		cb(null, body);
+		resolve(body);
 	});
-};
+});
 
 exports.wikiSearch = (query, cb) => {
 	const opts = {

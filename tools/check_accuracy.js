@@ -19,18 +19,8 @@ const tests = files.map((file) => {
 	const questions = require(`../data/questions/${file}`);
 	const summaries = require(`../data/summaries/${file}`);
 
-	const tasks = questions.map((question, index) => new Promise((resolve, reject) => {
-		const summary = summaries[index];
-
-		questionSearch(question, (err, answers) => {
-			if (err)
-				return reject(err);
-
-			answers[0].correct = summary.answerCounts[answers[0].index].correct;
-
-			resolve(answers[0]);
-		});
-	}));
+	const check = (index, answers) => summaries[index].answerCounts[answers[0].index].correct;
+	const tasks = questions.map((question, index) => questionSearch(question).then((answers) => check(index, answers)));
 
 	return Promise.all(tasks);
 });
@@ -40,7 +30,7 @@ Promise.all(tests)
 		let sum = 0;
 		let correct = 0;
 
-		questions.forEach((guesses) => guesses.forEach((result) => ++sum && (result.correct && ++correct)));
+		questions.forEach((guesses) => guesses.forEach((result) => ++sum && (result && ++correct)));
 
 		log({ accuracy: correct / sum });
 	})

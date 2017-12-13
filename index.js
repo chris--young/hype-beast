@@ -19,40 +19,39 @@ if (!AUTH_TOKEN)
 const token = parseToken(AUTH_TOKEN);
 const history = [0, 0, 0];
 
-getShow((err, show) => {
-	if (err || !show)
-		exit(2, 'Failed to get show data', { err, show });
+getShow()
+	.then((show) => {
+		if (!show.active)
+			exit(3, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
 
-	if (!show.active)
-		exit(3, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
+		const opts = {
+			perMessageDeflate: false,
+			headers: { Authorization: `Bearer ${AUTH_TOKEN}` }
+		};
 
-	const opts = {
-		perMessageDeflate: false,
-		headers: { Authorization: `Bearer ${AUTH_TOKEN}` }
-	};
+		log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
 
-	log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
+		if (!fs.existsSync('./data/broadcasts'))
+			fs.mkdirSync('./data/broadcasts');
 
-	if (!fs.existsSync('./data/broadcasts'))
-		fs.mkdirSync('./data/broadcasts');
+		const path = `./data/broadcasts/${show.broadcast.broadcastId}.txt`;
+		const file = fs.createWriteStream(path, { flags: 'a' });
+		const ws = new WebSocket(show.broadcast.socketUrl, opts);
 
-	const path = `./data/broadcasts/${show.broadcast.broadcastId}.txt`;
-	const file = fs.createWriteStream(path, { flags: 'a' });
-	const ws = new WebSocket(show.broadcast.socketUrl, opts);
+		debug(`Logging stream to ${path}`);
 
-	debug(`Logging stream to ${path}`);
+		let ping = null;
 
-	let ping = null;
+		ws.on('open', () => {
+			log(`Connection open\nPrize is $${show.prize}`);
+			ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
+		});
 
-	ws.on('open', () => {
-		log(`Connection open\nPrize is $${show.prize}`);
-		ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
-	});
-
-	ws.on('pong', () => debug('...pong'));
-	ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
-	ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
-});
+		ws.on('pong', () => debug('...pong'));
+		ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
+		ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
+	})
+	.catch((err) => exit(2, 'Failed to get show data'));
 
 function handleMessage(msg) {
 	try {
@@ -76,17 +75,16 @@ function handleMessage(msg) {
 
 		case 'question':
 			log(msg);
-			questionSearch(msg, (err, answers) => {
-				if (err)
-					return warn(err, answers);
+			questionSearch(msg)
+				.then((answers) => {
+					distributionLock(NUM_QUESTIONS, history, answers);
 
-				distributionLock(NUM_QUESTIONS, history, answers);
+					log('RESULTS: ');
 
-				log('RESULTS: ');
-
-				log.blue(answers);
-				log.pink('GUESS > ', answers.find((answer) => answer.recommend).answer);
-			});
+					log.blue(answers);
+					log.pink('GUESS > ', answers.find((answer) => answer.recommend).answer);
+				})
+				.catch((err) => warn(err));
 			break;
 
 		case 'questionSummary':
@@ -99,37 +97,42 @@ function handleMessage(msg) {
 	}
 }
 
-function getShow(cb) {
-	const opts = {
-		gzip: true,
-		method: 'GET',
-		uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${token.userId}`,
-		headers: {
-			Host: 'api-quiz.hype.space',
-			'Accept-Encoding': 'br, gzip, deflate',
-			Connection: 'keep-alive',
-			Accept: '*/*',
-			'User-Agent': 'hq-viewer/1.2.4 (iPhone; iOS 11.1.2; Scale/3.00)',
-			'Accept-Language': 'en-US;q=1, es-MX;q=0.9',
-			Authorization: `Bearer ${AUTH_TOKEN}`,
-			'x-hq-client': 'iOS/1.2.4 b59'
-		}
-	};
+function getShow() {
+	return new Promise((resolve, reject) => {
+		const opts = {
+			gzip: true,
+			method: 'GET',
+			uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${token.userId}`,
+			headers: {
+				Host: 'api-quiz.hype.space',
+				'Accept-Encoding': 'br, gzip, deflate',
+				Connection: 'keep-alive',
+				Accept: '*/*',
+				'User-Agent': 'hq-viewer/1.2.4 (iPhone; iOS 11.1.2; Scale/3.00)',
+				'Accept-Language': 'en-US;q=1, es-MX;q=0.9',
+				Authorization: `Bearer ${AUTH_TOKEN}`,
+				'x-hq-client': 'iOS/1.2.4 b59'
+			}
+		};
 
-	request(opts, (err, res, body) => {
-		if (err)
-			return cb(new VError(err, 'Failed to make request'), null);
+		request(opts, (err, res, body) => {
+			if (err)
+				return reject(new VError(err, 'Failed to make request'));
 
-		if (res.statusCode !== 200)
-			return cb(new VError('Got bad response: %d', res.statusCode), { headers: res.headers, body });
+			if (res.statusCode !== 200)
+				return reject(new VError('Got bad response: %d', res.statusCode));
 
-		try {
-			body = JSON.parse(body);
-		} catch (e) {
-			return cb(new VError(e, 'Failed to parse response'), null);
-		}
+			try {
+				body = JSON.parse(body);
+			} catch (e) {
+				return reject(new VError(e, 'Failed to parse response'));
+			}
 
-		cb(null, body);
+			if (!body)
+				return reject(new VError('Show not found'));
+
+			resolve(body);
+		});
 	});
 }
 

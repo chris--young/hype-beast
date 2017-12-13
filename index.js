@@ -9,23 +9,18 @@ const questionSearch = require('./hypotheses/question_search.js');
 const summaryProcess = require('./hypotheses/summary_process.js');
 const distributionLock = require('./hypotheses/distribution_lock.js');
 
-const DEBUG = false;
+const { exit, log, debug, warn } = require('./common.js');
+
 const PING_INTERVAL = 10000;
-
+const DEBUG = process.env.HQ_DEBUG;
 const AUTH_TOKEN = process.env.HQ_AUTH_TOKEN;
-
-// global variables
-const total = 12 // maybe get it from backend, since it might be 15 sometimes
-const history = [0, 0, 0];
-
-const exit = (code, msg, data) => (data ? console.error(msg, data) : console.error(msg)) || process.exit(code);
-const debug = (msg, data) => void (DEBUG && (data ? console.log(`DEBUG: ${msg}`, data) : console.log(`DEBUG: ${msg}`)));
-const warn = (msg, data) => data ? console.error(`WARN: ${msg}`, data) : console.error(`WARN: ${msg}`);
+const NUM_QUESTIONS = 12 // maybe get it from backend, since it might be 15 sometimes
 
 if (!AUTH_TOKEN)
 	exit(1, '$HQ_AUTH_TOKEN undefined');
 
 const token = parseToken(AUTH_TOKEN);
+const history = [0, 0, 0];
 
 getShow((err, show) => {
 	if (err || !show)
@@ -39,7 +34,7 @@ getShow((err, show) => {
 		headers: { Authorization: `Bearer ${AUTH_TOKEN}` }
 	};
 
-	console.log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
+	log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
 
 	const path = `./${show.broadcast.broadcastId}.stream`;
 	const file = fs.createWriteStream(path, { flags: 'a' });
@@ -50,13 +45,13 @@ getShow((err, show) => {
 	let ping = null;
 
 	ws.on('open', () => {
-		console.log(`Connection open\nPrize is $${show.prize}`);
+		log(`Connection open\nPrize is $${show.prize}`);
 		ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
 	});
 
 	ws.on('pong', () => debug('...pong'));
 	ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
-	ws.on('close', () => console.log('Connection closed') || (ping && clearInterval(ping)));
+	ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
 });
 
 function handleMessage(msg) {
@@ -77,26 +72,26 @@ function handleMessage(msg) {
 		case 'postGame':
 		case 'kicked':
 			if (DEBUG)
-				console.log(msg);
+				log(msg);
 			break;
 
 		case 'question':
-			console.log(msg);
+			log(msg);
 			questionSearch(msg, (err, answers) => {
-				if(err) {
-					return console.log(err);
-				}
+				if (err)
+					return warn(err, answers);
 
-				distributionLock(total, history, answers);
+				distributionLock(NUM_QUESTIONS, history, answers);
 
-				console.log('RESULTS: ');
-				console.log('\x1b[36m', answers, '\x1b[0m');
-				return console.log('\x1b[35m', 'GUESS > ', _.find(answers, { recommend: true }).answer, '\x1b[0m');
+				log('RESULTS: ');
+
+				log.blue(answers);
+				log.pink('GUESS > ', _.find(answers, { recommend: true }).answer);
 			});
 			break;
 
 		case 'questionSummary':
-			console.log(msg);
+			log(msg);
 			summaryProcess(history, msg);
 			break;
 

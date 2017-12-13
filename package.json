@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Win HQ every time",
   "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "scripts": {
     "test": "node tools/check_accuracy.js",
     "start": "node index.js"

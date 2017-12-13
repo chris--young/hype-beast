@@ -7,7 +7,7 @@ const { googleSearch } = require('../common');
 
 const PAGES = 2;
 
-module.exports = (question, cb) => {
+module.exports = (question) => {
 	const not = /\bnot\b/i.test(question.question);
 	const sort = (a, b) => (not ? 1 : -1) * (a.count < b.count ? -1 : a.count > b.count ? 1 : 0);
 

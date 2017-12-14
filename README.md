@@ -23,7 +23,7 @@ __Set environmental variables__
 ➜  export HQ_AUTH_TOKEN=<your_token>
 
 # This one's optional
-➜  export HQ_PROXY_URL=<your_proxy_url>
+➜  export HQ_PROXY_URL="<your_proxy_url>"
 ```
 
 __Run the bot__

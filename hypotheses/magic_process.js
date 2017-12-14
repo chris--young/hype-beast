@@ -9,6 +9,7 @@ const { googleSearch, wikiSearch } = require('../common');
 const breakTheTie = require('./break_the_tie');
 const nlpExtract = require('./nlp_extract');
 
+const PAGES = 1;
 const notReg = /\bnot\b|\bnever\b/i;
 
 const count = (pages, targets) => targets.map((target) => {
@@ -21,10 +22,10 @@ const processGoogleResult = (pages, targets) => count(pages, targets);
 
 const processWikiResult = (page, targets) => count([ page ], targets);
 
-const combine = (a1, a2) => {
+const combine = (ggCounts, wkCounts) => {
 	const combined = [];
-	for(let i = 0; i < a1.length; i++) {
-		combined.push(a1[i] + a2[i]);
+	for(let i = 0; i < ggCounts.length; i++) {
+		combined.push(ggCounts[i] + wkCounts[i]);
 	};
 	return combined;
 };
@@ -40,7 +41,7 @@ async function magicProcess(question) {
 	const searchContent = keywords.join(' ');
 
 	// Google Search and Wikipedia Search to Get Counts
-	const counts = await Promise.all([googleSearch(searchContent), wikiSearch(searchContent)]).then((results) => {
+	const counts = await Promise.all([googleSearch(searchContent, PAGES), wikiSearch(searchContent)]).then((results) => {
 		const googleCounts = processGoogleResult(results[0], targets);
 		const wikiCounts = processWikiResult(results[1], targets);
 

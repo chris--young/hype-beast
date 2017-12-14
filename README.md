@@ -22,7 +22,7 @@ __Set environmental variables__
 # You can get this using Charles, use just the base64 part of the Authorization header
 ➜  export HQ_AUTH_TOKEN=<your_token>
 
-# This one is optional
+# This one's optional
 ➜  export HQ_PROXY_URL=<your_proxy_url>
 ```
 

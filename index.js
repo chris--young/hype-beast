@@ -44,7 +44,7 @@ getShow()
 		let ping = null;
 
 		ws.on('open', () => {
-			log(`Connection open\nPrize is $${show.prize}`);
+			log(`Connection open\n Prize is $${show.prize}`);
 			ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
 		});
 
@@ -52,7 +52,7 @@ getShow()
 		ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
 		ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
 	})
-	.catch((err) => exit(2, 'Failed to get show data'));
+	.catch((err) => exit(2, 'Failed to get show data', err));
 
 function handleMessage(msg) {
 	try {

@@ -43,7 +43,9 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 		opts.url += `&start=${(page) * 10}`;
 
 	if (cache[opts.url])
-		return setImmediate(() => resolve(cache[opts.url]));
+		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || resolve(cache[opts.url]));
+
+	debug(`Skipping cache for ${opts.url}`);
 
 	request(opts, (err, res, body) => {
 		if (err)
@@ -68,7 +70,9 @@ exports.wikiSearch = (query, cb) => {
 	};
 
 	if (cache[opts.url])
-		return setImmediate(() => cb(null, cache[opts.url]));
+		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || cb(null, cache[opts.url]));
+
+	debug(`Skipping cache for ${opts.url}`);
 
 	request(opts, (err, res, body) => {
 		if (err)

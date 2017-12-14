@@ -53,5 +53,5 @@ __Check accuracy against broadcast 1337__
 
 __Check accuracy against all saved game data__
 ```
-➜  node tools/check_accuracy
+➜  npm test
 ```

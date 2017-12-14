@@ -13,7 +13,7 @@ module.exports = (question) => {
 
 	const count = (pages) => question.answers.map((answer, index) => {
 		const regex = new RegExp(answer.text, 'gi');
-		const count = pages.reduce((sum, page) => sum += (page.match(regex) || []).length, 0);
+		const count = pages.reduce((sum, page, index) => sum += (page.match(regex) || []).length / (index + 1), 0);
 
 		return { answer, index, count };
 	});

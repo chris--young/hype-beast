@@ -17,9 +17,13 @@ __Install dependencies__
 ➜  npm install
 ```
 
-__Set auth token__ (You can get this using Charles or Burp, use just the base64 part of the Authorization header)
+__Set environmental variables__
 ```
+# You can get this using Charles, use just the base64 part of the Authorization header
 ➜  export HQ_AUTH_TOKEN=<your_token>
+
+# This one is optional
+➜  export HQ_PROXY_URL=<your_proxy_url>
 ```
 
 __Run the bot__

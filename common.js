@@ -7,6 +7,7 @@ const request = require('request');
 const cache = require('./data/cache.json');
 
 const DEBUG = process.env.HQ_DEBUG;
+const PROXY = process.env.HQ_PROXY_URL;
 
 const COLORS = {
 	RED: '\x1b[31m',
@@ -33,6 +34,7 @@ const range = (length) => Array(length).fill().map((_, index) => index);
 
 exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page) => new Promise((resolve, reject) => {
 	const opts = {
+		proxy: PROXY,
 		method: 'GET',
 		url: `https://www.google.com/search?q=${encodeURIComponent(query)}`
 	};
@@ -60,6 +62,7 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 
 exports.wikiSearch = (query, cb) => {
 	const opts = {
+		proxy: PROXY,
 		method: 'GET',
 		url: `https://en.wikipedia.org/wiki/Special:Search?search=${encodeURIComponent(query)}`,
 	};

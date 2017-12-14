@@ -10,6 +10,7 @@ const { exit, log, debug, warn } = require('./common');
 
 const PING_INTERVAL = 10000;
 const DEBUG = process.env.HQ_DEBUG;
+const PROXY = process.env.HQ_PROXY_URL;
 const AUTH_TOKEN = process.env.HQ_AUTH_TOKEN;
 const NUM_QUESTIONS = 12 // maybe get it from backend, since it might be 15 sometimes
 
@@ -101,6 +102,7 @@ function getShow() {
 	return new Promise((resolve, reject) => {
 		const opts = {
 			gzip: true,
+			proxy: PROXY,
 			method: 'GET',
 			uri: `https://api-quiz.hype.space/shows/now?type=hq&userId=${token.userId}`,
 			headers: {

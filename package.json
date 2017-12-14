@@ -7,8 +7,8 @@
     "node": ">=8.0.0"
   },
   "scripts": {
-    "test": "node tools/check_accuracy.js",
-    "start": "node index.js"
+    "test": "node --max-old-space-size=8192 tools/check_accuracy.js",
+    "start": "node --max-old-space-size=8192 index.js"
   },
   "author": "Chris Young (young.c.5690@gmail.com)",
   "license": "ISC",

@@ -28,7 +28,7 @@ __Set environmental variables__
 
 __Run the bot__
 ```
-➜  node index
+➜  npm start
 ```
 
 ******

@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-const { exit, warn, log } = require('../common');
+const { exit, log } = require('../common');
 const { questionSearch } = require('../hypotheses');
 
 const BROADCAST_ID = process.argv[2];
@@ -34,4 +34,4 @@ Promise.all(tests)
 
 		log({ accuracy: correct / sum });
 	})
-	.catch((err) => warn(err));
+	.catch((err) => exit(2, 'Failed to check accuracy', err));

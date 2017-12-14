@@ -17,6 +17,9 @@ const NUM_QUESTIONS = 12 // maybe get it from backend, since it might be 15 some
 if (!AUTH_TOKEN)
 	exit(1, '$HQ_AUTH_TOKEN undefined');
 
+if (PROXY)
+	debug(`Using proxy: ${PROXY}`);
+
 const token = parseToken(AUTH_TOKEN);
 const history = [0, 0, 0];
 

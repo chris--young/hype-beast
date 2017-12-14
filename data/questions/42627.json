@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:06:16.326Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16062,
+    "question": "Which villain appears in both “Little Red Riding Hood” and “The Three Little Pigs”?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 49799,
+        "text": "Big Bad Wolf"
+      },
+      {
+        "answerId": 49800,
+        "text": "Evil Stepmother"
+      },
+      {
+        "answerId": 49801,
+        "text": "Ganon"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:06:16.381Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:07:08.056Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16063,
+    "question": "Where was fashion designer Donna Karan born?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 49802,
+        "text": "New Donk City"
+      },
+      {
+        "answerId": 49803,
+        "text": "New York City"
+      },
+      {
+        "answerId": 49804,
+        "text": "Belfast"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:07:08.132Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:08:01.673Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16064,
+    "question": "What are antihistamines used to treat?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 49805,
+        "text": "Infections"
+      },
+      {
+        "answerId": 49806,
+        "text": "Ingratitude"
+      },
+      {
+        "answerId": 49807,
+        "text": "Allergies"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:08:01.701Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:08:47.007Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16065,
+    "question": "The name of which type of pasta means “little worms”?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 49808,
+        "text": "Vermicelli"
+      },
+      {
+        "answerId": 49809,
+        "text": "Bavette"
+      },
+      {
+        "answerId": 49810,
+        "text": "Cavatelli"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:08:47.046Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:09:35.510Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16236,
+    "question": "Which of these franchises is NOT included in the toys-to-life video game “LEGO Dimensions\"?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 50326,
+        "text": "Beetlejuice"
+      },
+      {
+        "answerId": 50327,
+        "text": "Powerpuff Girls"
+      },
+      {
+        "answerId": 50328,
+        "text": "Star Wars"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:09:35.564Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:10:54.435Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16066,
+    "question": "Which team surrendered the biggest lead in Super Bowl history?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 49811,
+        "text": "Atlanta Falcons"
+      },
+      {
+        "answerId": 49812,
+        "text": "Denver Broncos"
+      },
+      {
+        "answerId": 49813,
+        "text": "Buffalo Bills"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:10:54.500Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:11:40.647Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16067,
+    "question": "Which major movie had the tagline, “A Hero Will Rise”?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 49814,
+        "text": "Gladiator"
+      },
+      {
+        "answerId": 49815,
+        "text": "Lara Croft: Tomb Raider"
+      },
+      {
+        "answerId": 49816,
+        "text": "Batman Begins"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:11:40.680Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:12:37.595Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16068,
+    "question": "What is the name of the process for managing amounts of Web traffic to servers?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 49817,
+        "text": "Traffic management"
+      },
+      {
+        "answerId": 49818,
+        "text": "Packet routing"
+      },
+      {
+        "answerId": 49819,
+        "text": "Load balancing"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:12:37.641Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:13:22.266Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16069,
+    "question": "In  the animated series “The Fairly OddParents”, where did the titular couple emerge from?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 49820,
+        "text": "Medicine Cabinet"
+      },
+      {
+        "answerId": 49821,
+        "text": "Genie Lamp"
+      },
+      {
+        "answerId": 49822,
+        "text": "Magic 9-Ball"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:13:22.311Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:14:08.121Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16072,
+    "question": "Which of these words means both a shoe and a unit of measure?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 49829,
+        "text": "Wellington"
+      },
+      {
+        "answerId": 49830,
+        "text": "Feuillette"
+      },
+      {
+        "answerId": 49831,
+        "text": "Chopine"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:14:08.163Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:15:04.958Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16073,
+    "question": "Which of these cities was never a capital of the United States?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49832,
+        "text": "Boston, MA"
+      },
+      {
+        "answerId": 49833,
+        "text": "Trenton, NJ"
+      },
+      {
+        "answerId": 49834,
+        "text": "York, PA"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:15:04.995Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T02:16:08.397Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16237,
+    "question": "In the original 1982 “Tron” video game, which element of the movie was NOT used?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 50329,
+        "text": "Light Cycles"
+      },
+      {
+        "answerId": 50330,
+        "text": "Code discs"
+      },
+      {
+        "answerId": 50331,
+        "text": "Battle Tanks"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-14T02:16:08.442Z"
+  }
+]

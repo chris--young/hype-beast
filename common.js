@@ -3,11 +3,14 @@
 const fs = require('fs');
 const VError = require('verror');
 const request = require('request');
+const config = require('./config');
 
 const cache = require('./data/cache.json');
 
 const DEBUG = process.env.HQ_DEBUG;
 const PROXY = process.env.HQ_PROXY_URL;
+
+const NLP_API_KEY = config.get('google_nlp_api_key');
 
 const COLORS = {
 	RED: '\x1b[31m',
@@ -49,7 +52,7 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 
 	request(opts, (err, res, body) => {
 		if (err)
-			return reject(new VError(err, 'Failed to make request'), null);
+			return reject(new VError(err, 'Failed to make google request'), null);
 
 		if (res.statusCode !== 200)
 			return reject(new VError(`Got bad status code from google: ${res.statusCode}`));
@@ -62,7 +65,7 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 	});
 })));
 
-exports.wikiSearch = (query, cb) => {
+exports.wikiSearch = (query) => new Promise((resolve, reject) => {
 	const opts = {
 		proxy: PROXY,
 		method: 'GET',
@@ -70,21 +73,59 @@ exports.wikiSearch = (query, cb) => {
 	};
 
 	if (cache[opts.url])
-		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || cb(null, cache[opts.url]));
+		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || resolve(cache[opts.url]));
 
 	debug(`Skipping cache for ${opts.url}`);
 
 	request(opts, (err, res, body) => {
 		if (err)
-			return cb(new VError(err, 'Failed to make request'), null);
+			return reject(new VError(err, 'Failed to make wikipedia request'));
 
 		if (res.statusCode !== 200)
-			return cb(new VError(`Got bad status code from wiki: ${res.statusCode}`), { headers: res.headers, body });
+			return reject(new VError(`Got bad status code from wikipedia: ${res.statusCode}`));
 
 		cache[opts.url] = body;
 
 		fs.writeFile('./data/cache.json', JSON.stringify(cache), (err) => err && warn('Failed to update cache', err));
 
-		cb(null, body);
+		resolve(body);
 	});
-};
+});
+
+exports.analyzeSyntax = (sentence) => new Promise((resolve, reject) => {
+	const opts = {
+		method: 'POST',
+		url: `https://language.googleapis.com/v1/documents:analyzeSyntax?key=${NLP_API_KEY}`,
+		body: (JSON.stringify({
+			document: {
+				type: 'PLAIN_TEXT',
+				content: sentence
+			}
+		}))
+	}
+
+	if (cache[sentence])
+		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || resolve(cache[sentence]));
+
+	debug(`Skipping cache for ${sentence}`);
+
+	request(opts, (err, res, body) => {
+		if (err)
+			return reject(new VError(err, 'Failed to make request to NLP'));
+
+		if (res.statusCode !== 200)
+			return reject(new VError(`Got bad status code from google: ${res.statusCode}`));
+
+		try{
+			body = JSON.parse(body);
+		} catch(e) {
+			return reject(new VError('Failed to parse body from NLP'));
+		}
+
+		cache[sentence] = body;
+
+		fs.writeFile('./data/cache.json', JSON.stringify(cache), (err) => err && warn('Failed to update cache', err));
+
+		return resolve(body);
+	});
+});

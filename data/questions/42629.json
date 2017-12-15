@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:06:50.026Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16074,
+    "question": "Which one of these motorcycle companies is American?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 49835,
+        "text": "Yamaha"
+      },
+      {
+        "answerId": 49836,
+        "text": "Harley-Davidson"
+      },
+      {
+        "answerId": 49837,
+        "text": "Moto Guzzi"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:06:50.098Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:07:25.753Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16075,
+    "question": "Which of these painters is famous for doing self-portraits?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 49838,
+        "text": "Rembrandt"
+      },
+      {
+        "answerId": 49839,
+        "text": "Jackson Pollock"
+      },
+      {
+        "answerId": 49840,
+        "text": "Bob Ross"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:07:25.788Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:08:08.797Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16076,
+    "question": "Which 70's song begins, “You can dance, you can jive”?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 49841,
+        "text": "Jive Talkin'"
+      },
+      {
+        "answerId": 49842,
+        "text": "Dance the Night Away"
+      },
+      {
+        "answerId": 49843,
+        "text": "Dancing Queen"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:08:08.838Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:08:46.641Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16077,
+    "question": "Where is the highest elevation in Africa?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 49844,
+        "text": "Kilimanjaro"
+      },
+      {
+        "answerId": 49845,
+        "text": "Mount Kenya"
+      },
+      {
+        "answerId": 49846,
+        "text": "Mount Gessi"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:08:46.672Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:09:26.408Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16082,
+    "question": "From where do Fire Ants get their name?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 49859,
+        "text": "Resistance to heat"
+      },
+      {
+        "answerId": 49860,
+        "text": "Painful stings"
+      },
+      {
+        "answerId": 49861,
+        "text": "Live above ground"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:09:26.461Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:10:03.242Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16083,
+    "question": "Who is the only man aside from Vladimir Putin to be President of Russia since 2000?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49862,
+        "text": "Dmitry Medvedev"
+      },
+      {
+        "answerId": 49863,
+        "text": "Boris Nemtsov"
+      },
+      {
+        "answerId": 49864,
+        "text": "Boris Yeltsin"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:10:03.308Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:10:46.764Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16078,
+    "question": "Which one of these cheeses is NOT smear-ripened?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 49847,
+        "text": "Port-Salut"
+      },
+      {
+        "answerId": 49848,
+        "text": "Gouda"
+      },
+      {
+        "answerId": 49849,
+        "text": "Cream cheese"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:10:46.806Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:11:30.779Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16079,
+    "question": "Dinosaur fossils have never been found in which of these states?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 49850,
+        "text": "Florida"
+      },
+      {
+        "answerId": 49851,
+        "text": "Delaware"
+      },
+      {
+        "answerId": 49852,
+        "text": "New York"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:11:30.854Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:12:10.401Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16080,
+    "question": "Who was introduced to the universe in TV's “The Star Wars Holiday Special”?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 49853,
+        "text": "Lando Calrissian"
+      },
+      {
+        "answerId": 49854,
+        "text": "The Ewoks"
+      },
+      {
+        "answerId": 49855,
+        "text": "Boba Fett"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:12:10.404Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:13:02.170Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16081,
+    "question": "What is the specialty name for a horseshoe maker?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 49856,
+        "text": "Farrier"
+      },
+      {
+        "answerId": 49857,
+        "text": "Lucksmith"
+      },
+      {
+        "answerId": 49858,
+        "text": "Cobbler"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:13:02.237Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:13:45.384Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16084,
+    "question": "Which Oscar-winning British actor appeared in both “The Longest Day” and “A Bridge Too Far”?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 49865,
+        "text": "Sean Connery"
+      },
+      {
+        "answerId": 49866,
+        "text": "Peter O'Toole"
+      },
+      {
+        "answerId": 49867,
+        "text": "Michael Caine"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:13:45.405Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-14T20:14:49.929Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16085,
+    "question": "What makes “Reef Blower” a unique episode of “SpongeBob SquarePants”?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 49868,
+        "text": "Has no dialogue"
+      },
+      {
+        "answerId": 49869,
+        "text": "Has bleeped swears"
+      },
+      {
+        "answerId": 49870,
+        "text": "All the same voice actor"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-14T20:14:49.952Z"
+  }
+]

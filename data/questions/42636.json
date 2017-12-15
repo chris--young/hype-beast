@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:05:52.517Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16086,
+    "question": "Botany is the study of what?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 49871,
+        "text": "Music"
+      },
+      {
+        "answerId": 49872,
+        "text": "Interstellar life"
+      },
+      {
+        "answerId": 49873,
+        "text": "Plants"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:05:52.787Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:06:48.049Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16087,
+    "question": "Which bird can drink both freshwater and seawater?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 49874,
+        "text": "Roadrunner"
+      },
+      {
+        "answerId": 49875,
+        "text": "Seagull"
+      },
+      {
+        "answerId": 49876,
+        "text": "Parakeet"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:06:48.112Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:07:34.596Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16089,
+    "question": "What are the scrolling words found on the bottom of newscasts called?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 49880,
+        "text": "In-depth coverage"
+      },
+      {
+        "answerId": 49881,
+        "text": "Interviews"
+      },
+      {
+        "answerId": 49882,
+        "text": "News ticker"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:07:34.644Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:08:16.088Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16088,
+    "question": "Canadian musician Joel Zimmerman is better known by what stage name?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 49877,
+        "text": "Diplo"
+      },
+      {
+        "answerId": 49878,
+        "text": "deadmau5"
+      },
+      {
+        "answerId": 49879,
+        "text": "Avicii"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:08:16.146Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:09:04.167Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16090,
+    "question": "What was the first U.S. state or territory to give women the right to vote?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49883,
+        "text": "New York"
+      },
+      {
+        "answerId": 49884,
+        "text": "Wyoming"
+      },
+      {
+        "answerId": 49885,
+        "text": "Vermont"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:09:04.285Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:10:05.309Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16093,
+    "question": "Which company originally created RocketMail, today known as YahooMail?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 49892,
+        "text": "Yahoo!"
+      },
+      {
+        "answerId": 49893,
+        "text": "Four11"
+      },
+      {
+        "answerId": 49894,
+        "text": "Lycos"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:10:05.375Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:10:43.972Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16091,
+    "question": "Who transitioned into fashion when she didn't make the U.S. Olympic figure skating team?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 49886,
+        "text": "Anne Klein"
+      },
+      {
+        "answerId": 49887,
+        "text": "Rachel Zoe"
+      },
+      {
+        "answerId": 49888,
+        "text": "Vera Wang"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:10:44.027Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:11:29.751Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16092,
+    "question": "The BPM of Techno music translates generally to which classical speed?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 49889,
+        "text": "Allegro"
+      },
+      {
+        "answerId": 49890,
+        "text": "Vivace"
+      },
+      {
+        "answerId": 49891,
+        "text": "Prestissimo"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:11:29.797Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:12:19.780Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16094,
+    "question": "Which of these countries was NOT a part of Yugoslavia?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 49895,
+        "text": "Slovenia"
+      },
+      {
+        "answerId": 49896,
+        "text": "Macedonia"
+      },
+      {
+        "answerId": 49897,
+        "text": "Slovakia"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:12:19.816Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:13:01.541Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16095,
+    "question": "Which movie features Jim Carrey, Helen Hunt and Joan Allen?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 49898,
+        "text": "Peggy Sue Got Married"
+      },
+      {
+        "answerId": 49899,
+        "text": "Liar Liar"
+      },
+      {
+        "answerId": 49900,
+        "text": "The Truman Show"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:13:01.602Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:13:50.255Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16097,
+    "question": "The St. Patrick's Day holiday marks which day in his timeline?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 49904,
+        "text": "Birth"
+      },
+      {
+        "answerId": 49905,
+        "text": "Death"
+      },
+      {
+        "answerId": 49906,
+        "text": "Canonization"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:13:50.301Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-15T02:15:09.701Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16096,
+    "question": "Most of The Muppets were more inclined with which hand?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 49901,
+        "text": "Left-handed"
+      },
+      {
+        "answerId": 49902,
+        "text": "Right-handed"
+      },
+      {
+        "answerId": 49903,
+        "text": "Ambidextrous"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-15T02:15:09.759Z"
+  }
+]

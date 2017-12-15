@@ -3,7 +3,7 @@
 const fs = require('fs');
 
 const { exit, log } = require('../common');
-const { questionSearch } = require('../hypotheses');
+const { questionSearch, magicProcess } = require('../hypotheses');
 
 const BROADCAST_ID = process.argv[2];
 

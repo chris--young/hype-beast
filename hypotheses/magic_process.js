@@ -36,12 +36,15 @@ async function magicProcess(question) {
 	// Test if Question is Negative
 	const not = notReg.test(question.question);
 
+	// Sanitize Question
+	const sanitizedQuestion = question.question.replace(notReg, ' ');
+
 	// Extract Keywords
 	const keywords = await nlpExtract(question.question);
-	const searchContent = keywords.join(' ');
+	const combinedKeywords = keywords.join(' ');
 
 	// Google Search and Wikipedia Search to Get Counts
-	const counts = await Promise.all([googleSearch(searchContent, PAGES), wikiSearch(searchContent)]).then((results) => {
+	const counts = await Promise.all([googleSearch(sanitizedQuestion, PAGES), wikiSearch(combinedKeywords)]).then((results) => {
 		const googleCounts = processGoogleResult(results[0], targets);
 		const wikiCounts = processWikiResult(results[1], targets);
 

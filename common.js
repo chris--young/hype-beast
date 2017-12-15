@@ -56,7 +56,7 @@ exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page)
 
 		cache[opts.url] = body;
 
-		fs.writeFile('./data/cache.json', JSON.stringify(cache), (err) => err && warn('Failed to update cache', err));
+		fs.writeFile('./data/cache.json', JSON.stringify(cache, null, 2), (err) => err && warn('Failed to update cache', err));
 
 		resolve(body);
 	});
@@ -83,7 +83,7 @@ exports.wikiSearch = (query, cb) => {
 
 		cache[opts.url] = body;
 
-		fs.writeFile('./data/cache.json', JSON.stringify(cache), (err) => err && warn('Failed to update cache', err));
+		fs.writeFile('./data/cache.json', JSON.stringify(cache, null, 2), (err) => err && warn('Failed to update cache', err));
 
 		cb(null, body);
 	});

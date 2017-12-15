@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:06:28.714Z",
+    "questionId": 16223,
+    "question": "From which service did people in the 90's hear “You've got mail!”?",
+    "answerCounts": [
+      {
+        "answerId": 50287,
+        "answer": "AOL",
+        "correct": true,
+        "count": 321558
+      },
+      {
+        "answerId": 50288,
+        "answer": "Netflix",
+        "correct": false,
+        "count": 2546
+      },
+      {
+        "answerId": 50289,
+        "answer": "Kiki's Delivery Service",
+        "correct": false,
+        "count": 5383
+      }
+    ],
+    "advancingPlayersCount": 321558,
+    "eliminatedPlayersCount": 66250,
+    "youGotItRight": true,
+    "yourAnswerId": 50287,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:06:29.063Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:07:26.068Z",
+    "questionId": 16222,
+    "question": "Veronica, Betty & Jughead are characters from which comic book franchise?",
+    "answerCounts": [
+      {
+        "answerId": 50284,
+        "answer": "East of West",
+        "correct": false,
+        "count": 11382
+      },
+      {
+        "answerId": 50285,
+        "answer": "Watchmen",
+        "correct": false,
+        "count": 29493
+      },
+      {
+        "answerId": 50286,
+        "answer": "Archie",
+        "correct": true,
+        "count": 269049
+      }
+    ],
+    "advancingPlayersCount": 269049,
+    "eliminatedPlayersCount": 52913,
+    "youGotItRight": true,
+    "yourAnswerId": 50286,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:07:26.210Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:08:18.355Z",
+    "questionId": 16224,
+    "question": "Crystals growing inside a hollow rock are known as what?",
+    "answerCounts": [
+      {
+        "answerId": 50290,
+        "answer": "Geode",
+        "correct": true,
+        "count": 247245
+      },
+      {
+        "answerId": 50291,
+        "answer": "Moraine",
+        "correct": false,
+        "count": 15656
+      },
+      {
+        "answerId": 50292,
+        "answer": "Fizzgig",
+        "correct": false,
+        "count": 1762
+      }
+    ],
+    "advancingPlayersCount": 247245,
+    "eliminatedPlayersCount": 21804,
+    "youGotItRight": true,
+    "yourAnswerId": 50290,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:08:18.475Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:09:03.813Z",
+    "questionId": 16225,
+    "question": "“The Natural” and “Moneyball” are movies about which sport?",
+    "answerCounts": [
+      {
+        "answerId": 50293,
+        "answer": "Football",
+        "correct": false,
+        "count": 11131
+      },
+      {
+        "answerId": 50294,
+        "answer": "Basketball",
+        "correct": false,
+        "count": 16344
+      },
+      {
+        "answerId": 50295,
+        "answer": "Baseball",
+        "correct": true,
+        "count": 215639
+      }
+    ],
+    "advancingPlayersCount": 215639,
+    "eliminatedPlayersCount": 31606,
+    "youGotItRight": true,
+    "yourAnswerId": 50295,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:09:03.999Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:09:32.919Z",
+    "questionId": 16231,
+    "question": "Which sauce has pine nuts as an ingredient?",
+    "answerCounts": [
+      {
+        "answerId": 50311,
+        "answer": "Ponzu",
+        "correct": false,
+        "count": 21536
+      },
+      {
+        "answerId": 50312,
+        "answer": "Pesto",
+        "correct": true,
+        "count": 159731
+      },
+      {
+        "answerId": 50313,
+        "answer": "Tahini",
+        "correct": false,
+        "count": 31049
+      }
+    ],
+    "advancingPlayersCount": 159731,
+    "eliminatedPlayersCount": 55908,
+    "youGotItRight": true,
+    "yourAnswerId": 50312,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:09:33.047Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:10:19.693Z",
+    "questionId": 16227,
+    "question": "Which animal's head appears on the label of Gordon's Gin?",
+    "answerCounts": [
+      {
+        "answerId": 50299,
+        "answer": "Eagle",
+        "correct": false,
+        "count": 22655
+      },
+      {
+        "answerId": 50300,
+        "answer": "Boar",
+        "correct": true,
+        "count": 74694
+      },
+      {
+        "answerId": 50301,
+        "answer": "Stag",
+        "correct": false,
+        "count": 56492
+      }
+    ],
+    "advancingPlayersCount": 74694,
+    "eliminatedPlayersCount": 85037,
+    "youGotItRight": true,
+    "yourAnswerId": 50300,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:10:19.990Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:11:10.216Z",
+    "questionId": 16228,
+    "question": "Who staged the original 1976 adaptation of “The Phantom of the Opera”?",
+    "answerCounts": [
+      {
+        "answerId": 50302,
+        "answer": "Ken Hill",
+        "correct": true,
+        "count": 7276
+      },
+      {
+        "answerId": 50303,
+        "answer": "Andrew Lloyd Webber",
+        "correct": false,
+        "count": 47449
+      },
+      {
+        "answerId": 50304,
+        "answer": "Gaston Leroux",
+        "correct": false,
+        "count": 16567
+      }
+    ],
+    "advancingPlayersCount": 7276,
+    "eliminatedPlayersCount": 67418,
+    "youGotItRight": true,
+    "yourAnswerId": 50302,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:11:10.494Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:11:54.459Z",
+    "questionId": 16229,
+    "question": "For which franchise has Telltale Games studio NOT made a video game?",
+    "answerCounts": [
+      {
+        "answerId": 50305,
+        "answer": "Batman",
+        "correct": false,
+        "count": 608
+      },
+      {
+        "answerId": 50306,
+        "answer": "Transformers",
+        "correct": true,
+        "count": 2571
+      },
+      {
+        "answerId": 50307,
+        "answer": "Game of Thrones",
+        "correct": false,
+        "count": 3684
+      }
+    ],
+    "advancingPlayersCount": 2571,
+    "eliminatedPlayersCount": 4705,
+    "youGotItRight": true,
+    "yourAnswerId": 50306,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:11:54.780Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:12:35.524Z",
+    "questionId": 16226,
+    "question": "Which feature is NOT included on a gilet jacket?",
+    "answerCounts": [
+      {
+        "answerId": 50296,
+        "answer": "Sleeves",
+        "correct": true,
+        "count": 1024
+      },
+      {
+        "answerId": 50297,
+        "answer": "Collar",
+        "correct": false,
+        "count": 725
+      },
+      {
+        "answerId": 50298,
+        "answer": "Pockets",
+        "correct": false,
+        "count": 775
+      }
+    ],
+    "advancingPlayersCount": 1024,
+    "eliminatedPlayersCount": 1547,
+    "youGotItRight": false,
+    "yourAnswerId": 50297,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:12:35.778Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:13:11.641Z",
+    "questionId": 16230,
+    "question": "“If this is your idea of Christmas, I gotta be here for New Year's” is the last line of what movie?",
+    "answerCounts": [
+      {
+        "answerId": 50308,
+        "answer": "Die Hard",
+        "correct": true,
+        "count": 558
+      },
+      {
+        "answerId": 50309,
+        "answer": "Love, Actually",
+        "correct": false,
+        "count": 290
+      },
+      {
+        "answerId": 50310,
+        "answer": "Home Alone",
+        "correct": false,
+        "count": 100
+      }
+    ],
+    "advancingPlayersCount": 558,
+    "eliminatedPlayersCount": 466,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:13:11.771Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:13:50.980Z",
+    "questionId": 16232,
+    "question": "Who has played a secret agent in a movie, TV movie and cartoon?",
+    "answerCounts": [
+      {
+        "answerId": 50314,
+        "answer": "Roger Moore",
+        "correct": false,
+        "count": 162
+      },
+      {
+        "answerId": 50315,
+        "answer": "Vin Diesel",
+        "correct": false,
+        "count": 196
+      },
+      {
+        "answerId": 50316,
+        "answer": "Don Adams",
+        "correct": true,
+        "count": 181
+      }
+    ],
+    "advancingPlayersCount": 181,
+    "eliminatedPlayersCount": 377,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:13:51.264Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-15T20:15:05.320Z",
+    "questionId": 16233,
+    "question": "What U.S. town has a music venue which allows Americans to watch live, in-person concerts from Canada?",
+    "answerCounts": [
+      {
+        "answerId": 50317,
+        "answer": "Derby Line, VT",
+        "correct": true,
+        "count": 37
+      },
+      {
+        "answerId": 50318,
+        "answer": "Portal, ND",
+        "correct": false,
+        "count": 50
+      },
+      {
+        "answerId": 50319,
+        "answer": "Niagara Falls, NY",
+        "correct": false,
+        "count": 69
+      }
+    ],
+    "advancingPlayersCount": 37,
+    "eliminatedPlayersCount": 144,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-15T20:15:05.618Z"
+  }
+]

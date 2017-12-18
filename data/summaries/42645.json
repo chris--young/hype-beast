@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:05:46.695Z",
+    "questionId": 16540,
+    "question": "Popcorn is made by heating up what?",
+    "answerCounts": [
+      {
+        "answerId": 51238,
+        "answer": "Corn kernels",
+        "correct": true,
+        "count": 290158
+      },
+      {
+        "answerId": 51239,
+        "answer": "Corn leaves",
+        "correct": false,
+        "count": 1145
+      },
+      {
+        "answerId": 51240,
+        "answer": "Corn dogs",
+        "correct": false,
+        "count": 391
+      }
+    ],
+    "advancingPlayersCount": 290158,
+    "eliminatedPlayersCount": 37844,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:05:47.933Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:06:20.565Z",
+    "questionId": 16541,
+    "question": "Who is the long-time co-host of “Wheel of Fortune”?",
+    "answerCounts": [
+      {
+        "answerId": 51241,
+        "answer": "Van Halen",
+        "correct": false,
+        "count": 7901
+      },
+      {
+        "answerId": 51242,
+        "answer": "Vanna White",
+        "correct": true,
+        "count": 270423
+      },
+      {
+        "answerId": 51243,
+        "answer": "Vivien Leigh",
+        "correct": false,
+        "count": 7390
+      }
+    ],
+    "advancingPlayersCount": 270423,
+    "eliminatedPlayersCount": 22252,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:06:20.681Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:07:06.278Z",
+    "questionId": 16542,
+    "question": "Which sports league does NOT have a team called the Kings?",
+    "answerCounts": [
+      {
+        "answerId": 51244,
+        "answer": "NBA",
+        "correct": false,
+        "count": 4615
+      },
+      {
+        "answerId": 51245,
+        "answer": "NFL",
+        "correct": true,
+        "count": 256678
+      },
+      {
+        "answerId": 51246,
+        "answer": "NHL",
+        "correct": false,
+        "count": 6280
+      }
+    ],
+    "advancingPlayersCount": 256678,
+    "eliminatedPlayersCount": 13745,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:07:09.010Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:07:49.587Z",
+    "questionId": 16543,
+    "question": "The “Hunger Games” stories take place in which fictional country?",
+    "answerCounts": [
+      {
+        "answerId": 51247,
+        "answer": "Pirn",
+        "correct": false,
+        "count": 19863
+      },
+      {
+        "answerId": 51248,
+        "answer": "Genovia",
+        "correct": false,
+        "count": 29925
+      },
+      {
+        "answerId": 51249,
+        "answer": "Panem",
+        "correct": true,
+        "count": 201968
+      }
+    ],
+    "advancingPlayersCount": 201968,
+    "eliminatedPlayersCount": 54710,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:07:49.707Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:08:42.973Z",
+    "questionId": 16544,
+    "question": "Which of these animals does NOT sleep upside down?",
+    "answerCounts": [
+      {
+        "answerId": 51250,
+        "answer": "Sloth",
+        "correct": false,
+        "count": 15336
+      },
+      {
+        "answerId": 51251,
+        "answer": "Spider monkey",
+        "correct": true,
+        "count": 78826
+      },
+      {
+        "answerId": 51252,
+        "answer": "Manatee",
+        "correct": false,
+        "count": 100275
+      }
+    ],
+    "advancingPlayersCount": 78826,
+    "eliminatedPlayersCount": 123142,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:08:43.105Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:09:23.932Z",
+    "questionId": 16545,
+    "question": "Which of these cities lies the furthest south?",
+    "answerCounts": [
+      {
+        "answerId": 51253,
+        "answer": "Minneapolis, MN",
+        "correct": false,
+        "count": 24672
+      },
+      {
+        "answerId": 51254,
+        "answer": "Toronto, Canada",
+        "correct": true,
+        "count": 22752
+      },
+      {
+        "answerId": 51255,
+        "answer": "Portland, OR",
+        "correct": false,
+        "count": 25022
+      }
+    ],
+    "advancingPlayersCount": 22752,
+    "eliminatedPlayersCount": 56074,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:09:24.051Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:10:30.253Z",
+    "questionId": 16546,
+    "question": "Which major Google service launched in 2013?",
+    "answerCounts": [
+      {
+        "answerId": 51256,
+        "answer": "Google Hangouts",
+        "correct": true,
+        "count": 15496
+      },
+      {
+        "answerId": 51257,
+        "answer": "Google Photos",
+        "correct": false,
+        "count": 4347
+      },
+      {
+        "answerId": 51258,
+        "answer": "Google Reader",
+        "correct": false,
+        "count": 2266
+      }
+    ],
+    "advancingPlayersCount": 15496,
+    "eliminatedPlayersCount": 7256,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:10:30.507Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:11:22.277Z",
+    "questionId": 16547,
+    "question": "Michelangelo's fresco “The Last Judgement” is permanently housed where?",
+    "answerCounts": [
+      {
+        "answerId": 51259,
+        "answer": "The Met",
+        "correct": false,
+        "count": 1645
+      },
+      {
+        "answerId": 51260,
+        "answer": "The Sistine Chapel",
+        "correct": true,
+        "count": 7487
+      },
+      {
+        "answerId": 51261,
+        "answer": "The Louvre",
+        "correct": false,
+        "count": 6090
+      }
+    ],
+    "advancingPlayersCount": 7487,
+    "eliminatedPlayersCount": 8009,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:11:22.977Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:12:10.150Z",
+    "questionId": 16548,
+    "question": "One tribe near Thailand has adapted which body part after generations of diving?",
+    "answerCounts": [
+      {
+        "answerId": 51262,
+        "answer": "Webbed fingers",
+        "correct": false,
+        "count": 5282
+      },
+      {
+        "answerId": 51263,
+        "answer": "Shapeshifting eyeballs",
+        "correct": true,
+        "count": 882
+      },
+      {
+        "answerId": 51264,
+        "answer": "Hairless heads",
+        "correct": false,
+        "count": 1067
+      }
+    ],
+    "advancingPlayersCount": 882,
+    "eliminatedPlayersCount": 6605,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:12:10.275Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:13:18.259Z",
+    "questionId": 16549,
+    "question": "Who was the only actor to win a “Best Actor” Academy Award posthumously?",
+    "answerCounts": [
+      {
+        "answerId": 51265,
+        "answer": "Peter Finch",
+        "correct": true,
+        "count": 120
+      },
+      {
+        "answerId": 51266,
+        "answer": "James Dean",
+        "correct": false,
+        "count": 92
+      },
+      {
+        "answerId": 51267,
+        "answer": "Heath Ledger",
+        "correct": false,
+        "count": 649
+      }
+    ],
+    "advancingPlayersCount": 120,
+    "eliminatedPlayersCount": 762,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:13:18.346Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:14:20.311Z",
+    "questionId": 16550,
+    "question": "What brought Hungary's Bosnian Crusade to an abrupt end in the 13th century?",
+    "answerCounts": [
+      {
+        "answerId": 51268,
+        "answer": "Pope Gregory IX died",
+        "correct": false,
+        "count": 26
+      },
+      {
+        "answerId": 51269,
+        "answer": "Hungary was invaded",
+        "correct": true,
+        "count": 25
+      },
+      {
+        "answerId": 51270,
+        "answer": "The Plague",
+        "correct": false,
+        "count": 66
+      }
+    ],
+    "advancingPlayersCount": 25,
+    "eliminatedPlayersCount": 95,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:14:20.463Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-17T03:15:47.494Z",
+    "questionId": 16551,
+    "question": "The most-viewed video on YouTube that is NOT a music video is in which language?",
+    "answerCounts": [
+      {
+        "answerId": 51271,
+        "answer": "Russian",
+        "correct": true,
+        "count": 14
+      },
+      {
+        "answerId": 51272,
+        "answer": "English",
+        "correct": false,
+        "count": 1
+      },
+      {
+        "answerId": 51273,
+        "answer": "Spanish",
+        "correct": false,
+        "count": 10
+      }
+    ],
+    "advancingPlayersCount": 14,
+    "eliminatedPlayersCount": 11,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-17T03:15:47.797Z"
+  }
+]

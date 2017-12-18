@@ -2,7 +2,7 @@
 
 const _ = require('lodash');
 
-const THRESHOLD = 0.58
+const THRESHOLD = 0.65
 
 /**
  * total: the total number of questions in this game, mostly 12

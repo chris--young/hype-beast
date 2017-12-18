@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:06:00.295Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16419,
+    "question": "If you don't want to slip on the ice, what should you put on your feet?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 50875,
+        "text": "Slippers"
+      },
+      {
+        "answerId": 50876,
+        "text": "Ice grips"
+      },
+      {
+        "answerId": 50877,
+        "text": "Tennis shoes"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:06:00.353Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:06:43.380Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16420,
+    "question": "In which of these sports do players NOT have to wear a helmet?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 50878,
+        "text": "Soccer"
+      },
+      {
+        "answerId": 50879,
+        "text": "American Football"
+      },
+      {
+        "answerId": 50880,
+        "text": "Lacrosse"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:06:43.431Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:07:25.384Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16422,
+    "question": "If Sam, Coach, or Woody served you a drink, which TV show bar would you be in?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 50884,
+        "text": "Paddy's Pub"
+      },
+      {
+        "answerId": 50885,
+        "text": "Cheers"
+      },
+      {
+        "answerId": 50886,
+        "text": "Moe's Tavern"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:07:25.429Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:08:06.520Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16421,
+    "question": "A species of which of these animals can be found with three toes on each foot?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 50881,
+        "text": "Sloth"
+      },
+      {
+        "answerId": 50882,
+        "text": "Zebra"
+      },
+      {
+        "answerId": 50883,
+        "text": "Bear"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:08:06.594Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:08:45.714Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16424,
+    "question": "Which of these is NOT a shade of blue?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 50890,
+        "text": "Coquelicot"
+      },
+      {
+        "answerId": 50891,
+        "text": "Zaffre"
+      },
+      {
+        "answerId": 50892,
+        "text": "Glaucous"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:08:45.785Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:09:47.963Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16425,
+    "question": "Which was the first Angry Birds game to have a boss fight level?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 50893,
+        "text": "Angry Birds Rio"
+      },
+      {
+        "answerId": 50894,
+        "text": "Angry Birds 2"
+      },
+      {
+        "answerId": 50895,
+        "text": "Angry Birds Epic"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:09:48.020Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:10:29.324Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16423,
+    "question": "According to the radio DJs in “Groundhog Day,” the local weather was NOT like which city?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 50887,
+        "text": "Malibu Beach"
+      },
+      {
+        "answerId": 50888,
+        "text": "Miami Beach"
+      },
+      {
+        "answerId": 50889,
+        "text": "Daytona Beach"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:10:29.381Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:11:19.392Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16426,
+    "question": "The president of the company that invented Flickr has more recently founded which app?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 50896,
+        "text": "Airbnb"
+      },
+      {
+        "answerId": 50897,
+        "text": "Lyft"
+      },
+      {
+        "answerId": 50898,
+        "text": "Slack"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:11:19.439Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:12:06.533Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16427,
+    "question": "With whom does Eminem square off in an off-stage rap battle in the movie “8 Mile”?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 50899,
+        "text": "Strike"
+      },
+      {
+        "answerId": 50900,
+        "text": "Xzibit"
+      },
+      {
+        "answerId": 50901,
+        "text": "DJ Head"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:12:06.588Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:12:59.953Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16428,
+    "question": "Which Instagram filter is named after a photographer?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 50902,
+        "text": "Juno"
+      },
+      {
+        "answerId": 50903,
+        "text": "Rise"
+      },
+      {
+        "answerId": 50904,
+        "text": "Ludwig"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:13:00.030Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:13:59.291Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16429,
+    "question": "What leader at Netscape & Mozilla was one of the first women inducted into the Internet Hall of Fame?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 50905,
+        "text": "Mitchell Baker"
+      },
+      {
+        "answerId": 50906,
+        "text": "Karen Banks"
+      },
+      {
+        "answerId": 50907,
+        "text": "Tracy LaQuey Parker"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:13:59.385Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T20:15:05.914Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16430,
+    "question": "Starting with $1 and doubling it daily, how long would it take to equal the world's money value?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 50908,
+        "text": "120 days"
+      },
+      {
+        "answerId": 50909,
+        "text": "48 days"
+      },
+      {
+        "answerId": 50910,
+        "text": "422 days"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-18T20:15:05.973Z"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:07:53.283Z",
+    "questionId": 16515,
+    "question": "What was the primary fighter jet featured in “Top Gun”?",
+    "answerCounts": [
+      {
+        "answerId": 51163,
+        "answer": "F-14 Tomcat",
+        "correct": true,
+        "count": 176885
+      },
+      {
+        "answerId": 51164,
+        "answer": "The Millennium Falcon",
+        "correct": false,
+        "count": 22244
+      },
+      {
+        "answerId": 51165,
+        "answer": "The Batwing",
+        "correct": false,
+        "count": 3537
+      }
+    ],
+    "advancingPlayersCount": 176885,
+    "eliminatedPlayersCount": 57227,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:07:53.383Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:09:20.242Z",
+    "questionId": 16516,
+    "question": "Who recorded the classic album “Songs in the Key of Life”?",
+    "answerCounts": [
+      {
+        "answerId": 51166,
+        "answer": "Rihanna",
+        "correct": false,
+        "count": 11863
+      },
+      {
+        "answerId": 51167,
+        "answer": "Stevie Wonder",
+        "correct": true,
+        "count": 153909
+      },
+      {
+        "answerId": 51168,
+        "answer": "Superchunk",
+        "correct": false,
+        "count": 6176
+      }
+    ],
+    "advancingPlayersCount": 153909,
+    "eliminatedPlayersCount": 23146,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:09:20.343Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:10:16.104Z",
+    "questionId": 16517,
+    "question": "Who is considered one of the greatest all-time nature photographers?",
+    "answerCounts": [
+      {
+        "answerId": 51169,
+        "answer": "Sid Hudgens",
+        "correct": false,
+        "count": 34008
+      },
+      {
+        "answerId": 51170,
+        "answer": "Ansel Adams",
+        "correct": true,
+        "count": 94699
+      },
+      {
+        "answerId": 51171,
+        "answer": "Helmut Newton",
+        "correct": false,
+        "count": 20442
+      }
+    ],
+    "advancingPlayersCount": 94699,
+    "eliminatedPlayersCount": 59210,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:10:16.199Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:11:15.804Z",
+    "questionId": 16520,
+    "question": "According to the Bible, who shares the same birth place as King David?",
+    "answerCounts": [
+      {
+        "answerId": 51178,
+        "answer": "Abraham",
+        "correct": false,
+        "count": 28471
+      },
+      {
+        "answerId": 51179,
+        "answer": "Solomon",
+        "correct": false,
+        "count": 39827
+      },
+      {
+        "answerId": 51180,
+        "answer": "Jesus",
+        "correct": true,
+        "count": 23420
+      }
+    ],
+    "advancingPlayersCount": 23420,
+    "eliminatedPlayersCount": 71279,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:11:15.952Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:13:27.700Z",
+    "questionId": 16518,
+    "question": "Which of these tends to be bigger?",
+    "answerCounts": [
+      {
+        "answerId": 51172,
+        "answer": "Alpine glacier",
+        "correct": false,
+        "count": 7664
+      },
+      {
+        "answerId": 51173,
+        "answer": "Iceberg",
+        "correct": false,
+        "count": 5568
+      },
+      {
+        "answerId": 51174,
+        "answer": "Ice sheet",
+        "correct": true,
+        "count": 9205
+      }
+    ],
+    "advancingPlayersCount": 9205,
+    "eliminatedPlayersCount": 14215,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:13:27.994Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:14:14.134Z",
+    "questionId": 16519,
+    "question": "Punchnep is a root vegetable dish indigenous to where?",
+    "answerCounts": [
+      {
+        "answerId": 51175,
+        "answer": "Wales",
+        "correct": true,
+        "count": 4393
+      },
+      {
+        "answerId": 51176,
+        "answer": "Northern Ireland",
+        "correct": false,
+        "count": 2061
+      },
+      {
+        "answerId": 51177,
+        "answer": "Scotland",
+        "correct": false,
+        "count": 2416
+      }
+    ],
+    "advancingPlayersCount": 4393,
+    "eliminatedPlayersCount": 4812,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:14:14.308Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:15:03.507Z",
+    "questionId": 16521,
+    "question": "Which Hollywood film's title was translated for French release as \"Sexy Dance\"?",
+    "answerCounts": [
+      {
+        "answerId": 51181,
+        "answer": "Dirty Dancing",
+        "correct": false,
+        "count": 2614
+      },
+      {
+        "answerId": 51182,
+        "answer": "Step Up",
+        "correct": true,
+        "count": 1066
+      },
+      {
+        "answerId": 51183,
+        "answer": "Black Swan",
+        "correct": false,
+        "count": 625
+      }
+    ],
+    "advancingPlayersCount": 1066,
+    "eliminatedPlayersCount": 3327,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:15:03.803Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:16:08.296Z",
+    "questionId": 16522,
+    "question": "Which of the following dinosaurs lived during the Jurassic period?",
+    "answerCounts": [
+      {
+        "answerId": 51184,
+        "answer": "Triceratops",
+        "correct": false,
+        "count": 303
+      },
+      {
+        "answerId": 51185,
+        "answer": "Plateosaurus",
+        "correct": false,
+        "count": 229
+      },
+      {
+        "answerId": 51186,
+        "answer": "Stegosaurus",
+        "correct": true,
+        "count": 502
+      }
+    ],
+    "advancingPlayersCount": 502,
+    "eliminatedPlayersCount": 564,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:16:08.446Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T20:17:03.898Z",
+    "questionId": 16523,
+    "question": "Who has the most hits in the history of professional baseball?",
+    "answerCounts": [
+      {
+        "answerId": 51187,
+        "answer": "Ty Cobb",
+        "correct": false,
+        "count": 94
+      },
+      {
+        "answerId": 51188,
+        "answer": "Ichiro Suzuki",
+        "correct": true,
+        "count": 107
+      },
+      {
+        "answerId": 51189,
+        "answer": "Pete Rose",
+        "correct": false,
+        "count": 295
+      }
+    ],
+    "advancingPlayersCount": 107,
+    "eliminatedPlayersCount": 395,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T20:17:04.038Z"
+  }
+]

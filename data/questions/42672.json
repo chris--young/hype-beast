@@ -1,0 +1,262 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:07:03.720Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16515,
+    "question": "What was the primary fighter jet featured in “Top Gun”?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 51163,
+        "text": "F-14 Tomcat"
+      },
+      {
+        "answerId": 51164,
+        "text": "The Millennium Falcon"
+      },
+      {
+        "answerId": 51165,
+        "text": "The Batwing"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:07:03.812Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:08:33.259Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16516,
+    "question": "Who recorded the classic album “Songs in the Key of Life”?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 51166,
+        "text": "Rihanna"
+      },
+      {
+        "answerId": 51167,
+        "text": "Stevie Wonder"
+      },
+      {
+        "answerId": 51168,
+        "text": "Superchunk"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:08:33.318Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:09:39.294Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16517,
+    "question": "Who is considered one of the greatest all-time nature photographers?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 51169,
+        "text": "Sid Hudgens"
+      },
+      {
+        "answerId": 51170,
+        "text": "Ansel Adams"
+      },
+      {
+        "answerId": 51171,
+        "text": "Helmut Newton"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:09:39.342Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:10:44.284Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16520,
+    "question": "According to the Bible, who shares the same birth place as King David?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 51178,
+        "text": "Abraham"
+      },
+      {
+        "answerId": 51179,
+        "text": "Solomon"
+      },
+      {
+        "answerId": 51180,
+        "text": "Jesus"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:10:44.342Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:12:39.520Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16518,
+    "question": "Which of these tends to be bigger?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51172,
+        "text": "Alpine glacier"
+      },
+      {
+        "answerId": 51173,
+        "text": "Iceberg"
+      },
+      {
+        "answerId": 51174,
+        "text": "Ice sheet"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:12:39.574Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:13:47.543Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16519,
+    "question": "Punchnep is a root vegetable dish indigenous to where?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 51175,
+        "text": "Wales"
+      },
+      {
+        "answerId": 51176,
+        "text": "Northern Ireland"
+      },
+      {
+        "answerId": 51177,
+        "text": "Scotland"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:13:47.602Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:14:36.573Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16521,
+    "question": "Which Hollywood film's title was translated for French release as \"Sexy Dance\"?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 51181,
+        "text": "Dirty Dancing"
+      },
+      {
+        "answerId": 51182,
+        "text": "Step Up"
+      },
+      {
+        "answerId": 51183,
+        "text": "Black Swan"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:14:36.616Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:15:30.484Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16522,
+    "question": "Which of the following dinosaurs lived during the Jurassic period?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 51184,
+        "text": "Triceratops"
+      },
+      {
+        "answerId": 51185,
+        "text": "Plateosaurus"
+      },
+      {
+        "answerId": 51186,
+        "text": "Stegosaurus"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:15:30.535Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:16:32.577Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16523,
+    "question": "Who has the most hits in the history of professional baseball?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 51187,
+        "text": "Ty Cobb"
+      },
+      {
+        "answerId": 51188,
+        "text": "Ichiro Suzuki"
+      },
+      {
+        "answerId": 51189,
+        "text": "Pete Rose"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:16:32.625Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T20:17:33.817Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16524,
+    "question": "Who is the only journalist to win the Pulitzer Prize more than three times?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 51190,
+        "text": "Carol Guzy"
+      },
+      {
+        "answerId": 51191,
+        "text": "David Barstow"
+      },
+      {
+        "answerId": 51192,
+        "text": "Amy Archer"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-20T20:17:33.874Z"
+  }
+]

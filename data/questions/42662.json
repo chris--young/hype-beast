@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:07:27.455Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16503,
+    "question": "Which of these birds is NOT known for being trained to speak?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51127,
+        "text": "Parrot"
+      },
+      {
+        "answerId": 51128,
+        "text": "Pigeon"
+      },
+      {
+        "answerId": 51129,
+        "text": "Myna"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:07:27.565Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:08:11.199Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16504,
+    "question": "Which of these apps is designed to help with travel plans?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 51130,
+        "text": "TripAdvisor"
+      },
+      {
+        "answerId": 51131,
+        "text": "LastPass"
+      },
+      {
+        "answerId": 51132,
+        "text": "iTunes"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:08:11.283Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:09:00.014Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16505,
+    "question": "Which of these schools is NOT a member of the Ivy League?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 51133,
+        "text": "Johns Hopkins"
+      },
+      {
+        "answerId": 51134,
+        "text": "Dartmouth"
+      },
+      {
+        "answerId": 51135,
+        "text": "Yale"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:09:00.121Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:09:58.913Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16506,
+    "question": "What is the capital of Kentucky?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 51136,
+        "text": "Louisville"
+      },
+      {
+        "answerId": 51137,
+        "text": "Frankfort"
+      },
+      {
+        "answerId": 51138,
+        "text": "Frankfurt"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:09:58.965Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:11:02.656Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16510,
+    "question": "What are the first three words in the King James Version of the Bible?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 51148,
+        "text": "In the beginning"
+      },
+      {
+        "answerId": 51149,
+        "text": "The heavens declare"
+      },
+      {
+        "answerId": 51150,
+        "text": "The almighty God"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:11:02.748Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:12:04.281Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16507,
+    "question": "Which word in English means the same in French, Russian, German, Afrikaans & Lithuanian?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 51139,
+        "text": "Automobile"
+      },
+      {
+        "answerId": 51140,
+        "text": "Super"
+      },
+      {
+        "answerId": 51141,
+        "text": "Computer"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:12:04.347Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:12:54.921Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16508,
+    "question": "Spike TV's “MXC” from the mid-2000s was a spoof of which Japanese show?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 51142,
+        "text": "Castle Invaders Go!"
+      },
+      {
+        "answerId": 51143,
+        "text": "Hell Castle"
+      },
+      {
+        "answerId": 51144,
+        "text": "Takeshi's Castle"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:12:54.989Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:13:44.561Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16509,
+    "question": "“Oh! What a tangled web we weave when first we practice to deceive” is from which poet?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 51145,
+        "text": "Sir Walter Scott"
+      },
+      {
+        "answerId": 51146,
+        "text": "Robert Browning"
+      },
+      {
+        "answerId": 51147,
+        "text": "William Shakespeare"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:13:44.585Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:14:32.654Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16511,
+    "question": "What was the last Canadian team to win back-to-back NHL championships?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 51151,
+        "text": "Toronto Maple Leafs"
+      },
+      {
+        "answerId": 51152,
+        "text": "Edmonton Oilers"
+      },
+      {
+        "answerId": 51153,
+        "text": "Montreal Canadiens"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:14:32.698Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:15:41.432Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16512,
+    "question": "Which of these atmospheric layers of the Earth is the highest?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 51154,
+        "text": "Mesosphere"
+      },
+      {
+        "answerId": 51155,
+        "text": "Stratosphere"
+      },
+      {
+        "answerId": 51156,
+        "text": "Thermosphere"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:15:41.471Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:16:56.414Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16513,
+    "question": "Alfred HItchcock's “Psycho” was the first Hollywood film to ever to do what?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 51157,
+        "text": "Show a toilet flush"
+      },
+      {
+        "answerId": 51158,
+        "text": "Use human blood"
+      },
+      {
+        "answerId": 51159,
+        "text": "Kill its lead character"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:16:56.460Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-20T02:18:28.449Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16514,
+    "question": "After a late 15th century French invasion, Leonardo da Vinci was forced to flee Milan with whom?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51160,
+        "text": "His mistress"
+      },
+      {
+        "answerId": 51161,
+        "text": "His teacher"
+      },
+      {
+        "answerId": 51162,
+        "text": "His scribe"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-20T02:18:28.505Z"
+  }
+]

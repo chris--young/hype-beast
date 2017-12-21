@@ -7,22 +7,28 @@ const { googleSearch } = require('../common');
 
 const PAGES = 2;
 
+const sort = (a, b) => a.score < b.score ? 1 : a.score > b.score ? -1 : 0;
+
 module.exports = (question) => {
 	const not = /\bnot\b/i.test(question.question);
-	const sort = (a, b) => (not ? 1 : -1) * (a.count < b.count ? -1 : a.count > b.count ? 1 : 0);
 
-	const count = (pages) => question.answers.map((answer, index) => {
-		const regex = new RegExp(answer.text, 'gi');
-		const count = pages.reduce((sum, page, index) => sum += (page.match(regex) || []).length / (index + 1), 0);
+	const guess = (pages) => question.answers.map((answer, index) => {
+		let score = 0;
 
-		return { answer, index, count };
+		const check = (regex) => pages.forEach((page, index) => score += (page.match(regex) || []).length / (index + 1));
+
+		check(new RegExp(answer.text, 'gi'));
+		check(new RegExp(encodeURIComponent(answer.text), 'gi'));
+		check(new RegExp(answer.text.split(' ').reverse().join(' '), 'gi'));
+
+		if (not)
+			score *= -1;
+
+		return { answer, index, score };
 	});
 
-	if (not)
-		question.question = question.question.replace(/\bnot\b/i, ' ');
-
 	return googleSearch(question.question, PAGES)
-		.then((pages) => count(pages).sort(sort))
+		.then((pages) => guess(pages).sort(sort))
 		.catch((err) => Promise.reject(new VError(err, 'Failed to search google')));
 };
 

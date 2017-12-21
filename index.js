@@ -23,41 +23,49 @@ if (PROXY)
 const token = parseToken(AUTH_TOKEN);
 const history = [0, 0, 0];
 
-getShow()
-	.then((show) => {
-		if (!show.active)
-			exit(3, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
+(async function main() {
 
-		const opts = {
-			perMessageDeflate: false,
-			headers: { Authorization: `Bearer ${AUTH_TOKEN}` }
-		};
+	let show = null;
 
-		log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
+	try {
+		show = await getShow();
+	} catch (e) {
+		exit(2, 'Failed to get show data', e);
+	}
 
-		if (!fs.existsSync('./data/broadcasts'))
-			fs.mkdirSync('./data/broadcasts');
+	if (!show.active)
+		exit(3, `Next show at ${show.nextShowTime} with ${show.nextShowPrize} prize`);
 
-		const path = `./data/broadcasts/${show.broadcast.broadcastId}.txt`;
-		const file = fs.createWriteStream(path, { flags: 'a' });
-		const ws = new WebSocket(show.broadcast.socketUrl, opts);
+	const opts = {
+		perMessageDeflate: false,
+		headers: { Authorization: `Bearer ${AUTH_TOKEN}` }
+	};
 
-		debug(`Logging stream to ${path}`);
+	log(`Connecting to broadcast ${show.broadcast.broadcastId}...`);
 
-		let ping = null;
+	if (!fs.existsSync('./data/broadcasts'))
+		fs.mkdirSync('./data/broadcasts');
 
-		ws.on('open', () => {
-			log(`Connection open\n Prize is $${show.prize}`);
-			ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
-		});
+	const path = `./data/broadcasts/${show.broadcast.broadcastId}.txt`;
+	const file = fs.createWriteStream(path, { flags: 'a' });
+	const ws = new WebSocket(show.broadcast.socketUrl, opts);
 
-		ws.on('pong', () => debug('...pong'));
-		ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
-		ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
-	})
-	.catch((err) => exit(2, 'Failed to get show data', err));
+	debug(`Logging stream to ${path}`);
 
-function handleMessage(msg) {
+	let ping = null;
+
+	ws.on('open', () => {
+		log(`Connection open\n Prize is $${show.prize}`);
+		ping = setInterval(() => debug('ping...') || ws.ping('', false, false), PING_INTERVAL);
+	});
+
+	ws.on('pong', () => debug('...pong'));
+	ws.on('message', (data) => handleMessage(data) || file.write(data + '\n'));
+	ws.on('close', () => log('Connection closed') || (ping && clearInterval(ping)));
+
+})();
+
+async function handleMessage(msg) {
 	try {
 		msg = JSON.parse(msg);
 	} catch (e) {
@@ -79,16 +87,21 @@ function handleMessage(msg) {
 
 		case 'question':
 			log(msg);
-			questionSearch(msg)
-				.then((answers) => {
-					distributionLock(NUM_QUESTIONS, history, answers);
 
-					log('RESULTS: ');
+			let answers = null;
 
-					log.blue(answers);
-					log.pink('GUESS > ', answers.find((answer) => answer.recommend).answer);
-				})
-				.catch((err) => warn(err));
+			try {
+				answers = await questionSearch(msg);
+				distributionLock(NUM_QUESTIONS, history, answers);
+			} catch (e) {
+				warn(e);
+			}
+
+			if (answers) {
+				log('RESULTS: ');
+				log.blue(answers);
+				log.pink('GUESS > ', answers.find((answer) => answer.recommend).answer);
+			}
 			break;
 
 		case 'questionSummary':

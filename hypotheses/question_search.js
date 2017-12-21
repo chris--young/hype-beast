@@ -9,7 +9,7 @@ const PAGES = 2;
 
 const sort = (a, b) => a.score < b.score ? 1 : a.score > b.score ? -1 : 0;
 
-module.exports = (question) => {
+module.exports = async function (question) {
 	const not = /\bnot\b/i.test(question.question);
 
 	const guess = (pages) => question.answers.map((answer, index) => {
@@ -27,8 +27,14 @@ module.exports = (question) => {
 		return { answer, index, score };
 	});
 
-	return googleSearch(question.question, PAGES)
-		.then((pages) => guess(pages).sort(sort))
-		.catch((err) => Promise.reject(new VError(err, 'Failed to search google')));
+	let pages = [];
+
+	try {
+		pages = await googleSearch(question.question, PAGES);
+	} catch (e) {
+		throw new VError(e, 'Failed to search google');
+	}
+
+	return guess(pages).sort(sort);
 };
 

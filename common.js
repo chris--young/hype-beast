@@ -30,38 +30,6 @@ exports.exit = exit;
 exports.debug = debug;
 exports.warn = warn;
 
-const range = (length) => Array(length).fill().map((_, index) => index);
-
-exports.googleSearch = (query, pages = 1) => Promise.all(range(pages).map((page) => new Promise((resolve, reject) => {
-	const opts = {
-		proxy: PROXY,
-		method: 'GET',
-		url: `https://www.google.com/search?q=${encodeURIComponent(query)}`
-	};
-
-	if (page)
-		opts.url += `&start=${(page) * 10}`;
-
-	if (cache[opts.url])
-		return setImmediate(() => debug(`Using cached version of ${opts.url}`) || resolve(cache[opts.url]));
-
-	debug(`Skipping cache for ${opts.url}`);
-
-	request(opts, (err, res, body) => {
-		if (err)
-			return reject(new VError(err, 'Failed to make request'), null);
-
-		if (res.statusCode !== 200)
-			return reject(new VError(`Got bad status code from google: ${res.statusCode}`));
-
-		cache[opts.url] = body;
-
-		fs.writeFile('./data/cache.json', JSON.stringify(cache, null, 2), (err) => err && warn('Failed to update cache', err));
-
-		resolve(body);
-	});
-})));
-
 exports.wikiSearch = (query, cb) => {
 	const opts = {
 		proxy: PROXY,

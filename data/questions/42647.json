@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:09:38.650Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16313,
+    "question": "Which of these is NOT a plant used to make tea?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 50557,
+        "text": "Red bush"
+      },
+      {
+        "answerId": 50558,
+        "text": "Honeybush"
+      },
+      {
+        "answerId": 50559,
+        "text": "George Bush"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:09:38.961Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:10:41.372Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16311,
+    "question": "Who is currently the host of “The Tonight Show”?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 50551,
+        "text": "Jimmy Kimmel"
+      },
+      {
+        "answerId": 50552,
+        "text": "Jimmy Fallon"
+      },
+      {
+        "answerId": 50553,
+        "text": "MacKenzie Fallon"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:10:41.440Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:11:38.972Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16314,
+    "question": "Which mountain range is the longest?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 50560,
+        "text": "Himalayas"
+      },
+      {
+        "answerId": 50561,
+        "text": "Rockies"
+      },
+      {
+        "answerId": 50562,
+        "text": "Andes"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:11:39.242Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:12:41.938Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16312,
+    "question": "Which ancient city is said to have been founded by the legendary Romulus?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 50554,
+        "text": "Reims"
+      },
+      {
+        "answerId": 50555,
+        "text": "Rhamnus"
+      },
+      {
+        "answerId": 50556,
+        "text": "Rome"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:12:41.978Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:13:31.537Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16316,
+    "question": "Which animal is the national symbol of Thailand?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 50566,
+        "text": "Elephant"
+      },
+      {
+        "answerId": 50567,
+        "text": "Komodo dragon"
+      },
+      {
+        "answerId": 50568,
+        "text": "Tiger"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:13:31.559Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:14:28.965Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16315,
+    "question": "A sideways, double chevron is a punctuation mark known as what?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 50563,
+        "text": "Guillemet"
+      },
+      {
+        "answerId": 50564,
+        "text": "Pilcrow"
+      },
+      {
+        "answerId": 50565,
+        "text": "Asterism"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:14:29.005Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:15:49.403Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16317,
+    "question": "Which of these sci-fi franchises came first?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 50569,
+        "text": "Buck Rogers"
+      },
+      {
+        "answerId": 50570,
+        "text": "Flash Gordon"
+      },
+      {
+        "answerId": 50571,
+        "text": "Godzilla"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:15:49.437Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:16:48.153Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16320,
+    "question": "According to the FDA, which of these is considered cheese?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 50578,
+        "text": "Kraft Singles"
+      },
+      {
+        "answerId": 50579,
+        "text": "Velveeta"
+      },
+      {
+        "answerId": 50580,
+        "text": "Polly-O String Cheese"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:16:48.188Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:17:47.589Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16319,
+    "question": "What is the origin of Radiohead's name?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 50575,
+        "text": "Talking Heads song"
+      },
+      {
+        "answerId": 50576,
+        "text": "War of the Worlds"
+      },
+      {
+        "answerId": 50577,
+        "text": "Andy Warhol installation"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:17:47.634Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:18:33.375Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16318,
+    "question": "“Xenogenesis” is the first directing credit by which famous filmmaker?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 50572,
+        "text": "George Lucas"
+      },
+      {
+        "answerId": 50573,
+        "text": "Steven Spielberg"
+      },
+      {
+        "answerId": 50574,
+        "text": "James Cameron"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:18:33.417Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:19:35.011Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16321,
+    "question": "Who is NOT part of the ownership group of the future MLS team Los Angeles FC?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 50581,
+        "text": "Landon Donovan"
+      },
+      {
+        "answerId": 50582,
+        "text": "Tony Robbins"
+      },
+      {
+        "answerId": 50583,
+        "text": "Will Ferrell"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:19:35.043Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-18T02:21:09.627Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16322,
+    "question": "Which character speaks the opening monologue of “The Godfather”?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 50584,
+        "text": "Tom Hagen"
+      },
+      {
+        "answerId": 50585,
+        "text": "Vito Corleone"
+      },
+      {
+        "answerId": 50586,
+        "text": "Bonasera"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-18T02:21:09.663Z"
+  }
+]

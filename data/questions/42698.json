@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:04:18.974Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16637,
+    "question": "Who served as Ronald Reagan's vice president?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51529,
+        "text": "Selena Gomez"
+      },
+      {
+        "answerId": 51530,
+        "text": "George H. W. Bush"
+      },
+      {
+        "answerId": 51531,
+        "text": "Stewie Griffin"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:04:19.031Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:04:59.798Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16564,
+    "question": "Which of these is NOT a University of California campus?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 51310,
+        "text": "Des Moines"
+      },
+      {
+        "answerId": 51311,
+        "text": "Los Angeles"
+      },
+      {
+        "answerId": 51312,
+        "text": "Berkeley"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:04:59.876Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:05:38.801Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16565,
+    "question": "Which of these is currently allowed on U.S. passport photos?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51313,
+        "text": "Hats"
+      },
+      {
+        "answerId": 51314,
+        "text": "Glasses"
+      },
+      {
+        "answerId": 51315,
+        "text": "Smiling"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:05:38.884Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:06:24.913Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16566,
+    "question": "On what TV show did The Simpsons make their debut?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 51316,
+        "text": "Pee-Wee's Playhouse"
+      },
+      {
+        "answerId": 51317,
+        "text": "Saturday Night Live"
+      },
+      {
+        "answerId": 51318,
+        "text": "The Tracey Ullman Show"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:06:24.986Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:07:09.814Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16567,
+    "question": "How many eyes does a newt have?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51319,
+        "text": "Two"
+      },
+      {
+        "answerId": 51320,
+        "text": "One"
+      },
+      {
+        "answerId": 51321,
+        "text": "Three"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:07:09.846Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:07:53.291Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16568,
+    "question": "Which of these fruits does NOT grow on trees?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 51322,
+        "text": "Persimmon"
+      },
+      {
+        "answerId": 51323,
+        "text": "Pomegranate"
+      },
+      {
+        "answerId": 51324,
+        "text": "Kiwi"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:07:53.353Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:08:35.508Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16569,
+    "question": "The winner of the World Series of Poker traditionally receives what?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 51325,
+        "text": "Gold coin"
+      },
+      {
+        "answerId": 51326,
+        "text": "Gold bracelet"
+      },
+      {
+        "answerId": 51327,
+        "text": "Gold ring"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:08:35.563Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:09:28.639Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16571,
+    "question": "After Texas, what U.S. state produces the most crude oil?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51331,
+        "text": "Oklahoma"
+      },
+      {
+        "answerId": 51332,
+        "text": "North Dakota"
+      },
+      {
+        "answerId": 51333,
+        "text": "Alaska"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:09:28.683Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:10:29.502Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16572,
+    "question": "Roughly how many more years will it take Halley's Comet to pass Earth again?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 51334,
+        "text": "43 years"
+      },
+      {
+        "answerId": 51335,
+        "text": "76 years"
+      },
+      {
+        "answerId": 51336,
+        "text": "55 years"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:10:29.529Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:11:16.720Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16573,
+    "question": "Which of these continents is the largest?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 51337,
+        "text": "Europe"
+      },
+      {
+        "answerId": 51338,
+        "text": "South America"
+      },
+      {
+        "answerId": 51339,
+        "text": "Antarctica"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:11:16.759Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:12:06.792Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16575,
+    "question": "Which of these is NOT another term for a speakeasy?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51343,
+        "text": "Blind Pig"
+      },
+      {
+        "answerId": 51344,
+        "text": "Blind Turtle"
+      },
+      {
+        "answerId": 51345,
+        "text": "Blind Tiger"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:12:06.810Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-21T20:13:25.603Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16576,
+    "question": "At 16 weeks, a human fetus is roughly comparable in size to which of these fruits?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51346,
+        "text": "Coconut"
+      },
+      {
+        "answerId": 51347,
+        "text": "Strawberry"
+      },
+      {
+        "answerId": 51348,
+        "text": "Avocado"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-21T20:13:25.620Z"
+  }
+]

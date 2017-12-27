@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:08:20.331Z",
+    "questionId": 16553,
+    "question": "Which Greek god is associated with lightning bolts?",
+    "answerCounts": [
+      {
+        "answerId": 51277,
+        "answer": "Danny Zuko",
+        "correct": false,
+        "count": 2174
+      },
+      {
+        "answerId": 51278,
+        "answer": "Steve Jobs",
+        "correct": false,
+        "count": 1674
+      },
+      {
+        "answerId": 51279,
+        "answer": "Zeus",
+        "correct": true,
+        "count": 498506
+      }
+    ],
+    "advancingPlayersCount": 498506,
+    "eliminatedPlayersCount": 54281,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:08:20.493Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:09:16.056Z",
+    "questionId": 16552,
+    "question": "Which of these is NOT a competing group in the Westminster Dog Show?",
+    "answerCounts": [
+      {
+        "answerId": 51274,
+        "answer": "Working Group",
+        "correct": false,
+        "count": 116298
+      },
+      {
+        "answerId": 51275,
+        "answer": "Toy Group",
+        "correct": false,
+        "count": 72179
+      },
+      {
+        "answerId": 51276,
+        "answer": "Mutt Group",
+        "correct": true,
+        "count": 295057
+      }
+    ],
+    "advancingPlayersCount": 295057,
+    "eliminatedPlayersCount": 203996,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:09:16.324Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:10:24.005Z",
+    "questionId": 16554,
+    "question": "Where was the martial art of Tae Kwon Do invented?",
+    "answerCounts": [
+      {
+        "answerId": 51280,
+        "answer": "Korea",
+        "correct": true,
+        "count": 190580
+      },
+      {
+        "answerId": 51281,
+        "answer": "Vietnam",
+        "correct": false,
+        "count": 43294
+      },
+      {
+        "answerId": 51282,
+        "answer": "China",
+        "correct": false,
+        "count": 50374
+      }
+    ],
+    "advancingPlayersCount": 190580,
+    "eliminatedPlayersCount": 104477,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:10:24.170Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:11:18.152Z",
+    "questionId": 16555,
+    "question": "Which of these films is NOT part of a trilogy?",
+    "answerCounts": [
+      {
+        "answerId": 51283,
+        "answer": "Raiders of the Lost Ark",
+        "correct": true,
+        "count": 34327
+      },
+      {
+        "answerId": 51284,
+        "answer": "Blade",
+        "correct": false,
+        "count": 68317
+      },
+      {
+        "answerId": 51285,
+        "answer": "The Naked Gun",
+        "correct": false,
+        "count": 80344
+      }
+    ],
+    "advancingPlayersCount": 34327,
+    "eliminatedPlayersCount": 156253,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:11:18.483Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:12:36.013Z",
+    "questionId": 16556,
+    "question": "Sen. Mitch McConnell is married to the current Secretary of what department?",
+    "answerCounts": [
+      {
+        "answerId": 51286,
+        "answer": "Homeland Security",
+        "correct": false,
+        "count": 5609
+      },
+      {
+        "answerId": 51287,
+        "answer": "Education",
+        "correct": false,
+        "count": 8005
+      },
+      {
+        "answerId": 51288,
+        "answer": "Transportation",
+        "correct": true,
+        "count": 16646
+      }
+    ],
+    "advancingPlayersCount": 16646,
+    "eliminatedPlayersCount": 17681,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:12:36.332Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:13:34.842Z",
+    "questionId": 16557,
+    "question": "What is the signature song of “The Empress of Soul”?",
+    "answerCounts": [
+      {
+        "answerId": 51289,
+        "answer": "Respect",
+        "correct": false,
+        "count": 9824
+      },
+      {
+        "answerId": 51290,
+        "answer": "Lady Marmalade",
+        "correct": false,
+        "count": 2187
+      },
+      {
+        "answerId": 51291,
+        "answer": "Midnight Train to GA",
+        "correct": true,
+        "count": 4001
+      }
+    ],
+    "advancingPlayersCount": 4001,
+    "eliminatedPlayersCount": 12645,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:13:35.171Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:14:47.938Z",
+    "questionId": 16558,
+    "question": "Who is credited with originating the phrase: “Hell hath no fury like a woman scorned”?",
+    "answerCounts": [
+      {
+        "answerId": 51292,
+        "answer": "William Shakespeare",
+        "correct": false,
+        "count": 1422
+      },
+      {
+        "answerId": 51293,
+        "answer": "William Congreve",
+        "correct": true,
+        "count": 800
+      },
+      {
+        "answerId": 51294,
+        "answer": "Lord Byron",
+        "correct": false,
+        "count": 1615
+      }
+    ],
+    "advancingPlayersCount": 800,
+    "eliminatedPlayersCount": 3201,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:14:48.254Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:15:45.933Z",
+    "questionId": 16559,
+    "question": "What do the stars Alnilam, Alnitak, and Mintaka make?",
+    "answerCounts": [
+      {
+        "answerId": 51295,
+        "answer": "Draco's Tail",
+        "correct": false,
+        "count": 213
+      },
+      {
+        "answerId": 51296,
+        "answer": "Little Dipper's Handle",
+        "correct": false,
+        "count": 116
+      },
+      {
+        "answerId": 51297,
+        "answer": "Orion's Belt",
+        "correct": true,
+        "count": 409
+      }
+    ],
+    "advancingPlayersCount": 409,
+    "eliminatedPlayersCount": 391,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:15:46.209Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:16:47.911Z",
+    "questionId": 16560,
+    "question": "Pigments found in what part of a flamingo's diet determine its color?",
+    "answerCounts": [
+      {
+        "answerId": 51298,
+        "answer": "Melanin",
+        "correct": false,
+        "count": 109
+      },
+      {
+        "answerId": 51299,
+        "answer": "Chromatophore",
+        "correct": false,
+        "count": 98
+      },
+      {
+        "answerId": 51300,
+        "answer": "Carotenoid",
+        "correct": true,
+        "count": 185
+      }
+    ],
+    "advancingPlayersCount": 185,
+    "eliminatedPlayersCount": 224,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:16:48.211Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:17:46.003Z",
+    "questionId": 16561,
+    "question": "Samuel Ward Francis did NOT invent which of the following?",
+    "answerCounts": [
+      {
+        "answerId": 51301,
+        "answer": "Spork",
+        "correct": false,
+        "count": 60
+      },
+      {
+        "answerId": 51302,
+        "answer": "Self-opening coffin",
+        "correct": false,
+        "count": 71
+      },
+      {
+        "answerId": 51303,
+        "answer": "Swivel chair",
+        "correct": true,
+        "count": 51
+      }
+    ],
+    "advancingPlayersCount": 51,
+    "eliminatedPlayersCount": 134,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:17:46.260Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:18:57.809Z",
+    "questionId": 16562,
+    "question": "Which of these college fraternities counts the most lifetime members?",
+    "answerCounts": [
+      {
+        "answerId": 51304,
+        "answer": "Sigma Nu",
+        "correct": false,
+        "count": 8
+      },
+      {
+        "answerId": 51305,
+        "answer": "Sigma Alpha Epilson",
+        "correct": true,
+        "count": 28
+      },
+      {
+        "answerId": 51306,
+        "answer": "Sigma Chi",
+        "correct": false,
+        "count": 14
+      }
+    ],
+    "advancingPlayersCount": 28,
+    "eliminatedPlayersCount": 23,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:18:58.135Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-21T02:20:39.841Z",
+    "questionId": 16563,
+    "question": "Which of these pairs of states forms a border within the United States?",
+    "answerCounts": [
+      {
+        "answerId": 51307,
+        "answer": "Missouri / Mississippi",
+        "correct": false,
+        "count": 5
+      },
+      {
+        "answerId": 51308,
+        "answer": "Illinois / Tennessee",
+        "correct": false,
+        "count": 10
+      },
+      {
+        "answerId": 51309,
+        "answer": "Iowa / South Dakota",
+        "correct": true,
+        "count": 11
+      }
+    ],
+    "advancingPlayersCount": 11,
+    "eliminatedPlayersCount": 17,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-21T02:20:40.094Z"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:06:21.843Z",
+    "questionId": 16577,
+    "question": "What fruit is grown so plentifully in Georgia that it became a symbol for the state?",
+    "answerCounts": [
+      {
+        "answerId": 51349,
+        "answer": "Lemon",
+        "correct": false,
+        "count": 10842
+      },
+      {
+        "answerId": 51350,
+        "answer": "Peach",
+        "correct": true,
+        "count": 464363
+      },
+      {
+        "answerId": 51351,
+        "answer": "Loquat",
+        "correct": false,
+        "count": 2829
+      }
+    ],
+    "advancingPlayersCount": 464363,
+    "eliminatedPlayersCount": 56583,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:06:22.103Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:07:13.309Z",
+    "questionId": 16578,
+    "question": "What is a tartan?",
+    "answerCounts": [
+      {
+        "answerId": 51352,
+        "answer": "Cheese spread",
+        "correct": false,
+        "count": 117034
+      },
+      {
+        "answerId": 51353,
+        "answer": "Plaid design",
+        "correct": true,
+        "count": 270382
+      },
+      {
+        "answerId": 51354,
+        "answer": "Turk from Crimea",
+        "correct": false,
+        "count": 60242
+      }
+    ],
+    "advancingPlayersCount": 270382,
+    "eliminatedPlayersCount": 194905,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:07:13.496Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:08:03.702Z",
+    "questionId": 16579,
+    "question": "New York is in the United States, but where is ‘old’ York?",
+    "answerCounts": [
+      {
+        "answerId": 51355,
+        "answer": "Iceland",
+        "correct": false,
+        "count": 8620
+      },
+      {
+        "answerId": 51356,
+        "answer": "Japan",
+        "correct": false,
+        "count": 1817
+      },
+      {
+        "answerId": 51357,
+        "answer": "England",
+        "correct": true,
+        "count": 249628
+      }
+    ],
+    "advancingPlayersCount": 249628,
+    "eliminatedPlayersCount": 20754,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:08:03.917Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:08:45.446Z",
+    "questionId": 16580,
+    "question": "How many laps are there in the Indianapolis 500?",
+    "answerCounts": [
+      {
+        "answerId": 51358,
+        "answer": "250",
+        "correct": false,
+        "count": 63055
+      },
+      {
+        "answerId": 51359,
+        "answer": "200",
+        "correct": true,
+        "count": 59920
+      },
+      {
+        "answerId": 51360,
+        "answer": "500",
+        "correct": false,
+        "count": 121106
+      }
+    ],
+    "advancingPlayersCount": 59920,
+    "eliminatedPlayersCount": 189708,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:08:45.546Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:09:42.463Z",
+    "questionId": 16581,
+    "question": "What typically gets put in a caddy?",
+    "answerCounts": [
+      {
+        "answerId": 51361,
+        "answer": "Golf clubs",
+        "correct": false,
+        "count": 32679
+      },
+      {
+        "answerId": 51362,
+        "answer": "Tea",
+        "correct": true,
+        "count": 19181
+      },
+      {
+        "answerId": 51363,
+        "answer": "Chinese food",
+        "correct": false,
+        "count": 2533
+      }
+    ],
+    "advancingPlayersCount": 19181,
+    "eliminatedPlayersCount": 40739,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:09:42.769Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:10:33.195Z",
+    "questionId": 16583,
+    "question": "Which of these does not describe the Grinch's heart in \"You're a Mean One, Mr. Grinch”?",
+    "answerCounts": [
+      {
+        "answerId": 51367,
+        "answer": "Full of unwashed socks",
+        "correct": false,
+        "count": 3008
+      },
+      {
+        "answerId": 51368,
+        "answer": "A dead tomato",
+        "correct": false,
+        "count": 10044
+      },
+      {
+        "answerId": 51369,
+        "answer": "Black as molasses",
+        "correct": true,
+        "count": 4197
+      }
+    ],
+    "advancingPlayersCount": 4197,
+    "eliminatedPlayersCount": 14984,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:10:33.464Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:11:42.880Z",
+    "questionId": 16582,
+    "question": "What is Bergy Seltzer?",
+    "answerCounts": [
+      {
+        "answerId": 51364,
+        "answer": "German soda brand",
+        "correct": false,
+        "count": 1381
+      },
+      {
+        "answerId": 51365,
+        "answer": "Antacid",
+        "correct": false,
+        "count": 1557
+      },
+      {
+        "answerId": 51366,
+        "answer": "Iceberg noises",
+        "correct": true,
+        "count": 1067
+      }
+    ],
+    "advancingPlayersCount": 1067,
+    "eliminatedPlayersCount": 3130,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:11:43.062Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:12:48.901Z",
+    "questionId": 16584,
+    "question": "In the year when “Hollaback Girl” was the #2 song in the U.S., what was #1?",
+    "answerCounts": [
+      {
+        "answerId": 51370,
+        "answer": "Gold Digger",
+        "correct": false,
+        "count": 418
+      },
+      {
+        "answerId": 51371,
+        "answer": "We Belong Together",
+        "correct": true,
+        "count": 189
+      },
+      {
+        "answerId": 51372,
+        "answer": "Since U Been Gone",
+        "correct": false,
+        "count": 418
+      }
+    ],
+    "advancingPlayersCount": 189,
+    "eliminatedPlayersCount": 878,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:12:49.155Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:13:54.467Z",
+    "questionId": 16585,
+    "question": "Which one of these is a real element of software planning?",
+    "answerCounts": [
+      {
+        "answerId": 51373,
+        "answer": "“What Would Linus Do?”",
+        "correct": false,
+        "count": 62
+      },
+      {
+        "answerId": 51374,
+        "answer": "Planning poker",
+        "correct": true,
+        "count": 55
+      },
+      {
+        "answerId": 51375,
+        "answer": "Feature darts",
+        "correct": false,
+        "count": 57
+      }
+    ],
+    "advancingPlayersCount": 55,
+    "eliminatedPlayersCount": 134,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:13:54.732Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:14:56.496Z",
+    "questionId": 16586,
+    "question": "Who wrote the bestseller that won the Adapted Screenplay Oscar for Adam McKay & Charles Randolph?",
+    "answerCounts": [
+      {
+        "answerId": 51376,
+        "answer": "Michael Lewis",
+        "correct": true,
+        "count": 25
+      },
+      {
+        "answerId": 51377,
+        "answer": "J.R. Ward",
+        "correct": false,
+        "count": 9
+      },
+      {
+        "answerId": 51378,
+        "answer": "Hugh Ambrose",
+        "correct": false,
+        "count": 17
+      }
+    ],
+    "advancingPlayersCount": 25,
+    "eliminatedPlayersCount": 30,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:14:56.742Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:15:56.080Z",
+    "questionId": 16587,
+    "question": "The “Mutant League”  video games did NOT include which sport?",
+    "answerCounts": [
+      {
+        "answerId": 51379,
+        "answer": "Hockey",
+        "correct": false,
+        "count": 3
+      },
+      {
+        "answerId": 51380,
+        "answer": "Football",
+        "correct": false,
+        "count": 6
+      },
+      {
+        "answerId": 51381,
+        "answer": "Basketball",
+        "correct": true,
+        "count": 15
+      }
+    ],
+    "advancingPlayersCount": 15,
+    "eliminatedPlayersCount": 10,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:15:56.374Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T02:17:18.127Z",
+    "questionId": 16588,
+    "question": "Which of these countries is smaller than the smallest U.S. state?",
+    "answerCounts": [
+      {
+        "answerId": 51382,
+        "answer": "Qatar",
+        "correct": false,
+        "count": 4
+      },
+      {
+        "answerId": 51383,
+        "answer": "Luxembourg",
+        "correct": true,
+        "count": 7
+      },
+      {
+        "answerId": 51384,
+        "answer": "Djibouti",
+        "correct": false,
+        "count": 4
+      }
+    ],
+    "advancingPlayersCount": 7,
+    "eliminatedPlayersCount": 8,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T02:17:18.401Z"
+  }
+]

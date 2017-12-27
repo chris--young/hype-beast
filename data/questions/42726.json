@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:12:42.358Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16747,
+    "question": "Alexander III of Macedon was most well known by which name?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51859,
+        "text": "Albert"
+      },
+      {
+        "answerId": 51860,
+        "text": "Allison"
+      },
+      {
+        "answerId": 51861,
+        "text": "Alexander the Great"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:12:42.416Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:13:33.061Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16748,
+    "question": "Which game is played with mallets and wickets?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 51862,
+        "text": "Croquet"
+      },
+      {
+        "answerId": 51863,
+        "text": "Water polo"
+      },
+      {
+        "answerId": 51864,
+        "text": "Volleyball"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:13:33.110Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:14:21.183Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16749,
+    "question": "How many time zones does the contiguous U.S. cover?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 51865,
+        "text": "4"
+      },
+      {
+        "answerId": 51866,
+        "text": "3"
+      },
+      {
+        "answerId": 51867,
+        "text": "6"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:14:21.230Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:15:17.746Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16751,
+    "question": "The process known as 'fracking' is short for which phrase?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 51871,
+        "text": "Hydraulic fracturing"
+      },
+      {
+        "answerId": 51872,
+        "text": "Faultline breaking"
+      },
+      {
+        "answerId": 51873,
+        "text": "Fracture cracking"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:15:17.846Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:16:32.644Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16750,
+    "question": "Which beverage company was the first to use Santa Claus in its national marketing?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 51868,
+        "text": "Coca-Cola"
+      },
+      {
+        "answerId": 51869,
+        "text": "White Rock Beverages"
+      },
+      {
+        "answerId": 51870,
+        "text": "RC Cola"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:16:32.687Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:17:49.354Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16752,
+    "question": "Which one of these movies is NOT about dinosaurs?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 51874,
+        "text": "Theodore Rex"
+      },
+      {
+        "answerId": 51875,
+        "text": "The Valley of Gwangi"
+      },
+      {
+        "answerId": 51876,
+        "text": "Tyrannosaur"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:17:49.392Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:19:04.888Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16753,
+    "question": "Which of these words is a portmanteau?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 51877,
+        "text": "Sunflower"
+      },
+      {
+        "answerId": 51878,
+        "text": "Procrastinate"
+      },
+      {
+        "answerId": 51879,
+        "text": "Vitamin"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:19:04.925Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:20:11.298Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16754,
+    "question": "Which of these is NOT a real component of a mechanical wristwatch?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 51880,
+        "text": "Hacking feature"
+      },
+      {
+        "answerId": 51881,
+        "text": "Wheel train"
+      },
+      {
+        "answerId": 51882,
+        "text": "Energyspring"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:20:11.378Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:21:06.773Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16755,
+    "question": "Which town used to be the most densely-packed in the world, but is now empty?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 51883,
+        "text": "Pompeii"
+      },
+      {
+        "answerId": 51884,
+        "text": "Hiroshima"
+      },
+      {
+        "answerId": 51885,
+        "text": "Hashima"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:21:06.847Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:22:04.965Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16756,
+    "question": "Which of these creatures is NOT a fish?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51886,
+        "text": "Oyster toadfish"
+      },
+      {
+        "answerId": 51887,
+        "text": "Spotcheck stargazer"
+      },
+      {
+        "answerId": 51888,
+        "text": "Ring-tailed horntooth"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:22:04.991Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:23:00.823Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16757,
+    "question": "Which of these countries initially joined the Kyoto Protocol but has not agreed to proceed to the second stage?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51889,
+        "text": "Canada"
+      },
+      {
+        "answerId": 51890,
+        "text": "Mexico"
+      },
+      {
+        "answerId": 51891,
+        "text": "Argentina"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:23:00.850Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-25T03:24:14.702Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16758,
+    "question": "Which of these ingredients is NOT found in Red Bull Simply Cola?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 51892,
+        "text": "Corn mint"
+      },
+      {
+        "answerId": 51893,
+        "text": "Grapefruit peel"
+      },
+      {
+        "answerId": 51894,
+        "text": "Galangal"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-25T03:24:14.732Z"
+  }
+]

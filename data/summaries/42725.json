@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:07:29.655Z",
+    "questionId": 16722,
+    "question": "Which of these musical acts is best known for hip-hop?",
+    "answerCounts": [
+      {
+        "answerId": 51784,
+        "answer": "Kendrick Lamar",
+        "correct": true,
+        "count": 471109
+      },
+      {
+        "answerId": 51785,
+        "answer": "Andrea Bocelli",
+        "correct": false,
+        "count": 4121
+      },
+      {
+        "answerId": 51786,
+        "answer": "Celine Dion",
+        "correct": false,
+        "count": 4412
+      }
+    ],
+    "advancingPlayersCount": 471109,
+    "eliminatedPlayersCount": 82678,
+    "youGotItRight": true,
+    "yourAnswerId": -1,
+    "savedByExtraLife": true,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:07:29.733Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:08:28.665Z",
+    "questionId": 16723,
+    "question": "A crêpe is like a thinner version of what?",
+    "answerCounts": [
+      {
+        "answerId": 51787,
+        "answer": "Pancake",
+        "correct": true,
+        "count": 432468
+      },
+      {
+        "answerId": 51788,
+        "answer": "Hamburger",
+        "correct": false,
+        "count": 984
+      },
+      {
+        "answerId": 51789,
+        "answer": "Orange",
+        "correct": false,
+        "count": 805
+      }
+    ],
+    "advancingPlayersCount": 432468,
+    "eliminatedPlayersCount": 39279,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:08:28.960Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:09:17.048Z",
+    "questionId": 16725,
+    "question": "In Charles Dickens’ “A Christmas Carol,” what was Mr. Scrooge’s first name?",
+    "answerCounts": [
+      {
+        "answerId": 51793,
+        "answer": "William",
+        "correct": false,
+        "count": 9031
+      },
+      {
+        "answerId": 51794,
+        "answer": "George",
+        "correct": false,
+        "count": 10913
+      },
+      {
+        "answerId": 51795,
+        "answer": "Ebenezer",
+        "correct": true,
+        "count": 392971
+      }
+    ],
+    "advancingPlayersCount": 392971,
+    "eliminatedPlayersCount": 39497,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:09:17.373Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:10:21.224Z",
+    "questionId": 16724,
+    "question": "In the context of audio and data storage, what does the ‘C' stand for in 'CD'?",
+    "answerCounts": [
+      {
+        "answerId": 51790,
+        "answer": "Compact",
+        "correct": true,
+        "count": 366521
+      },
+      {
+        "answerId": 51791,
+        "answer": "Concentrated",
+        "correct": false,
+        "count": 1636
+      },
+      {
+        "answerId": 51792,
+        "answer": "Computerized",
+        "correct": false,
+        "count": 4782
+      }
+    ],
+    "advancingPlayersCount": 366521,
+    "eliminatedPlayersCount": 26450,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:10:21.527Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:11:15.926Z",
+    "questionId": 16726,
+    "question": "That vertical indent between your nose and your mouth is called what?",
+    "answerCounts": [
+      {
+        "answerId": 51796,
+        "answer": "Crestling",
+        "correct": false,
+        "count": 36108
+      },
+      {
+        "answerId": 51797,
+        "answer": "Plinth",
+        "correct": false,
+        "count": 61172
+      },
+      {
+        "answerId": 51798,
+        "answer": "Philtrum",
+        "correct": true,
+        "count": 238616
+      }
+    ],
+    "advancingPlayersCount": 238616,
+    "eliminatedPlayersCount": 127905,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:11:16.140Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:12:20.485Z",
+    "questionId": 16727,
+    "question": "Which of these companies has NOT owned a majority of consumer products manufacturer Braun?",
+    "answerCounts": [
+      {
+        "answerId": 51799,
+        "answer": "Procter & Gamble",
+        "correct": false,
+        "count": 33757
+      },
+      {
+        "answerId": 51800,
+        "answer": "InBev",
+        "correct": true,
+        "count": 141531
+      },
+      {
+        "answerId": 51801,
+        "answer": "Gillette",
+        "correct": false,
+        "count": 42879
+      }
+    ],
+    "advancingPlayersCount": 141531,
+    "eliminatedPlayersCount": 97085,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:12:20.808Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:13:11.763Z",
+    "questionId": 16729,
+    "question": "The logo of which major fashion label features a mythological villain?",
+    "answerCounts": [
+      {
+        "answerId": 51805,
+        "answer": "Giorgio Armani",
+        "correct": false,
+        "count": 10651
+      },
+      {
+        "answerId": 51806,
+        "answer": "Versace",
+        "correct": true,
+        "count": 69092
+      },
+      {
+        "answerId": 51807,
+        "answer": "Hermès",
+        "correct": false,
+        "count": 53529
+      }
+    ],
+    "advancingPlayersCount": 69092,
+    "eliminatedPlayersCount": 72439,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:13:12.091Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:14:12.417Z",
+    "questionId": 16728,
+    "question": "Which of these shows includes an element of time travel?",
+    "answerCounts": [
+      {
+        "answerId": 51802,
+        "answer": "Repeat Offender",
+        "correct": false,
+        "count": 21690
+      },
+      {
+        "answerId": 51803,
+        "answer": "The Child in Time",
+        "correct": false,
+        "count": 16419
+      },
+      {
+        "answerId": 51804,
+        "answer": "Life on Mars",
+        "correct": true,
+        "count": 26798
+      }
+    ],
+    "advancingPlayersCount": 26798,
+    "eliminatedPlayersCount": 42294,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:14:12.723Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:15:05.697Z",
+    "questionId": 16730,
+    "question": "Which of these Americans cities is closest in latitude to Bermuda?",
+    "answerCounts": [
+      {
+        "answerId": 51808,
+        "answer": "Savannah, GA",
+        "correct": true,
+        "count": 13311
+      },
+      {
+        "answerId": 51809,
+        "answer": "Miami, FL",
+        "correct": false,
+        "count": 7189
+      },
+      {
+        "answerId": 51810,
+        "answer": "New Orleans, LA",
+        "correct": false,
+        "count": 4573
+      }
+    ],
+    "advancingPlayersCount": 13311,
+    "eliminatedPlayersCount": 13487,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:15:05.875Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:16:12.068Z",
+    "questionId": 16731,
+    "question": "Who of these was NOT a key figure in the Iran-Contra Affair?",
+    "answerCounts": [
+      {
+        "answerId": 51811,
+        "answer": "John Poindexter",
+        "correct": false,
+        "count": 3534
+      },
+      {
+        "answerId": 51812,
+        "answer": "James Baker",
+        "correct": true,
+        "count": 4469
+      },
+      {
+        "answerId": 51813,
+        "answer": "Manucher Ghorbanifar",
+        "correct": false,
+        "count": 4683
+      }
+    ],
+    "advancingPlayersCount": 4469,
+    "eliminatedPlayersCount": 8842,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:16:12.278Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:17:13.503Z",
+    "questionId": 16732,
+    "question": "Which of these chemicals is NOT used in dry cleaning?",
+    "answerCounts": [
+      {
+        "answerId": 51814,
+        "answer": "Perchloric acid",
+        "correct": true,
+        "count": 873
+      },
+      {
+        "answerId": 51815,
+        "answer": "Liquid silicone",
+        "correct": false,
+        "count": 2638
+      },
+      {
+        "answerId": 51816,
+        "answer": "Glycol ethers",
+        "correct": false,
+        "count": 761
+      }
+    ],
+    "advancingPlayersCount": 873,
+    "eliminatedPlayersCount": 3596,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:17:13.788Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T02:19:05.604Z",
+    "questionId": 16733,
+    "question": "A member of which of these bands plays drums on “Do They Know It's Christmas”?",
+    "answerCounts": [
+      {
+        "answerId": 51817,
+        "answer": "Duran Duran",
+        "correct": false,
+        "count": 208
+      },
+      {
+        "answerId": 51818,
+        "answer": "U2",
+        "correct": false,
+        "count": 272
+      },
+      {
+        "answerId": 51819,
+        "answer": "Genesis",
+        "correct": true,
+        "count": 339
+      }
+    ],
+    "advancingPlayersCount": 339,
+    "eliminatedPlayersCount": 534,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T02:19:05.912Z"
+  }
+]

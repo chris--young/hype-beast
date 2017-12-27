@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:32:21.235Z",
+    "questionId": 17194,
+    "question": "Liz Lemon was a character on which TV show?",
+    "answerCounts": [
+      {
+        "answerId": 53216,
+        "answer": "30 Rock",
+        "correct": true,
+        "count": 305083
+      },
+      {
+        "answerId": 53217,
+        "answer": "Monday Night Football",
+        "correct": false,
+        "count": 10302
+      },
+      {
+        "answerId": 53218,
+        "answer": "The Walking Dead",
+        "correct": false,
+        "count": 24224
+      }
+    ],
+    "advancingPlayersCount": 305083,
+    "eliminatedPlayersCount": 181998,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:32:21.576Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:33:15.058Z",
+    "questionId": 17195,
+    "question": "What lives under the bridge in “The Three Billy Goats Gruff”?",
+    "answerCounts": [
+      {
+        "answerId": 53219,
+        "answer": "Vampire",
+        "correct": false,
+        "count": 4198
+      },
+      {
+        "answerId": 53220,
+        "answer": "Anthony Kiedis",
+        "correct": false,
+        "count": 3143
+      },
+      {
+        "answerId": 53221,
+        "answer": "Troll",
+        "correct": true,
+        "count": 286110
+      }
+    ],
+    "advancingPlayersCount": 286110,
+    "eliminatedPlayersCount": 19349,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:33:15.339Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:34:06.868Z",
+    "questionId": 17196,
+    "question": "How many face cards are in a standard deck of 52 cards?",
+    "answerCounts": [
+      {
+        "answerId": 53222,
+        "answer": "8",
+        "correct": false,
+        "count": 22165
+      },
+      {
+        "answerId": 53223,
+        "answer": "16",
+        "correct": false,
+        "count": 120236
+      },
+      {
+        "answerId": 53224,
+        "answer": "12",
+        "correct": true,
+        "count": 132317
+      }
+    ],
+    "advancingPlayersCount": 132317,
+    "eliminatedPlayersCount": 153793,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:34:07.046Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:35:05.168Z",
+    "questionId": 17197,
+    "question": "Which of these companies makes airplanes?",
+    "answerCounts": [
+      {
+        "answerId": 53225,
+        "answer": "Airbus",
+        "correct": true,
+        "count": 99242
+      },
+      {
+        "answerId": 53226,
+        "answer": "Airstream",
+        "correct": false,
+        "count": 16879
+      },
+      {
+        "answerId": 53227,
+        "answer": "Aeroflot",
+        "correct": false,
+        "count": 12646
+      }
+    ],
+    "advancingPlayersCount": 99242,
+    "eliminatedPlayersCount": 33075,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:35:05.476Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:35:52.636Z",
+    "questionId": 17198,
+    "question": "The verb “heft” has which of these meanings?",
+    "answerCounts": [
+      {
+        "answerId": 53228,
+        "answer": "Lift",
+        "correct": true,
+        "count": 31684
+      },
+      {
+        "answerId": 53229,
+        "answer": "Bulk",
+        "correct": false,
+        "count": 37454
+      },
+      {
+        "answerId": 53230,
+        "answer": "Heavy",
+        "correct": false,
+        "count": 27300
+      }
+    ],
+    "advancingPlayersCount": 31684,
+    "eliminatedPlayersCount": 67558,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:35:52.952Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:36:45.252Z",
+    "questionId": 17199,
+    "question": "Which of these annual film festivals has the highest attendance?",
+    "answerCounts": [
+      {
+        "answerId": 53231,
+        "answer": "Toronto",
+        "correct": true,
+        "count": 8971
+      },
+      {
+        "answerId": 53232,
+        "answer": "Cannes",
+        "correct": false,
+        "count": 19295
+      },
+      {
+        "answerId": 53233,
+        "answer": "London",
+        "correct": false,
+        "count": 2495
+      }
+    ],
+    "advancingPlayersCount": 8971,
+    "eliminatedPlayersCount": 22713,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:36:45.657Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:37:31.043Z",
+    "questionId": 17200,
+    "question": "What is the correct spelling of this word?",
+    "answerCounts": [
+      {
+        "answerId": 53234,
+        "answer": "Conneussoir",
+        "correct": false,
+        "count": 687
+      },
+      {
+        "answerId": 53236,
+        "answer": "Conorssieur",
+        "correct": false,
+        "count": 360
+      },
+      {
+        "answerId": 53237,
+        "answer": "Connoisseur",
+        "correct": true,
+        "count": 7488
+      }
+    ],
+    "advancingPlayersCount": 7488,
+    "eliminatedPlayersCount": 1483,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:37:31.496Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:38:20.263Z",
+    "questionId": 17201,
+    "question": "Which one of these early works was written in Middle English?",
+    "answerCounts": [
+      {
+        "answerId": 53239,
+        "answer": "Oroonoko",
+        "correct": false,
+        "count": 74
+      },
+      {
+        "answerId": 53241,
+        "answer": "The Canterbury Tales",
+        "correct": true,
+        "count": 7190
+      },
+      {
+        "answerId": 53243,
+        "answer": "Moll Flanders",
+        "correct": false,
+        "count": 170
+      }
+    ],
+    "advancingPlayersCount": 7190,
+    "eliminatedPlayersCount": 298,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:38:20.536Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:39:08.761Z",
+    "questionId": 17202,
+    "question": "Which of these is NOT a part of the human eyeball?",
+    "answerCounts": [
+      {
+        "answerId": 53244,
+        "answer": "Uvea",
+        "correct": false,
+        "count": 2767
+      },
+      {
+        "answerId": 53246,
+        "answer": "Fovea",
+        "correct": false,
+        "count": 2453
+      },
+      {
+        "answerId": 53247,
+        "answer": "Oculea",
+        "correct": true,
+        "count": 1845
+      }
+    ],
+    "advancingPlayersCount": 1845,
+    "eliminatedPlayersCount": 5345,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:39:09.140Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:40:19.314Z",
+    "questionId": 17203,
+    "question": "The founder of Borders bookstore had a giant business misfire with which other venture?",
+    "answerCounts": [
+      {
+        "answerId": 53248,
+        "answer": "Clinkle",
+        "correct": false,
+        "count": 614
+      },
+      {
+        "answerId": 53250,
+        "answer": "MySpace",
+        "correct": false,
+        "count": 389
+      },
+      {
+        "answerId": 53252,
+        "answer": "Webvan",
+        "correct": true,
+        "count": 742
+      }
+    ],
+    "advancingPlayersCount": 742,
+    "eliminatedPlayersCount": 1103,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:40:19.504Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:41:16.829Z",
+    "questionId": 17204,
+    "question": "Which of these islands is NOT off the coast of Africa?",
+    "answerCounts": [
+      {
+        "answerId": 53254,
+        "answer": "Bompoka",
+        "correct": true,
+        "count": 308
+      },
+      {
+        "answerId": 53256,
+        "answer": "Mayotte",
+        "correct": false,
+        "count": 238
+      },
+      {
+        "answerId": 53258,
+        "answer": "Lanzarote",
+        "correct": false,
+        "count": 181
+      }
+    ],
+    "advancingPlayersCount": 308,
+    "eliminatedPlayersCount": 434,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:41:17.115Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-22T20:42:46.369Z",
+    "questionId": 17205,
+    "question": "Which of these enemies do not appear in World 1-1 of Super Mario Bros. on NES?",
+    "answerCounts": [
+      {
+        "answerId": 53260,
+        "answer": "Koopa Troopa",
+        "correct": false,
+        "count": 133
+      },
+      {
+        "answerId": 53261,
+        "answer": "Goomba",
+        "correct": false,
+        "count": 64
+      },
+      {
+        "answerId": 53263,
+        "answer": "Piranha Plant",
+        "correct": true,
+        "count": 102
+      }
+    ],
+    "advancingPlayersCount": 102,
+    "eliminatedPlayersCount": 206,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-22T20:42:46.531Z"
+  }
+]

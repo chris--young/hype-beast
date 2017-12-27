@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:07:14.452Z",
+    "questionId": 16759,
+    "question": "Which of these foods is NOT processed?",
+    "answerCounts": [
+      {
+        "answerId": 51895,
+        "answer": "Raw almonds",
+        "correct": true,
+        "count": 531067
+      },
+      {
+        "answerId": 51896,
+        "answer": "Bacon",
+        "correct": false,
+        "count": 15800
+      },
+      {
+        "answerId": 51897,
+        "answer": "Chicken nuggets",
+        "correct": false,
+        "count": 8352
+      }
+    ],
+    "advancingPlayersCount": 531067,
+    "eliminatedPlayersCount": 96718,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:07:14.628Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:08:18.921Z",
+    "questionId": 16771,
+    "question": "Who of these is NOT an original character from “Scooby-Doo”?",
+    "answerCounts": [
+      {
+        "answerId": 51932,
+        "answer": "Shaggy",
+        "correct": false,
+        "count": 1468
+      },
+      {
+        "answerId": 51933,
+        "answer": "Daphne",
+        "correct": false,
+        "count": 3472
+      },
+      {
+        "answerId": 51935,
+        "answer": "Zoidberg",
+        "correct": true,
+        "count": 516351
+      }
+    ],
+    "advancingPlayersCount": 516351,
+    "eliminatedPlayersCount": 15566,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:08:19.026Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:09:23.104Z",
+    "questionId": 16760,
+    "question": "What is the common plural form of octopus?",
+    "answerCounts": [
+      {
+        "answerId": 51898,
+        "answer": "Octopus",
+        "correct": false,
+        "count": 48354
+      },
+      {
+        "answerId": 51899,
+        "answer": "Octopi",
+        "correct": false,
+        "count": 396843
+      },
+      {
+        "answerId": 51900,
+        "answer": "Octopuses",
+        "correct": true,
+        "count": 63001
+      }
+    ],
+    "advancingPlayersCount": 63001,
+    "eliminatedPlayersCount": 453350,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:09:23.450Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:10:38.533Z",
+    "questionId": 16769,
+    "question": "What would make a crew “motley”?",
+    "answerCounts": [
+      {
+        "answerId": 51926,
+        "answer": "Diversity",
+        "correct": true,
+        "count": 37964
+      },
+      {
+        "answerId": 51927,
+        "answer": "Attractiveness",
+        "correct": false,
+        "count": 7709
+      },
+      {
+        "answerId": 51928,
+        "answer": "Loyalty",
+        "correct": false,
+        "count": 10167
+      }
+    ],
+    "advancingPlayersCount": 37964,
+    "eliminatedPlayersCount": 25037,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:10:38.807Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:11:31.604Z",
+    "questionId": 16761,
+    "question": "Which of these Christmas traditions predates the modern conception of Santa Claus?",
+    "answerCounts": [
+      {
+        "answerId": 51902,
+        "answer": "Radio City Xmas Spec",
+        "correct": false,
+        "count": 4567
+      },
+      {
+        "answerId": 51903,
+        "answer": "SantaCon",
+        "correct": false,
+        "count": 3449
+      },
+      {
+        "answerId": 51917,
+        "answer": "Yule Goat",
+        "correct": true,
+        "count": 28477
+      }
+    ],
+    "advancingPlayersCount": 28477,
+    "eliminatedPlayersCount": 9487,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:11:32.114Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:12:17.842Z",
+    "questionId": 16768,
+    "question": "In what game can you earn Masterpoints?",
+    "answerCounts": [
+      {
+        "answerId": 51923,
+        "answer": "Mah-jongg",
+        "correct": false,
+        "count": 3739
+      },
+      {
+        "answerId": 51924,
+        "answer": "Dungeons & Dragons",
+        "correct": false,
+        "count": 16860
+      },
+      {
+        "answerId": 51925,
+        "answer": "Bridge",
+        "correct": true,
+        "count": 7381
+      }
+    ],
+    "advancingPlayersCount": 7381,
+    "eliminatedPlayersCount": 21096,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:12:18.120Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:13:11.249Z",
+    "questionId": 16762,
+    "question": "Denzel Washington did NOT win an Oscar for which film?",
+    "answerCounts": [
+      {
+        "answerId": 51904,
+        "answer": "Glory",
+        "correct": false,
+        "count": 1845
+      },
+      {
+        "answerId": 51905,
+        "answer": "Training Day",
+        "correct": false,
+        "count": 2841
+      },
+      {
+        "answerId": 51906,
+        "answer": "Malcom X",
+        "correct": true,
+        "count": 2516
+      }
+    ],
+    "advancingPlayersCount": 2516,
+    "eliminatedPlayersCount": 4865,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:13:11.441Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:14:09.706Z",
+    "questionId": 16767,
+    "question": "What color are stop signs in Jamaica?",
+    "answerCounts": [
+      {
+        "answerId": 51921,
+        "answer": "Red",
+        "correct": true,
+        "count": 840
+      },
+      {
+        "answerId": 51922,
+        "answer": "Blue",
+        "correct": false,
+        "count": 956
+      },
+      {
+        "answerId": 51986,
+        "answer": "Green",
+        "correct": false,
+        "count": 657
+      }
+    ],
+    "advancingPlayersCount": 840,
+    "eliminatedPlayersCount": 1676,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:14:09.898Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:14:52.352Z",
+    "questionId": 16764,
+    "question": "Which of these devices does NOT use mirrors?",
+    "answerCounts": [
+      {
+        "answerId": 51911,
+        "answer": "Gyroscope",
+        "correct": true,
+        "count": 715
+      },
+      {
+        "answerId": 51912,
+        "answer": "Kaleidoscope",
+        "correct": false,
+        "count": 53
+      },
+      {
+        "answerId": 51913,
+        "answer": "Telescope",
+        "correct": false,
+        "count": 67
+      }
+    ],
+    "advancingPlayersCount": 715,
+    "eliminatedPlayersCount": 125,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:14:52.666Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:15:43.872Z",
+    "questionId": 16766,
+    "question": "Which of these shows was NOT produced by Ryan Murphy?",
+    "answerCounts": [
+      {
+        "answerId": 51918,
+        "answer": "American Crime",
+        "correct": true,
+        "count": 442
+      },
+      {
+        "answerId": 51919,
+        "answer": "American Horror Story",
+        "correct": false,
+        "count": 128
+      },
+      {
+        "answerId": 51920,
+        "answer": "Glee",
+        "correct": false,
+        "count": 132
+      }
+    ],
+    "advancingPlayersCount": 442,
+    "eliminatedPlayersCount": 273,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:15:44.009Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:16:26.459Z",
+    "questionId": 16765,
+    "question": "What state's motto is “Equality Before the Law”?",
+    "answerCounts": [
+      {
+        "answerId": 51914,
+        "answer": "Connecticut",
+        "correct": false,
+        "count": 116
+      },
+      {
+        "answerId": 51915,
+        "answer": "Nebraska",
+        "correct": true,
+        "count": 208
+      },
+      {
+        "answerId": 51916,
+        "answer": "Illinois",
+        "correct": false,
+        "count": 108
+      }
+    ],
+    "advancingPlayersCount": 208,
+    "eliminatedPlayersCount": 234,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:16:26.773Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-25T20:18:03.111Z",
+    "questionId": 16770,
+    "question": "The first ventriloquists were considered what?",
+    "answerCounts": [
+      {
+        "answerId": 51929,
+        "answer": "School teachers",
+        "correct": false,
+        "count": 24
+      },
+      {
+        "answerId": 51930,
+        "answer": "Entertainers",
+        "correct": false,
+        "count": 44
+      },
+      {
+        "answerId": 51931,
+        "answer": "Religious figures",
+        "correct": true,
+        "count": 135
+      }
+    ],
+    "advancingPlayersCount": 135,
+    "eliminatedPlayersCount": 73,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-25T20:18:03.359Z"
+  }
+]

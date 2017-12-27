@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:06:11.256Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16799,
+    "question": "The three main ingredients of which sandwich are bacon, lettuce, and tomato?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 52017,
+        "text": "BLT"
+      },
+      {
+        "answerId": 52018,
+        "text": "Sloppy Joe"
+      },
+      {
+        "answerId": 52019,
+        "text": "Peanut butter & jelly"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:06:11.292Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:06:52.443Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16798,
+    "question": "Which of these birds does NOT share its name with an MLB team?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 52014,
+        "text": "Orioles"
+      },
+      {
+        "answerId": 52015,
+        "text": "Cardinals"
+      },
+      {
+        "answerId": 52016,
+        "text": "Hummingbird"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:06:52.495Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:07:36.328Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16800,
+    "question": "What does a seismometer measure and detect?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 52020,
+        "text": "Rainfall"
+      },
+      {
+        "answerId": 52021,
+        "text": "Air pressure"
+      },
+      {
+        "answerId": 52022,
+        "text": "Earthquakes"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:07:36.375Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:08:19.629Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16801,
+    "question": "How are actors Adam Driver and Minnie Driver related?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 52023,
+        "text": "No relation"
+      },
+      {
+        "answerId": 52024,
+        "text": "Cousins"
+      },
+      {
+        "answerId": 52025,
+        "text": "Siblings"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:08:19.644Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:09:13.159Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16802,
+    "question": "Which of these is NOT a word for a European castle?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 52026,
+        "text": "Slot"
+      },
+      {
+        "answerId": 52029,
+        "text": "Castillo"
+      },
+      {
+        "answerId": 52030,
+        "text": "Casteau"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:09:13.183Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:10:12.863Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16803,
+    "question": "Justin Roiland voices which “Rick & Morty” character(s) in the animated sitcom?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 52031,
+        "text": "Rick & Morty"
+      },
+      {
+        "answerId": 52032,
+        "text": "Marty only"
+      },
+      {
+        "answerId": 52033,
+        "text": "Rick only"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:10:12.900Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:11:11.093Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16804,
+    "question": "After London opened the first electrified subway in 1890, which city was the next to follow suit?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 52034,
+        "text": "Budapest"
+      },
+      {
+        "answerId": 52035,
+        "text": "Paris"
+      },
+      {
+        "answerId": 52036,
+        "text": "New York City"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:11:11.106Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:12:08.985Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16805,
+    "question": "Which of these languages is NOT inscribed on the Rosetta Stone?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 52037,
+        "text": "Ancient Arabic"
+      },
+      {
+        "answerId": 52038,
+        "text": "Ancient Egyptian"
+      },
+      {
+        "answerId": 52039,
+        "text": "Ancient Greek"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:12:09.009Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:13:01.594Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16806,
+    "question": "Per the NFL official rulebook, a wide receiver cannot wear which number?",
+    "category": "Sports",
+    "answers": [
+      {
+        "answerId": 52040,
+        "text": "10"
+      },
+      {
+        "answerId": 52041,
+        "text": "85"
+      },
+      {
+        "answerId": 52042,
+        "text": "29"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:13:01.632Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:13:59.649Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16807,
+    "question": "Which of these is a snake classified in the genus Agkistrodon?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 52043,
+        "text": "Cottonhead"
+      },
+      {
+        "answerId": 52044,
+        "text": "Cottonwood"
+      },
+      {
+        "answerId": 52045,
+        "text": "Cottonmouth"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:13:59.684Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:14:48.251Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16808,
+    "question": "Which of these companies is still making pinball machines?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 52046,
+        "text": "Williams"
+      },
+      {
+        "answerId": 52047,
+        "text": "Bally"
+      },
+      {
+        "answerId": 52048,
+        "text": "Stern"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:14:48.286Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-26T20:15:57.133Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16809,
+    "question": "Where was the term “Rosie the Riveter” first used?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 52049,
+        "text": "Poster"
+      },
+      {
+        "answerId": 52050,
+        "text": "Film"
+      },
+      {
+        "answerId": 52051,
+        "text": "Song"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-26T20:15:57.156Z"
+  }
+]

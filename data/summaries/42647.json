@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:10:15.971Z",
+    "questionId": 16313,
+    "question": "Which of these is NOT a plant used to make tea?",
+    "answerCounts": [
+      {
+        "answerId": 50557,
+        "answer": "Red bush",
+        "correct": false,
+        "count": 12241
+      },
+      {
+        "answerId": 50558,
+        "answer": "Honeybush",
+        "correct": false,
+        "count": 8746
+      },
+      {
+        "answerId": 50559,
+        "answer": "George Bush",
+        "correct": true,
+        "count": 626871
+      }
+    ],
+    "advancingPlayersCount": 626871,
+    "eliminatedPlayersCount": 84968,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:10:19.748Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:11:14.111Z",
+    "questionId": 16311,
+    "question": "Who is currently the host of “The Tonight Show”?",
+    "answerCounts": [
+      {
+        "answerId": 50551,
+        "answer": "Jimmy Kimmel",
+        "correct": false,
+        "count": 109235
+      },
+      {
+        "answerId": 50552,
+        "answer": "Jimmy Fallon",
+        "correct": true,
+        "count": 497959
+      },
+      {
+        "answerId": 50553,
+        "answer": "MacKenzie Fallon",
+        "correct": false,
+        "count": 2270
+      }
+    ],
+    "advancingPlayersCount": 497959,
+    "eliminatedPlayersCount": 129586,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:11:14.291Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:12:11.077Z",
+    "questionId": 16314,
+    "question": "Which mountain range is the longest?",
+    "answerCounts": [
+      {
+        "answerId": 50560,
+        "answer": "Himalayas",
+        "correct": false,
+        "count": 143192
+      },
+      {
+        "answerId": 50561,
+        "answer": "Rockies",
+        "correct": false,
+        "count": 97252
+      },
+      {
+        "answerId": 50562,
+        "answer": "Andes",
+        "correct": true,
+        "count": 246259
+      }
+    ],
+    "advancingPlayersCount": 246259,
+    "eliminatedPlayersCount": 251700,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:12:11.179Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:13:09.237Z",
+    "questionId": 16312,
+    "question": "Which ancient city is said to have been founded by the legendary Romulus?",
+    "answerCounts": [
+      {
+        "answerId": 50554,
+        "answer": "Reims",
+        "correct": false,
+        "count": 19470
+      },
+      {
+        "answerId": 50555,
+        "answer": "Rhamnus",
+        "correct": false,
+        "count": 18186
+      },
+      {
+        "answerId": 50556,
+        "answer": "Rome",
+        "correct": true,
+        "count": 202168
+      }
+    ],
+    "advancingPlayersCount": 202168,
+    "eliminatedPlayersCount": 44091,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:13:09.489Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:14:07.921Z",
+    "questionId": 16316,
+    "question": "Which animal is the national symbol of Thailand?",
+    "answerCounts": [
+      {
+        "answerId": 50566,
+        "answer": "Elephant",
+        "correct": true,
+        "count": 120099
+      },
+      {
+        "answerId": 50567,
+        "answer": "Komodo dragon",
+        "correct": false,
+        "count": 20310
+      },
+      {
+        "answerId": 50568,
+        "answer": "Tiger",
+        "correct": false,
+        "count": 54479
+      }
+    ],
+    "advancingPlayersCount": 120099,
+    "eliminatedPlayersCount": 82069,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:14:08.088Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:14:53.355Z",
+    "questionId": 16315,
+    "question": "A sideways, double chevron is a punctuation mark known as what?",
+    "answerCounts": [
+      {
+        "answerId": 50563,
+        "answer": "Guillemet",
+        "correct": true,
+        "count": 54267
+      },
+      {
+        "answerId": 50564,
+        "answer": "Pilcrow",
+        "correct": false,
+        "count": 31011
+      },
+      {
+        "answerId": 50565,
+        "answer": "Asterism",
+        "correct": false,
+        "count": 30288
+      }
+    ],
+    "advancingPlayersCount": 54267,
+    "eliminatedPlayersCount": 65832,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:14:53.813Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:16:22.244Z",
+    "questionId": 16317,
+    "question": "Which of these sci-fi franchises came first?",
+    "answerCounts": [
+      {
+        "answerId": 50569,
+        "answer": "Buck Rogers",
+        "correct": true,
+        "count": 15379
+      },
+      {
+        "answerId": 50570,
+        "answer": "Flash Gordon",
+        "correct": false,
+        "count": 16389
+      },
+      {
+        "answerId": 50571,
+        "answer": "Godzilla",
+        "correct": false,
+        "count": 21507
+      }
+    ],
+    "advancingPlayersCount": 15379,
+    "eliminatedPlayersCount": 38888,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:16:22.517Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:17:25.438Z",
+    "questionId": 16320,
+    "question": "According to the FDA, which of these is considered cheese?",
+    "answerCounts": [
+      {
+        "answerId": 50578,
+        "answer": "Kraft Singles",
+        "correct": false,
+        "count": 3107
+      },
+      {
+        "answerId": 50579,
+        "answer": "Velveeta",
+        "correct": false,
+        "count": 3395
+      },
+      {
+        "answerId": 50580,
+        "answer": "Polly-O String Cheese",
+        "correct": true,
+        "count": 8251
+      }
+    ],
+    "advancingPlayersCount": 8251,
+    "eliminatedPlayersCount": 7128,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:17:25.880Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:18:13.562Z",
+    "questionId": 16319,
+    "question": "What is the origin of Radiohead's name?",
+    "answerCounts": [
+      {
+        "answerId": 50575,
+        "answer": "Talking Heads song",
+        "correct": true,
+        "count": 3003
+      },
+      {
+        "answerId": 50576,
+        "answer": "War of the Worlds",
+        "correct": false,
+        "count": 2276
+      },
+      {
+        "answerId": 50577,
+        "answer": "Andy Warhol installation",
+        "correct": false,
+        "count": 2738
+      }
+    ],
+    "advancingPlayersCount": 3003,
+    "eliminatedPlayersCount": 5248,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:18:13.909Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:19:14.543Z",
+    "questionId": 16318,
+    "question": "“Xenogenesis” is the first directing credit by which famous filmmaker?",
+    "answerCounts": [
+      {
+        "answerId": 50572,
+        "answer": "George Lucas",
+        "correct": false,
+        "count": 468
+      },
+      {
+        "answerId": 50573,
+        "answer": "Steven Spielberg",
+        "correct": false,
+        "count": 500
+      },
+      {
+        "answerId": 50574,
+        "answer": "James Cameron",
+        "correct": true,
+        "count": 1880
+      }
+    ],
+    "advancingPlayersCount": 1880,
+    "eliminatedPlayersCount": 1123,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:19:14.895Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:20:16.137Z",
+    "questionId": 16321,
+    "question": "Who is NOT part of the ownership group of the future MLS team Los Angeles FC?",
+    "answerCounts": [
+      {
+        "answerId": 50581,
+        "answer": "Landon Donovan",
+        "correct": true,
+        "count": 571
+      },
+      {
+        "answerId": 50582,
+        "answer": "Tony Robbins",
+        "correct": false,
+        "count": 818
+      },
+      {
+        "answerId": 50583,
+        "answer": "Will Ferrell",
+        "correct": false,
+        "count": 450
+      }
+    ],
+    "advancingPlayersCount": 571,
+    "eliminatedPlayersCount": 1309,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:20:16.514Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T02:22:07.025Z",
+    "questionId": 16322,
+    "question": "Which character speaks the opening monologue of “The Godfather”?",
+    "answerCounts": [
+      {
+        "answerId": 50584,
+        "answer": "Tom Hagen",
+        "correct": false,
+        "count": 157
+      },
+      {
+        "answerId": 50585,
+        "answer": "Vito Corleone",
+        "correct": false,
+        "count": 270
+      },
+      {
+        "answerId": 50586,
+        "answer": "Bonasera",
+        "correct": true,
+        "count": 107
+      }
+    ],
+    "advancingPlayersCount": 107,
+    "eliminatedPlayersCount": 464,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T02:22:07.279Z"
+  }
+]

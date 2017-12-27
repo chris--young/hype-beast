@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:06:26.938Z",
+    "questionId": 16810,
+    "question": "Which of these is a heavy metal band?",
+    "answerCounts": [
+      {
+        "answerId": 52052,
+        "answer": "The Jackson 5",
+        "correct": false,
+        "count": 5175
+      },
+      {
+        "answerId": 52053,
+        "answer": "Hanson",
+        "correct": false,
+        "count": 4292
+      },
+      {
+        "answerId": 52054,
+        "answer": "Metallica",
+        "correct": true,
+        "count": 644103
+      }
+    ],
+    "advancingPlayersCount": 644103,
+    "eliminatedPlayersCount": 76706,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:06:27.084Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:07:14.578Z",
+    "questionId": 16811,
+    "question": "Which of these is NOT a style of shirt?",
+    "answerCounts": [
+      {
+        "answerId": 52055,
+        "answer": "V-neck",
+        "correct": false,
+        "count": 859
+      },
+      {
+        "answerId": 52056,
+        "answer": "Crew neck",
+        "correct": false,
+        "count": 2986
+      },
+      {
+        "answerId": 52057,
+        "answer": "Trousers",
+        "correct": true,
+        "count": 630044
+      }
+    ],
+    "advancingPlayersCount": 630044,
+    "eliminatedPlayersCount": 15427,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:07:14.842Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:08:00.740Z",
+    "questionId": 16813,
+    "question": "Which of these fashion icons was a woman?",
+    "answerCounts": [
+      {
+        "answerId": 52061,
+        "answer": "Coco Chanel",
+        "correct": true,
+        "count": 555316
+      },
+      {
+        "answerId": 52062,
+        "answer": "Christian Dior",
+        "correct": false,
+        "count": 25996
+      },
+      {
+        "answerId": 52063,
+        "answer": "Yves Saint Laurent",
+        "correct": false,
+        "count": 32732
+      }
+    ],
+    "advancingPlayersCount": 555316,
+    "eliminatedPlayersCount": 74728,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:08:01.210Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:09:01.656Z",
+    "questionId": 16812,
+    "question": "Where do Nintendo's Mario & Luigi reside?",
+    "answerCounts": [
+      {
+        "answerId": 52058,
+        "answer": "Mushroom Kingdom",
+        "correct": true,
+        "count": 517592
+      },
+      {
+        "answerId": 52059,
+        "answer": "Wonderland",
+        "correct": false,
+        "count": 15097
+      },
+      {
+        "answerId": 52060,
+        "answer": "Raccoon City",
+        "correct": false,
+        "count": 13473
+      }
+    ],
+    "advancingPlayersCount": 517592,
+    "eliminatedPlayersCount": 37724,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:09:01.945Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:09:52.787Z",
+    "questionId": 16814,
+    "question": "What is the longest-running Toyota car model?",
+    "answerCounts": [
+      {
+        "answerId": 52064,
+        "answer": "Land Cruiser",
+        "correct": true,
+        "count": 144326
+      },
+      {
+        "answerId": 52065,
+        "answer": "Camry",
+        "correct": false,
+        "count": 318288
+      },
+      {
+        "answerId": 52066,
+        "answer": "Tacoma",
+        "correct": false,
+        "count": 44712
+      }
+    ],
+    "advancingPlayersCount": 144326,
+    "eliminatedPlayersCount": 373266,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:09:52.988Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:11:02.212Z",
+    "questionId": 16820,
+    "question": "Though not mandatory, The Hippocratic Oath is most likely to be taken by whom?",
+    "answerCounts": [
+      {
+        "answerId": 52082,
+        "answer": "Pediatrician",
+        "correct": true,
+        "count": 105453
+      },
+      {
+        "answerId": 52083,
+        "answer": "Sheriff",
+        "correct": false,
+        "count": 8732
+      },
+      {
+        "answerId": 52084,
+        "answer": "Federal judge",
+        "correct": false,
+        "count": 25042
+      }
+    ],
+    "advancingPlayersCount": 105453,
+    "eliminatedPlayersCount": 38873,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:11:02.673Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:11:56.546Z",
+    "questionId": 16815,
+    "question": "Which Sean Combs' nickname came last?",
+    "answerCounts": [
+      {
+        "answerId": 52067,
+        "answer": "Puff Daddy",
+        "correct": false,
+        "count": 5652
+      },
+      {
+        "answerId": 52068,
+        "answer": "Diddy",
+        "correct": true,
+        "count": 68091
+      },
+      {
+        "answerId": 52069,
+        "answer": "P. Diddy",
+        "correct": false,
+        "count": 30175
+      }
+    ],
+    "advancingPlayersCount": 68091,
+    "eliminatedPlayersCount": 37362,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:11:56.830Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:12:51.084Z",
+    "questionId": 16816,
+    "question": "Which president got married in the White House while in office?",
+    "answerCounts": [
+      {
+        "answerId": 52070,
+        "answer": "John Tyler",
+        "correct": false,
+        "count": 16092
+      },
+      {
+        "answerId": 52071,
+        "answer": "Grover Cleveland",
+        "correct": true,
+        "count": 33465
+      },
+      {
+        "answerId": 52072,
+        "answer": "Woodrow Wilson",
+        "correct": false,
+        "count": 16682
+      }
+    ],
+    "advancingPlayersCount": 33465,
+    "eliminatedPlayersCount": 34626,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:12:51.304Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:13:57.475Z",
+    "questionId": 16817,
+    "question": "Which of these countries produces the most wind energy?",
+    "answerCounts": [
+      {
+        "answerId": 52073,
+        "answer": "United States",
+        "correct": false,
+        "count": 6408
+      },
+      {
+        "answerId": 52074,
+        "answer": "Canada",
+        "correct": false,
+        "count": 13070
+      },
+      {
+        "answerId": 52075,
+        "answer": "China",
+        "correct": true,
+        "count": 13487
+      }
+    ],
+    "advancingPlayersCount": 13487,
+    "eliminatedPlayersCount": 19978,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:13:57.802Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:14:52.280Z",
+    "questionId": 16818,
+    "question": "What is written at the bottom of a U.S. one dollar bill?",
+    "answerCounts": [
+      {
+        "answerId": 52076,
+        "answer": "One Dollar",
+        "correct": true,
+        "count": 4146
+      },
+      {
+        "answerId": 52077,
+        "answer": "In God We Trust",
+        "correct": false,
+        "count": 4269
+      },
+      {
+        "answerId": 52078,
+        "answer": "E Pluribus Unum",
+        "correct": false,
+        "count": 4806
+      }
+    ],
+    "advancingPlayersCount": 4146,
+    "eliminatedPlayersCount": 9341,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:14:52.506Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:15:56.863Z",
+    "questionId": 16819,
+    "question": "According to Alexa, which of these .org websites has the most worldwide traffic?",
+    "answerCounts": [
+      {
+        "answerId": 52079,
+        "answer": "Mozilla.org",
+        "correct": true,
+        "count": 938
+      },
+      {
+        "answerId": 52080,
+        "answer": "Craigslist.org",
+        "correct": false,
+        "count": 1572
+      },
+      {
+        "answerId": 52081,
+        "answer": "Thepiratebay.org",
+        "correct": false,
+        "count": 1555
+      }
+    ],
+    "advancingPlayersCount": 938,
+    "eliminatedPlayersCount": 3208,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:15:57.054Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-27T02:17:31.696Z",
+    "questionId": 17169,
+    "question": "Upon his marriage to Kate Middleton, Prince William had all but which of these titles bestowed on him?",
+    "answerCounts": [
+      {
+        "answerId": 53141,
+        "answer": "Lord Buckinghamshire",
+        "correct": true,
+        "count": 148
+      },
+      {
+        "answerId": 53142,
+        "answer": "Baron Carrickfergus",
+        "correct": false,
+        "count": 450
+      },
+      {
+        "answerId": 53143,
+        "answer": "Earl of Strathearn",
+        "correct": false,
+        "count": 219
+      }
+    ],
+    "advancingPlayersCount": 148,
+    "eliminatedPlayersCount": 790,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-27T02:17:32.115Z"
+  }
+]

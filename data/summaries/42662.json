@@ -1,0 +1,365 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:07:56.946Z",
+    "questionId": 16503,
+    "question": "Which of these birds is NOT known for being trained to speak?",
+    "answerCounts": [
+      {
+        "answerId": 51127,
+        "answer": "Parrot",
+        "correct": false,
+        "count": 7767
+      },
+      {
+        "answerId": 51128,
+        "answer": "Pigeon",
+        "correct": true,
+        "count": 468781
+      },
+      {
+        "answerId": 51129,
+        "answer": "Myna",
+        "correct": false,
+        "count": 33986
+      }
+    ],
+    "advancingPlayersCount": 468781,
+    "eliminatedPlayersCount": 101975,
+    "youGotItRight": true,
+    "yourAnswerId": 51128,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:07:57.226Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:08:45.921Z",
+    "questionId": 16504,
+    "question": "Which of these apps is designed to help with travel plans?",
+    "answerCounts": [
+      {
+        "answerId": 51130,
+        "answer": "TripAdvisor",
+        "correct": true,
+        "count": 421456
+      },
+      {
+        "answerId": 51131,
+        "answer": "LastPass",
+        "correct": false,
+        "count": 3315
+      },
+      {
+        "answerId": 51132,
+        "answer": "iTunes",
+        "correct": false,
+        "count": 32809
+      }
+    ],
+    "advancingPlayersCount": 421456,
+    "eliminatedPlayersCount": 47824,
+    "youGotItRight": true,
+    "yourAnswerId": 51130,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:08:46.197Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:09:38.344Z",
+    "questionId": 16505,
+    "question": "Which of these schools is NOT a member of the Ivy League?",
+    "answerCounts": [
+      {
+        "answerId": 51133,
+        "answer": "Johns Hopkins",
+        "correct": true,
+        "count": 371008
+      },
+      {
+        "answerId": 51134,
+        "answer": "Dartmouth",
+        "correct": false,
+        "count": 39083
+      },
+      {
+        "answerId": 51135,
+        "answer": "Yale",
+        "correct": false,
+        "count": 4293
+      }
+    ],
+    "advancingPlayersCount": 371008,
+    "eliminatedPlayersCount": 50448,
+    "youGotItRight": true,
+    "yourAnswerId": 51133,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:09:38.638Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:10:29.677Z",
+    "questionId": 16506,
+    "question": "What is the capital of Kentucky?",
+    "answerCounts": [
+      {
+        "answerId": 51136,
+        "answer": "Louisville",
+        "correct": false,
+        "count": 125950
+      },
+      {
+        "answerId": 51137,
+        "answer": "Frankfort",
+        "correct": true,
+        "count": 165770
+      },
+      {
+        "answerId": 51138,
+        "answer": "Frankfurt",
+        "correct": false,
+        "count": 69947
+      }
+    ],
+    "advancingPlayersCount": 165770,
+    "eliminatedPlayersCount": 205238,
+    "youGotItRight": true,
+    "yourAnswerId": 51137,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:10:29.957Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:11:36.342Z",
+    "questionId": 16510,
+    "question": "What are the first three words in the King James Version of the Bible?",
+    "answerCounts": [
+      {
+        "answerId": 51148,
+        "answer": "In the beginning",
+        "correct": true,
+        "count": 118905
+      },
+      {
+        "answerId": 51149,
+        "answer": "The heavens declare",
+        "correct": false,
+        "count": 14527
+      },
+      {
+        "answerId": 51150,
+        "answer": "The almighty God",
+        "correct": false,
+        "count": 24022
+      }
+    ],
+    "advancingPlayersCount": 118905,
+    "eliminatedPlayersCount": 46865,
+    "youGotItRight": true,
+    "yourAnswerId": 51148,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:11:36.635Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:12:31.296Z",
+    "questionId": 16507,
+    "question": "Which word in English means the same in French, Russian, German, Afrikaans & Lithuanian?",
+    "answerCounts": [
+      {
+        "answerId": 51139,
+        "answer": "Automobile",
+        "correct": false,
+        "count": 54211
+      },
+      {
+        "answerId": 51140,
+        "answer": "Super",
+        "correct": true,
+        "count": 37005
+      },
+      {
+        "answerId": 51141,
+        "answer": "Computer",
+        "correct": false,
+        "count": 22021
+      }
+    ],
+    "advancingPlayersCount": 37005,
+    "eliminatedPlayersCount": 81900,
+    "youGotItRight": false,
+    "yourAnswerId": 51139,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:12:31.583Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:13:28.379Z",
+    "questionId": 16508,
+    "question": "Spike TV's “MXC” from the mid-2000s was a spoof of which Japanese show?",
+    "answerCounts": [
+      {
+        "answerId": 51142,
+        "answer": "Castle Invaders Go!",
+        "correct": false,
+        "count": 8627
+      },
+      {
+        "answerId": 51143,
+        "answer": "Hell Castle",
+        "correct": false,
+        "count": 3793
+      },
+      {
+        "answerId": 51144,
+        "answer": "Takeshi's Castle",
+        "correct": true,
+        "count": 21948
+      }
+    ],
+    "advancingPlayersCount": 21948,
+    "eliminatedPlayersCount": 15057,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:13:28.720Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:14:17.564Z",
+    "questionId": 16509,
+    "question": "“Oh! What a tangled web we weave when first we practice to deceive” is from which poet?",
+    "answerCounts": [
+      {
+        "answerId": 51145,
+        "answer": "Sir Walter Scott",
+        "correct": true,
+        "count": 7754
+      },
+      {
+        "answerId": 51146,
+        "answer": "Robert Browning",
+        "correct": false,
+        "count": 6364
+      },
+      {
+        "answerId": 51147,
+        "answer": "William Shakespeare",
+        "correct": false,
+        "count": 6631
+      }
+    ],
+    "advancingPlayersCount": 7754,
+    "eliminatedPlayersCount": 14194,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:14:17.875Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:15:18.989Z",
+    "questionId": 16511,
+    "question": "What was the last Canadian team to win back-to-back NHL championships?",
+    "answerCounts": [
+      {
+        "answerId": 51151,
+        "answer": "Toronto Maple Leafs",
+        "correct": false,
+        "count": 2540
+      },
+      {
+        "answerId": 51152,
+        "answer": "Edmonton Oilers",
+        "correct": true,
+        "count": 2847
+      },
+      {
+        "answerId": 51153,
+        "answer": "Montreal Canadiens",
+        "correct": false,
+        "count": 1990
+      }
+    ],
+    "advancingPlayersCount": 2847,
+    "eliminatedPlayersCount": 4907,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:15:19.464Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:16:15.644Z",
+    "questionId": 16512,
+    "question": "Which of these atmospheric layers of the Earth is the highest?",
+    "answerCounts": [
+      {
+        "answerId": 51154,
+        "answer": "Mesosphere",
+        "correct": false,
+        "count": 637
+      },
+      {
+        "answerId": 51155,
+        "answer": "Stratosphere",
+        "correct": false,
+        "count": 1477
+      },
+      {
+        "answerId": 51156,
+        "answer": "Thermosphere",
+        "correct": true,
+        "count": 604
+      }
+    ],
+    "advancingPlayersCount": 604,
+    "eliminatedPlayersCount": 2243,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:16:15.806Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-20T02:17:11.663Z",
+    "questionId": 16513,
+    "question": "Alfred HItchcock's “Psycho” was the first Hollywood film to ever to do what?",
+    "answerCounts": [
+      {
+        "answerId": 51157,
+        "answer": "Show a toilet flush",
+        "correct": true,
+        "count": 297
+      },
+      {
+        "answerId": 51158,
+        "answer": "Use human blood",
+        "correct": false,
+        "count": 149
+      },
+      {
+        "answerId": 51159,
+        "answer": "Kill its lead character",
+        "correct": false,
+        "count": 150
+      }
+    ],
+    "advancingPlayersCount": 297,
+    "eliminatedPlayersCount": 307,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-20T02:17:11.973Z"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:13:10.600Z",
+    "questionId": 16431,
+    "question": "Which of these animals is NOT a reptile?",
+    "answerCounts": [
+      {
+        "answerId": 50911,
+        "answer": "Alligator",
+        "correct": false,
+        "count": 4254
+      },
+      {
+        "answerId": 50912,
+        "answer": "Mink",
+        "correct": true,
+        "count": 338594
+      },
+      {
+        "answerId": 50913,
+        "answer": "Gecko",
+        "correct": false,
+        "count": 4661
+      }
+    ],
+    "advancingPlayersCount": 338594,
+    "eliminatedPlayersCount": 41068,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:13:10.927Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:13:52.275Z",
+    "questionId": 16432,
+    "question": "Steven Tyler is the lead singer of which music group?",
+    "answerCounts": [
+      {
+        "answerId": 50914,
+        "answer": "Boyz II Men",
+        "correct": false,
+        "count": 7161
+      },
+      {
+        "answerId": 50915,
+        "answer": "Aerosmith",
+        "correct": true,
+        "count": 304829
+      },
+      {
+        "answerId": 50916,
+        "answer": "Rolling Stones",
+        "correct": false,
+        "count": 21133
+      }
+    ],
+    "advancingPlayersCount": 304829,
+    "eliminatedPlayersCount": 35708,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:13:52.421Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:14:33.721Z",
+    "questionId": 16433,
+    "question": "According to the Bible, who closed the door of Noah's Ark?",
+    "answerCounts": [
+      {
+        "answerId": 50917,
+        "answer": "Noah",
+        "correct": false,
+        "count": 99980
+      },
+      {
+        "answerId": 50918,
+        "answer": "Moses",
+        "correct": false,
+        "count": 58554
+      },
+      {
+        "answerId": 50919,
+        "answer": "God",
+        "correct": true,
+        "count": 137835
+      }
+    ],
+    "advancingPlayersCount": 137835,
+    "eliminatedPlayersCount": 166994,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:14:34.164Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:15:23.148Z",
+    "questionId": 16434,
+    "question": "What is the top active ingredient in Cool Mint Listerine?",
+    "answerCounts": [
+      {
+        "answerId": 50920,
+        "answer": "Menthol",
+        "correct": false,
+        "count": 87284
+      },
+      {
+        "answerId": 50921,
+        "answer": "Eucalyptol",
+        "correct": true,
+        "count": 34107
+      },
+      {
+        "answerId": 50922,
+        "answer": "Mint Extract",
+        "correct": false,
+        "count": 11807
+      }
+    ],
+    "advancingPlayersCount": 34107,
+    "eliminatedPlayersCount": 103728,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:15:23.534Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:16:18.315Z",
+    "questionId": 16435,
+    "question": "Which of these is both a metal and a Kevin Bacon movie?",
+    "answerCounts": [
+      {
+        "answerId": 50923,
+        "answer": "Quicksilver",
+        "correct": true,
+        "count": 21645
+      },
+      {
+        "answerId": 50924,
+        "answer": "Gold",
+        "correct": false,
+        "count": 3775
+      },
+      {
+        "answerId": 50925,
+        "answer": "Lithium",
+        "correct": false,
+        "count": 7117
+      }
+    ],
+    "advancingPlayersCount": 21645,
+    "eliminatedPlayersCount": 12462,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:16:18.487Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:17:03.918Z",
+    "questionId": 16436,
+    "question": "Who founded America's first insurance agency?",
+    "answerCounts": [
+      {
+        "answerId": 50926,
+        "answer": "Nathaniel Cigna",
+        "correct": false,
+        "count": 6700
+      },
+      {
+        "answerId": 50927,
+        "answer": "Benjamin Franklin",
+        "correct": true,
+        "count": 10651
+      },
+      {
+        "answerId": 50928,
+        "answer": "Thomas Jefferson",
+        "correct": false,
+        "count": 3859
+      }
+    ],
+    "advancingPlayersCount": 10651,
+    "eliminatedPlayersCount": 10994,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:17:04.162Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:17:51.574Z",
+    "questionId": 16437,
+    "question": "A P/E Ratio is used to measure what?",
+    "answerCounts": [
+      {
+        "answerId": 50929,
+        "answer": "Stock value",
+        "correct": true,
+        "count": 6167
+      },
+      {
+        "answerId": 50930,
+        "answer": "Currency fluctuation",
+        "correct": false,
+        "count": 2046
+      },
+      {
+        "answerId": 50931,
+        "answer": "Export prices",
+        "correct": false,
+        "count": 2217
+      }
+    ],
+    "advancingPlayersCount": 6167,
+    "eliminatedPlayersCount": 4484,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:17:51.791Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:18:37.451Z",
+    "questionId": 16438,
+    "question": "After college, which comedian followed his father into the family oil business?",
+    "answerCounts": [
+      {
+        "answerId": 50932,
+        "answer": "Adam Sandler",
+        "correct": false,
+        "count": 1021
+      },
+      {
+        "answerId": 50933,
+        "answer": "Will Farrell",
+        "correct": false,
+        "count": 1827
+      },
+      {
+        "answerId": 50934,
+        "answer": "Chris Farley",
+        "correct": true,
+        "count": 3161
+      }
+    ],
+    "advancingPlayersCount": 3161,
+    "eliminatedPlayersCount": 3006,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:18:37.664Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:19:24.096Z",
+    "questionId": 16439,
+    "question": "What is the primary subject of The Singularity Summit?",
+    "answerCounts": [
+      {
+        "answerId": 50935,
+        "answer": "Inner peace",
+        "correct": false,
+        "count": 519
+      },
+      {
+        "answerId": 50936,
+        "answer": "Artificial Intelligence",
+        "correct": true,
+        "count": 1469
+      },
+      {
+        "answerId": 50937,
+        "answer": "Black holes",
+        "correct": false,
+        "count": 1124
+      }
+    ],
+    "advancingPlayersCount": 1469,
+    "eliminatedPlayersCount": 1692,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:19:24.564Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:20:09.953Z",
+    "questionId": 16440,
+    "question": "Which of these movies was NOT adapted from a comic book?",
+    "answerCounts": [
+      {
+        "answerId": 50938,
+        "answer": "Alien",
+        "correct": true,
+        "count": 486
+      },
+      {
+        "answerId": 50939,
+        "answer": "Road to Perdition",
+        "correct": false,
+        "count": 466
+      },
+      {
+        "answerId": 50940,
+        "answer": "Weird Science",
+        "correct": false,
+        "count": 495
+      }
+    ],
+    "advancingPlayersCount": 486,
+    "eliminatedPlayersCount": 983,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:20:10.404Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:21:02.601Z",
+    "questionId": 16441,
+    "question": "Aside from the iconic “The Birth of Venus,” in which other of these Botticelli paintings does Venus appear?",
+    "answerCounts": [
+      {
+        "answerId": 50941,
+        "answer": "The Annunciation",
+        "correct": false,
+        "count": 95
+      },
+      {
+        "answerId": 50942,
+        "answer": "Bardi Altarpiece",
+        "correct": false,
+        "count": 77
+      },
+      {
+        "answerId": 50943,
+        "answer": "Primavera",
+        "correct": true,
+        "count": 285
+      }
+    ],
+    "advancingPlayersCount": 285,
+    "eliminatedPlayersCount": 201,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:21:03.354Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-19T02:22:39.349Z",
+    "questionId": 16442,
+    "question": "In the past decade, which country changed its time zone, erasing a day off the calendar?",
+    "answerCounts": [
+      {
+        "answerId": 50944,
+        "answer": "Kiribati",
+        "correct": false,
+        "count": 46
+      },
+      {
+        "answerId": 50945,
+        "answer": "Samoa",
+        "correct": true,
+        "count": 128
+      },
+      {
+        "answerId": 50946,
+        "answer": "Fiji",
+        "correct": false,
+        "count": 102
+      }
+    ],
+    "advancingPlayersCount": 128,
+    "eliminatedPlayersCount": 157,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-19T02:22:39.539Z"
+  }
+]

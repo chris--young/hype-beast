@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:14:31.076Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16686,
+    "question": "Which of these car logos features an animal?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 51676,
+        "text": "Ford"
+      },
+      {
+        "answerId": 51677,
+        "text": "Mercedes"
+      },
+      {
+        "answerId": 51678,
+        "text": "Jaguar"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:14:31.132Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:15:12.461Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16687,
+    "question": "Which of these is NOT an option on a standard 10-speed blender?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 51679,
+        "text": "Liquify"
+      },
+      {
+        "answerId": 51680,
+        "text": "Broil"
+      },
+      {
+        "answerId": 51681,
+        "text": "Puree"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:15:12.477Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:15:59.747Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16688,
+    "question": "What is the current price of a single U.S. first-class postage stamp?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51682,
+        "text": "61 cents"
+      },
+      {
+        "answerId": 51683,
+        "text": "49 cents"
+      },
+      {
+        "answerId": 51684,
+        "text": "33 cents"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:15:59.782Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:16:56.680Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16690,
+    "question": "“Detroit Red” is a chapter title in the autobiography of what controversial figure?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 51688,
+        "text": "Malcolm X"
+      },
+      {
+        "answerId": 51689,
+        "text": "Muhammad Ali"
+      },
+      {
+        "answerId": 51690,
+        "text": "Timothy Leary"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:16:56.710Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:17:45.706Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16691,
+    "question": "Great Danes were first bred in what country?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 51691,
+        "text": "United Kingdom"
+      },
+      {
+        "answerId": 51692,
+        "text": "Germany"
+      },
+      {
+        "answerId": 51693,
+        "text": "Denmark"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:17:45.722Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:18:47.068Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16692,
+    "question": "Which of these MLB baseball teams is NOT in the American League?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 51694,
+        "text": "Houston Astros"
+      },
+      {
+        "answerId": 51695,
+        "text": "Tampa Bay Rays"
+      },
+      {
+        "answerId": 51696,
+        "text": "Milwaukee Brewers"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:18:47.122Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:19:39.672Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16693,
+    "question": "What is the highest grossing “Superman” movie worldwide?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 51697,
+        "text": "Batman v Superman"
+      },
+      {
+        "answerId": 51698,
+        "text": "Superman Returns"
+      },
+      {
+        "answerId": 51699,
+        "text": "Man of Steel"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:19:39.696Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:20:29.337Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16689,
+    "question": "Which number in craps is commonly referred to as “Yo”?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 51685,
+        "text": "11"
+      },
+      {
+        "answerId": 51686,
+        "text": "2"
+      },
+      {
+        "answerId": 51687,
+        "text": "7"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:20:29.367Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:21:20.142Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16695,
+    "question": "Which of these items is sometimes sold by the peck?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 51703,
+        "text": "Apples"
+      },
+      {
+        "answerId": 51704,
+        "text": "Firewood"
+      },
+      {
+        "answerId": 51705,
+        "text": "Hay"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:21:20.173Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:22:13.881Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16694,
+    "question": "Who narrated the U.S. version of “Planet Earth”?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 51700,
+        "text": "David Attenborough"
+      },
+      {
+        "answerId": 51701,
+        "text": "Morgan Freeman"
+      },
+      {
+        "answerId": 51702,
+        "text": "Sigourney Weaver"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:22:13.898Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:23:17.468Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16696,
+    "question": "Which of these “great” rulers ruled the longest?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 51706,
+        "text": "Frederick"
+      },
+      {
+        "answerId": 51707,
+        "text": "Catherine"
+      },
+      {
+        "answerId": 51708,
+        "text": "Peter"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:23:17.519Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-23T02:24:44.694Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16697,
+    "question": "In which film was Dwayne Johnson first credited with his given name only, sans “The Rock”?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 51709,
+        "text": "Gridiron Gang"
+      },
+      {
+        "answerId": 51710,
+        "text": "Walking Tall"
+      },
+      {
+        "answerId": 51711,
+        "text": "Longshot"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-23T02:24:44.728Z"
+  }
+]

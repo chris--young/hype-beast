@@ -1,0 +1,398 @@
+[
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:06:24.453Z",
+    "questionId": 16419,
+    "question": "If you don't want to slip on the ice, what should you put on your feet?",
+    "answerCounts": [
+      {
+        "answerId": 50875,
+        "answer": "Slippers",
+        "correct": false,
+        "count": 10688
+      },
+      {
+        "answerId": 50876,
+        "answer": "Ice grips",
+        "correct": true,
+        "count": 358964
+      },
+      {
+        "answerId": 50877,
+        "answer": "Tennis shoes",
+        "correct": false,
+        "count": 15782
+      }
+    ],
+    "advancingPlayersCount": 358964,
+    "eliminatedPlayersCount": 77799,
+    "youGotItRight": true,
+    "yourAnswerId": 50876,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:06:24.536Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:07:12.189Z",
+    "questionId": 16420,
+    "question": "In which of these sports do players NOT have to wear a helmet?",
+    "answerCounts": [
+      {
+        "answerId": 50878,
+        "answer": "Soccer",
+        "correct": true,
+        "count": 348678
+      },
+      {
+        "answerId": 50879,
+        "answer": "American Football",
+        "correct": false,
+        "count": 1086
+      },
+      {
+        "answerId": 50880,
+        "answer": "Lacrosse",
+        "correct": false,
+        "count": 2668
+      }
+    ],
+    "advancingPlayersCount": 348678,
+    "eliminatedPlayersCount": 10952,
+    "youGotItRight": true,
+    "yourAnswerId": 50878,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:07:12.373Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:07:55.212Z",
+    "questionId": 16422,
+    "question": "If Sam, Coach, or Woody served you a drink, which TV show bar would you be in?",
+    "answerCounts": [
+      {
+        "answerId": 50884,
+        "answer": "Paddy's Pub",
+        "correct": false,
+        "count": 37545
+      },
+      {
+        "answerId": 50885,
+        "answer": "Cheers",
+        "correct": true,
+        "count": 258754
+      },
+      {
+        "answerId": 50886,
+        "answer": "Moe's Tavern",
+        "correct": false,
+        "count": 42850
+      }
+    ],
+    "advancingPlayersCount": 258754,
+    "eliminatedPlayersCount": 89924,
+    "youGotItRight": true,
+    "yourAnswerId": 50885,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:07:55.340Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:08:31.050Z",
+    "questionId": 16421,
+    "question": "A species of which of these animals can be found with three toes on each foot?",
+    "answerCounts": [
+      {
+        "answerId": 50881,
+        "answer": "Sloth",
+        "correct": true,
+        "count": 229241
+      },
+      {
+        "answerId": 50882,
+        "answer": "Zebra",
+        "correct": false,
+        "count": 14363
+      },
+      {
+        "answerId": 50883,
+        "answer": "Bear",
+        "correct": false,
+        "count": 7651
+      }
+    ],
+    "advancingPlayersCount": 229241,
+    "eliminatedPlayersCount": 29513,
+    "youGotItRight": true,
+    "yourAnswerId": 50881,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:08:31.289Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:09:20.485Z",
+    "questionId": 16424,
+    "question": "Which of these is NOT a shade of blue?",
+    "answerCounts": [
+      {
+        "answerId": 50890,
+        "answer": "Coquelicot",
+        "correct": true,
+        "count": 41955
+      },
+      {
+        "answerId": 50891,
+        "answer": "Zaffre",
+        "correct": false,
+        "count": 63956
+      },
+      {
+        "answerId": 50892,
+        "answer": "Glaucous",
+        "correct": false,
+        "count": 115219
+      }
+    ],
+    "advancingPlayersCount": 41955,
+    "eliminatedPlayersCount": 187286,
+    "youGotItRight": true,
+    "yourAnswerId": 50890,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:09:20.783Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:10:13.057Z",
+    "questionId": 16425,
+    "question": "Which was the first Angry Birds game to have a boss fight level?",
+    "answerCounts": [
+      {
+        "answerId": 50893,
+        "answer": "Angry Birds Rio",
+        "correct": true,
+        "count": 14735
+      },
+      {
+        "answerId": 50894,
+        "answer": "Angry Birds 2",
+        "correct": false,
+        "count": 16170
+      },
+      {
+        "answerId": 50895,
+        "answer": "Angry Birds Epic",
+        "correct": false,
+        "count": 8291
+      }
+    ],
+    "advancingPlayersCount": 14735,
+    "eliminatedPlayersCount": 27220,
+    "youGotItRight": false,
+    "yourAnswerId": 50894,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:10:13.426Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:10:58.093Z",
+    "questionId": 16423,
+    "question": "According to the radio DJs in “Groundhog Day,” the local weather was NOT like which city?",
+    "answerCounts": [
+      {
+        "answerId": 50887,
+        "answer": "Malibu Beach",
+        "correct": false,
+        "count": 2439
+      },
+      {
+        "answerId": 50888,
+        "answer": "Miami Beach",
+        "correct": true,
+        "count": 5099
+      },
+      {
+        "answerId": 50889,
+        "answer": "Daytona Beach",
+        "correct": false,
+        "count": 6575
+      }
+    ],
+    "advancingPlayersCount": 5099,
+    "eliminatedPlayersCount": 9636,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:10:58.224Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:11:48.062Z",
+    "questionId": 16426,
+    "question": "The president of the company that invented Flickr has more recently founded which app?",
+    "answerCounts": [
+      {
+        "answerId": 50896,
+        "answer": "Airbnb",
+        "correct": false,
+        "count": 1127
+      },
+      {
+        "answerId": 50897,
+        "answer": "Lyft",
+        "correct": false,
+        "count": 1686
+      },
+      {
+        "answerId": 50898,
+        "answer": "Slack",
+        "correct": true,
+        "count": 2149
+      }
+    ],
+    "advancingPlayersCount": 2149,
+    "eliminatedPlayersCount": 2950,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:11:48.255Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:12:35.797Z",
+    "questionId": 16427,
+    "question": "With whom does Eminem square off in an off-stage rap battle in the movie “8 Mile”?",
+    "answerCounts": [
+      {
+        "answerId": 50899,
+        "answer": "Strike",
+        "correct": false,
+        "count": 493
+      },
+      {
+        "answerId": 50900,
+        "answer": "Xzibit",
+        "correct": true,
+        "count": 1206
+      },
+      {
+        "answerId": 50901,
+        "answer": "DJ Head",
+        "correct": false,
+        "count": 355
+      }
+    ],
+    "advancingPlayersCount": 1206,
+    "eliminatedPlayersCount": 943,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:12:36.079Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:13:27.292Z",
+    "questionId": 16428,
+    "question": "Which Instagram filter is named after a photographer?",
+    "answerCounts": [
+      {
+        "answerId": 50902,
+        "answer": "Juno",
+        "correct": false,
+        "count": 453
+      },
+      {
+        "answerId": 50903,
+        "answer": "Rise",
+        "correct": true,
+        "count": 165
+      },
+      {
+        "answerId": 50904,
+        "answer": "Ludwig",
+        "correct": false,
+        "count": 584
+      }
+    ],
+    "advancingPlayersCount": 165,
+    "eliminatedPlayersCount": 1041,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:13:27.375Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:14:31.784Z",
+    "questionId": 16429,
+    "question": "What leader at Netscape & Mozilla was one of the first women inducted into the Internet Hall of Fame?",
+    "answerCounts": [
+      {
+        "answerId": 50905,
+        "answer": "Mitchell Baker",
+        "correct": true,
+        "count": 50
+      },
+      {
+        "answerId": 50906,
+        "answer": "Karen Banks",
+        "correct": false,
+        "count": 50
+      },
+      {
+        "answerId": 50907,
+        "answer": "Tracy LaQuey Parker",
+        "correct": false,
+        "count": 54
+      }
+    ],
+    "advancingPlayersCount": 50,
+    "eliminatedPlayersCount": 115,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:14:32.027Z"
+  },
+  {
+    "type": "questionSummary",
+    "ts": "2017-12-18T20:15:58.351Z",
+    "questionId": 16430,
+    "question": "Starting with $1 and doubling it daily, how long would it take to equal the world's money value?",
+    "answerCounts": [
+      {
+        "answerId": 50908,
+        "answer": "120 days",
+        "correct": false,
+        "count": 21
+      },
+      {
+        "answerId": 50909,
+        "answer": "48 days",
+        "correct": true,
+        "count": 18
+      },
+      {
+        "answerId": 50910,
+        "answer": "422 days",
+        "correct": false,
+        "count": 5
+      }
+    ],
+    "advancingPlayersCount": 18,
+    "eliminatedPlayersCount": 32,
+    "youGotItRight": false,
+    "yourAnswerId": -1,
+    "savedByExtraLife": false,
+    "extraLivesRemaining": 0,
+    "sent": "2017-12-18T20:15:58.592Z"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:07:15.962Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16127,
+    "question": "Which of these is NOT part of Disney's Magic Kingdom?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 49999,
+        "text": "Cleveland"
+      },
+      {
+        "answerId": 50000,
+        "text": "Adventureland"
+      },
+      {
+        "answerId": 50001,
+        "text": "Fantasyland"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:07:15.984Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:08:04.560Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16128,
+    "question": "In blackjack, basic strategy states a player should always split aces and what?",
+    "category": "Games",
+    "answers": [
+      {
+        "answerId": 50002,
+        "text": "Eights"
+      },
+      {
+        "answerId": 50003,
+        "text": "Tens"
+      },
+      {
+        "answerId": 50004,
+        "text": "Fives"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:08:04.583Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:08:59.547Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16129,
+    "question": "Which of these articles of clothing is associated with grunge?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 50005,
+        "text": "Flannel shirt"
+      },
+      {
+        "answerId": 50006,
+        "text": "Poodle skirt"
+      },
+      {
+        "answerId": 50007,
+        "text": "Zoot suit"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:08:59.591Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:09:46.697Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16133,
+    "question": "What is a ramekin?",
+    "category": "Food & Drink",
+    "answers": [
+      {
+        "answerId": 50017,
+        "text": "Mask"
+      },
+      {
+        "answerId": 50018,
+        "text": "Fancy bib"
+      },
+      {
+        "answerId": 50019,
+        "text": "Baking dish"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:09:46.720Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:10:35.444Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16130,
+    "question": "Which of these cities has NOT spawned a “NCIS” spin-off?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 50008,
+        "text": "Miami"
+      },
+      {
+        "answerId": 50009,
+        "text": "Los Angeles"
+      },
+      {
+        "answerId": 50010,
+        "text": "New Orleans"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:10:35.451Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:11:31.516Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16132,
+    "question": "Which of these actresses is a natural blonde?",
+    "category": "Entertainment",
+    "answers": [
+      {
+        "answerId": 50014,
+        "text": "Anne Hathaway"
+      },
+      {
+        "answerId": 50015,
+        "text": "Sofia Vergara"
+      },
+      {
+        "answerId": 50016,
+        "text": "Jessica Alba"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:11:31.535Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:12:20.121Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16135,
+    "question": "Which of these high-end department stores has only one location?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 50023,
+        "text": "Saks Fifth Avenue"
+      },
+      {
+        "answerId": 50024,
+        "text": "Bergdorf Goodman"
+      },
+      {
+        "answerId": 50025,
+        "text": "Neiman Marcus"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:12:20.185Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:13:18.024Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16131,
+    "question": "What was decided in the Supreme Court case Obergefell v. Hodges?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 50011,
+        "text": "Affirmative Action"
+      },
+      {
+        "answerId": 50012,
+        "text": "Marijuana"
+      },
+      {
+        "answerId": 50013,
+        "text": "Same sex marriage"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:13:18.038Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:14:15.294Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16134,
+    "question": "Which of these capital cities is closest to the equator?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 50020,
+        "text": "Nairobi"
+      },
+      {
+        "answerId": 50021,
+        "text": "Jakarta"
+      },
+      {
+        "answerId": 50022,
+        "text": "Bogota"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:14:15.327Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:15:15.127Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16142,
+    "question": "Which of these Apple computer models debuted first?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 50044,
+        "text": "Apple III"
+      },
+      {
+        "answerId": 50045,
+        "text": "Apple IIc"
+      },
+      {
+        "answerId": 50046,
+        "text": "Apple IIe"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:15:15.141Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:16:15.751Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16144,
+    "question": "The Non-Performer category in the Rock & Roll Hall of Fame is named for whom?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 50050,
+        "text": "Clive Davis"
+      },
+      {
+        "answerId": 50051,
+        "text": "Ahmet Ertegun"
+      },
+      {
+        "answerId": 50052,
+        "text": "Alan Freed"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:16:15.783Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T20:17:43.688Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16149,
+    "question": "The height difference between the current World's Tallest & Shortest Living Men is roughly how much?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 50065,
+        "text": "7 feet 2 inches"
+      },
+      {
+        "answerId": 50066,
+        "text": "6 feet 5 inches"
+      },
+      {
+        "answerId": 50067,
+        "text": "6 feet 0 inches"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-19T20:17:43.723Z"
+  }
+]

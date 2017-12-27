@@ -1,0 +1,314 @@
+[
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:12:44.429Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16431,
+    "question": "Which of these animals is NOT a reptile?",
+    "category": "Nature",
+    "answers": [
+      {
+        "answerId": 50911,
+        "text": "Alligator"
+      },
+      {
+        "answerId": 50912,
+        "text": "Mink"
+      },
+      {
+        "answerId": 50913,
+        "text": "Gecko"
+      }
+    ],
+    "questionNumber": 1,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:12:44.469Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:13:20.996Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16432,
+    "question": "Steven Tyler is the lead singer of which music group?",
+    "category": "Music",
+    "answers": [
+      {
+        "answerId": 50914,
+        "text": "Boyz II Men"
+      },
+      {
+        "answerId": 50915,
+        "text": "Aerosmith"
+      },
+      {
+        "answerId": 50916,
+        "text": "Rolling Stones"
+      }
+    ],
+    "questionNumber": 2,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:13:21.047Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:14:04.393Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16433,
+    "question": "According to the Bible, who closed the door of Noah's Ark?",
+    "category": "Literature ",
+    "answers": [
+      {
+        "answerId": 50917,
+        "text": "Noah"
+      },
+      {
+        "answerId": 50918,
+        "text": "Moses"
+      },
+      {
+        "answerId": 50919,
+        "text": "God"
+      }
+    ],
+    "questionNumber": 3,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:14:04.426Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:14:55.682Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16434,
+    "question": "What is the top active ingredient in Cool Mint Listerine?",
+    "category": "Educational",
+    "answers": [
+      {
+        "answerId": 50920,
+        "text": "Menthol"
+      },
+      {
+        "answerId": 50921,
+        "text": "Eucalyptol"
+      },
+      {
+        "answerId": 50922,
+        "text": "Mint Extract"
+      }
+    ],
+    "questionNumber": 4,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:14:55.713Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:15:47.244Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16435,
+    "question": "Which of these is both a metal and a Kevin Bacon movie?",
+    "category": "Science ",
+    "answers": [
+      {
+        "answerId": 50923,
+        "text": "Quicksilver"
+      },
+      {
+        "answerId": 50924,
+        "text": "Gold"
+      },
+      {
+        "answerId": 50925,
+        "text": "Lithium"
+      }
+    ],
+    "questionNumber": 5,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:15:47.271Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:16:31.247Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16436,
+    "question": "Who founded America's first insurance agency?",
+    "category": "History",
+    "answers": [
+      {
+        "answerId": 50926,
+        "text": "Nathaniel Cigna"
+      },
+      {
+        "answerId": 50927,
+        "text": "Benjamin Franklin"
+      },
+      {
+        "answerId": 50928,
+        "text": "Thomas Jefferson"
+      }
+    ],
+    "questionNumber": 6,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:16:31.279Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:17:19.708Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16437,
+    "question": "A P/E Ratio is used to measure what?",
+    "category": "Business",
+    "answers": [
+      {
+        "answerId": 50929,
+        "text": "Stock value"
+      },
+      {
+        "answerId": 50930,
+        "text": "Currency fluctuation"
+      },
+      {
+        "answerId": 50931,
+        "text": "Export prices"
+      }
+    ],
+    "questionNumber": 7,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:17:19.761Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:18:06.262Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16438,
+    "question": "After college, which comedian followed his father into the family oil business?",
+    "category": "TV",
+    "answers": [
+      {
+        "answerId": 50932,
+        "text": "Adam Sandler"
+      },
+      {
+        "answerId": 50933,
+        "text": "Will Farrell"
+      },
+      {
+        "answerId": 50934,
+        "text": "Chris Farley"
+      }
+    ],
+    "questionNumber": 8,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:18:06.300Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:18:56.593Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16439,
+    "question": "What is the primary subject of The Singularity Summit?",
+    "category": "Tech",
+    "answers": [
+      {
+        "answerId": 50935,
+        "text": "Inner peace"
+      },
+      {
+        "answerId": 50936,
+        "text": "Artificial Intelligence"
+      },
+      {
+        "answerId": 50937,
+        "text": "Black holes"
+      }
+    ],
+    "questionNumber": 9,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:18:56.627Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:19:44.753Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16440,
+    "question": "Which of these movies was NOT adapted from a comic book?",
+    "category": "Movies",
+    "answers": [
+      {
+        "answerId": 50938,
+        "text": "Alien"
+      },
+      {
+        "answerId": 50939,
+        "text": "Road to Perdition"
+      },
+      {
+        "answerId": 50940,
+        "text": "Weird Science"
+      }
+    ],
+    "questionNumber": 10,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:19:44.828Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:20:28.842Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16441,
+    "question": "Aside from the iconic “The Birth of Venus,” in which other of these Botticelli paintings does Venus appear?",
+    "category": "Art & Design",
+    "answers": [
+      {
+        "answerId": 50941,
+        "text": "The Annunciation"
+      },
+      {
+        "answerId": 50942,
+        "text": "Bardi Altarpiece"
+      },
+      {
+        "answerId": 50943,
+        "text": "Primavera"
+      }
+    ],
+    "questionNumber": 11,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:20:28.906Z"
+  },
+  {
+    "type": "question",
+    "ts": "2017-12-19T02:21:43.969Z",
+    "totalTimeMs": 10000,
+    "timeLeftMs": 10000,
+    "questionId": 16442,
+    "question": "In the past decade, which country changed its time zone, erasing a day off the calendar?",
+    "category": "Geography",
+    "answers": [
+      {
+        "answerId": 50944,
+        "text": "Kiribati"
+      },
+      {
+        "answerId": 50945,
+        "text": "Samoa"
+      },
+      {
+        "answerId": 50946,
+        "text": "Fiji"
+      }
+    ],
+    "questionNumber": 12,
+    "questionCount": 12,
+    "sent": "2017-12-19T02:21:44.009Z"
+  }
+]

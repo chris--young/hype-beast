@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const VError = require('verror');
+const request = require('request');
 const cache = require('../data/cache.json');
 const { debug } = require('../common.js');
 

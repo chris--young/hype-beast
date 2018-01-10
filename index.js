@@ -28,6 +28,13 @@ const history = [0, 0, 0];
 	let show = null;
 
 	try {
+		await makeItRain();
+		log('Successfully made it rain');
+	} catch (e) {
+		warn('Failed to make it rain', e);
+	}
+
+	try {
 		show = await getShow();
 	} catch (e) {
 		exit(2, 'Failed to get show data', e);
@@ -163,4 +170,38 @@ function parseToken(bearer) {
 	} catch (e) {
 		throw new VError(e, `Failed to parse token: ${bearer}`);;
 	}
+}
+
+function makeItRain() {
+	return new Promise((resolve, reject) => {
+		const opts = {
+			gzip: true,
+			proxy: PROXY,
+			method: 'POST',
+			url: `https://api-quiz.hype.space/easter-eggs/makeItRain`,
+			headers: {
+				Host: 'api-quiz.hype.space',
+				'Accept-Encoding': 'br, gzip, deflate',
+				'Content-Length': 0,
+				Connection: 'keep-alive',
+				Accept: '*/*',
+				'User-Agent': 'hq-viewer/1.2.4 (iPhone; iOS 11.1.2; Scale/3.00)',
+				'Accept-Language': 'en-US;q=1, es-MX;q=0.9',
+				Pragma: 'no-cache',
+				'Cache-Control': 'no-cache',
+				Authorization: `Bearer ${AUTH_TOKEN}`,
+				'x-hq-client': 'iOS/1.2.4 b59'
+			}
+		};
+
+		request(opts, (err, res, body) => {
+			if (err)
+				return reject(new VError(err, 'Failed to make request'), null);
+
+			if (res.statusCode !== 200)
+				return reject(new VError(`Got bad status making it rain: ${res.statusCode}`));
+
+			resolve(body);
+		});
+	});
 }
